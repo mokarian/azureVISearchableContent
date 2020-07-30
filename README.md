@@ -64,7 +64,7 @@ Now that you have the data in your local machine, you can create a search index 
 Run [search-client.py](client/search-client.py) which performs teh followings:
 
 - Creates a search index (using [index-schema.json](client/index-schema.json) file) 
-- reads JSOn files from [files/blob-files](client/files/blob-files)
+- reads JSON files from [files/blob-files](client/files/blob-files)
 - Using Parser class parses each json file and creates list of created intervals
 - Upload the data into azure search index 
 
