@@ -52,7 +52,7 @@ For instance if a video duration is **00:20:10** , using **10** seconds interval
 
 To read  the JSON files from the blob:
 
-- make sure the [config.yml](config/config.yml) has required  values to connect to the storage account.
+- Make sure the [config.yml](config/config.yml) has required  values to connect to the storage account.
 - Run the [storage-client.py](client/storage-client.py) script
 
 This will read the data from a container into your local machine
@@ -64,7 +64,7 @@ Now that you have the data in your local machine, you can create a search index 
 Run [search-client.py](client/search-client.py) which performs teh followings:
 
 - Creates a search index (using [index-schema.json](client/index-schema.json) file) 
-- reads JSON files from [files/blob-files](client/files/blob-files)
+- Reads JSON files from [files/blob-files](client/files/blob-files)
 - Using Parser class parses each json file and creates list of created intervals
 - Upload the data into azure search index 
 
