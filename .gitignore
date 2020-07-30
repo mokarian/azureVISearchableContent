@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#pycharm
+.idea/
+
+# files
+VIIntervalParser/client/files/blob-files/
+VIIntervalParser/client/files/processed/

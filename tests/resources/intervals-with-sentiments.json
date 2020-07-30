@@ -1,0 +1,1490 @@
+{
+  "0": {
+    "id": "33a24ef09f-0",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:10"
+  },
+  "10000": {
+    "id": "33a24ef09f-1",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:10",
+    "endTime": "00:00:20"
+  },
+  "20000": {
+    "id": "33a24ef09f-2",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:20",
+    "endTime": "00:00:30"
+  },
+  "30000": {
+    "id": "33a24ef09f-3",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:30",
+    "endTime": "00:00:40"
+  },
+  "40000": {
+    "id": "33a24ef09f-4",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:40",
+    "endTime": "00:00:50"
+  },
+  "50000": {
+    "id": "33a24ef09f-5",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:50",
+    "endTime": "00:01:00"
+  },
+  "60000": {
+    "id": "33a24ef09f-6",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:00",
+    "endTime": "00:01:10"
+  },
+  "70000": {
+    "id": "33a24ef09f-7",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:10",
+    "endTime": "00:01:20"
+  },
+  "80000": {
+    "id": "33a24ef09f-8",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:20",
+    "endTime": "00:01:30"
+  },
+  "90000": {
+    "id": "33a24ef09f-9",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:30",
+    "endTime": "00:01:40"
+  },
+  "100000": {
+    "id": "33a24ef09f-10",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:40",
+    "endTime": "00:01:50"
+  },
+  "110000": {
+    "id": "33a24ef09f-11",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:50",
+    "endTime": "00:02:00"
+  },
+  "120000": {
+    "id": "33a24ef09f-12",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:00",
+    "endTime": "00:02:10"
+  },
+  "130000": {
+    "id": "33a24ef09f-13",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:10",
+    "endTime": "00:02:20"
+  },
+  "140000": {
+    "id": "33a24ef09f-14",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:20",
+    "endTime": "00:02:30"
+  },
+  "150000": {
+    "id": "33a24ef09f-15",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:30",
+    "endTime": "00:02:40"
+  },
+  "160000": {
+    "id": "33a24ef09f-16",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:40",
+    "endTime": "00:02:50"
+  },
+  "170000": {
+    "id": "33a24ef09f-17",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:50",
+    "endTime": "00:03:00"
+  },
+  "180000": {
+    "id": "33a24ef09f-18",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:00",
+    "endTime": "00:03:10"
+  },
+  "190000": {
+    "id": "33a24ef09f-19",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:10",
+    "endTime": "00:03:20"
+  },
+  "200000": {
+    "id": "33a24ef09f-20",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:20",
+    "endTime": "00:03:30"
+  },
+  "210000": {
+    "id": "33a24ef09f-21",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:30",
+    "endTime": "00:03:40"
+  },
+  "220000": {
+    "id": "33a24ef09f-22",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:40",
+    "endTime": "00:03:50"
+  },
+  "230000": {
+    "id": "33a24ef09f-23",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:50",
+    "endTime": "00:04:00"
+  },
+  "240000": {
+    "id": "33a24ef09f-24",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:00",
+    "endTime": "00:04:10"
+  },
+  "250000": {
+    "id": "33a24ef09f-25",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:10",
+    "endTime": "00:04:20"
+  },
+  "260000": {
+    "id": "33a24ef09f-26",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:20",
+    "endTime": "00:04:30"
+  },
+  "270000": {
+    "id": "33a24ef09f-27",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:30",
+    "endTime": "00:04:40"
+  },
+  "280000": {
+    "id": "33a24ef09f-28",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:40",
+    "endTime": "00:04:50"
+  },
+  "290000": {
+    "id": "33a24ef09f-29",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:50",
+    "endTime": "00:05:00"
+  },
+  "300000": {
+    "id": "33a24ef09f-30",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:00",
+    "endTime": "00:05:10"
+  },
+  "310000": {
+    "id": "33a24ef09f-31",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:10",
+    "endTime": "00:05:20"
+  },
+  "320000": {
+    "id": "33a24ef09f-32",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:20",
+    "endTime": "00:05:30"
+  },
+  "330000": {
+    "id": "33a24ef09f-33",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:30",
+    "endTime": "00:05:40"
+  },
+  "340000": {
+    "id": "33a24ef09f-34",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:40",
+    "endTime": "00:05:50"
+  },
+  "350000": {
+    "id": "33a24ef09f-35",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:50",
+    "endTime": "00:06:00"
+  },
+  "360000": {
+    "id": "33a24ef09f-36",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:00",
+    "endTime": "00:06:10",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:06:03.415\", \"end\": \"0:06:05.813\"}"
+      }
+    ]
+  },
+  "370000": {
+    "id": "33a24ef09f-37",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:10",
+    "endTime": "00:06:20"
+  },
+  "380000": {
+    "id": "33a24ef09f-38",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:20",
+    "endTime": "00:06:30"
+  },
+  "390000": {
+    "id": "33a24ef09f-39",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:30",
+    "endTime": "00:06:40"
+  },
+  "400000": {
+    "id": "33a24ef09f-40",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:40",
+    "endTime": "00:06:50",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:06:46.262\", \"end\": \"0:06:48.83\"}"
+      }
+    ]
+  },
+  "410000": {
+    "id": "33a24ef09f-41",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:50",
+    "endTime": "00:07:00"
+  },
+  "420000": {
+    "id": "33a24ef09f-42",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:00",
+    "endTime": "00:07:10"
+  },
+  "430000": {
+    "id": "33a24ef09f-43",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:10",
+    "endTime": "00:07:20"
+  },
+  "440000": {
+    "id": "33a24ef09f-44",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:20",
+    "endTime": "00:07:30"
+  },
+  "450000": {
+    "id": "33a24ef09f-45",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:30",
+    "endTime": "00:07:40"
+  },
+  "460000": {
+    "id": "33a24ef09f-46",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:40",
+    "endTime": "00:07:50"
+  },
+  "470000": {
+    "id": "33a24ef09f-47",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:50",
+    "endTime": "00:08:00"
+  },
+  "480000": {
+    "id": "33a24ef09f-48",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:00",
+    "endTime": "00:08:10",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:08:09.501\", \"end\": \"0:08:12.15\"}"
+      }
+    ]
+  },
+  "490000": {
+    "id": "33a24ef09f-49",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:10",
+    "endTime": "00:08:20",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:08:09.501\", \"end\": \"0:08:12.15\"}"
+      }
+    ]
+  },
+  "500000": {
+    "id": "33a24ef09f-50",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:20",
+    "endTime": "00:08:30"
+  },
+  "510000": {
+    "id": "33a24ef09f-51",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:30",
+    "endTime": "00:08:40"
+  },
+  "520000": {
+    "id": "33a24ef09f-52",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:40",
+    "endTime": "00:08:50"
+  },
+  "530000": {
+    "id": "33a24ef09f-53",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:50",
+    "endTime": "00:09:00"
+  },
+  "540000": {
+    "id": "33a24ef09f-54",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:00",
+    "endTime": "00:09:10"
+  },
+  "550000": {
+    "id": "33a24ef09f-55",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:10",
+    "endTime": "00:09:20"
+  },
+  "560000": {
+    "id": "33a24ef09f-56",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:20",
+    "endTime": "00:09:30",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:09:21.82\", \"end\": \"0:09:24.367\"}"
+      }
+    ]
+  },
+  "570000": {
+    "id": "33a24ef09f-57",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:30",
+    "endTime": "00:09:40"
+  },
+  "580000": {
+    "id": "33a24ef09f-58",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:40",
+    "endTime": "00:09:50"
+  },
+  "590000": {
+    "id": "33a24ef09f-59",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:50",
+    "endTime": "00:10:00"
+  },
+  "600000": {
+    "id": "33a24ef09f-60",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:00",
+    "endTime": "00:10:10"
+  },
+  "610000": {
+    "id": "33a24ef09f-61",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:10",
+    "endTime": "00:10:20"
+  },
+  "620000": {
+    "id": "33a24ef09f-62",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:20",
+    "endTime": "00:10:30"
+  },
+  "630000": {
+    "id": "33a24ef09f-63",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:30",
+    "endTime": "00:10:40"
+  },
+  "640000": {
+    "id": "33a24ef09f-64",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:40",
+    "endTime": "00:10:50"
+  },
+  "650000": {
+    "id": "33a24ef09f-65",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:50",
+    "endTime": "00:11:00"
+  },
+  "660000": {
+    "id": "33a24ef09f-66",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:00",
+    "endTime": "00:11:10"
+  },
+  "670000": {
+    "id": "33a24ef09f-67",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:10",
+    "endTime": "00:11:20"
+  },
+  "680000": {
+    "id": "33a24ef09f-68",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:20",
+    "endTime": "00:11:30"
+  },
+  "690000": {
+    "id": "33a24ef09f-69",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:30",
+    "endTime": "00:11:40"
+  },
+  "700000": {
+    "id": "33a24ef09f-70",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:40",
+    "endTime": "00:11:50"
+  },
+  "710000": {
+    "id": "33a24ef09f-71",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:50",
+    "endTime": "00:12:00",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:11:53.943\", \"end\": \"0:11:55.75\"}"
+      }
+    ]
+  },
+  "720000": {
+    "id": "33a24ef09f-72",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:00",
+    "endTime": "00:12:10"
+  },
+  "730000": {
+    "id": "33a24ef09f-73",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:10",
+    "endTime": "00:12:20"
+  },
+  "740000": {
+    "id": "33a24ef09f-74",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:20",
+    "endTime": "00:12:30"
+  },
+  "750000": {
+    "id": "33a24ef09f-75",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:30",
+    "endTime": "00:12:40"
+  },
+  "760000": {
+    "id": "33a24ef09f-76",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:40",
+    "endTime": "00:12:50"
+  },
+  "770000": {
+    "id": "33a24ef09f-77",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:50",
+    "endTime": "00:13:00",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:12:53.7\", \"end\": \"0:12:58.096\"}"
+      }
+    ]
+  },
+  "780000": {
+    "id": "33a24ef09f-78",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:00",
+    "endTime": "00:13:10"
+  },
+  "790000": {
+    "id": "33a24ef09f-79",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:10",
+    "endTime": "00:13:20"
+  },
+  "800000": {
+    "id": "33a24ef09f-80",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:20",
+    "endTime": "00:13:30"
+  },
+  "810000": {
+    "id": "33a24ef09f-81",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:30",
+    "endTime": "00:13:40"
+  },
+  "820000": {
+    "id": "33a24ef09f-82",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:40",
+    "endTime": "00:13:50"
+  },
+  "830000": {
+    "id": "33a24ef09f-83",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:50",
+    "endTime": "00:14:00"
+  },
+  "840000": {
+    "id": "33a24ef09f-84",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:00",
+    "endTime": "00:14:10"
+  },
+  "850000": {
+    "id": "33a24ef09f-85",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:10",
+    "endTime": "00:14:20"
+  },
+  "860000": {
+    "id": "33a24ef09f-86",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:20",
+    "endTime": "00:14:30"
+  },
+  "870000": {
+    "id": "33a24ef09f-87",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:30",
+    "endTime": "00:14:40"
+  },
+  "880000": {
+    "id": "33a24ef09f-88",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:40",
+    "endTime": "00:14:50"
+  },
+  "890000": {
+    "id": "33a24ef09f-89",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:50",
+    "endTime": "00:15:00"
+  },
+  "900000": {
+    "id": "33a24ef09f-90",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:00",
+    "endTime": "00:15:10"
+  },
+  "910000": {
+    "id": "33a24ef09f-91",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:10",
+    "endTime": "00:15:20"
+  },
+  "920000": {
+    "id": "33a24ef09f-92",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:20",
+    "endTime": "00:15:30"
+  },
+  "930000": {
+    "id": "33a24ef09f-93",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:30",
+    "endTime": "00:15:40"
+  },
+  "940000": {
+    "id": "33a24ef09f-94",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:40",
+    "endTime": "00:15:50"
+  },
+  "950000": {
+    "id": "33a24ef09f-95",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:50",
+    "endTime": "00:16:00"
+  },
+  "960000": {
+    "id": "33a24ef09f-96",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:00",
+    "endTime": "00:16:10"
+  },
+  "970000": {
+    "id": "33a24ef09f-97",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:10",
+    "endTime": "00:16:20"
+  },
+  "980000": {
+    "id": "33a24ef09f-98",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:20",
+    "endTime": "00:16:30"
+  },
+  "990000": {
+    "id": "33a24ef09f-99",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:30",
+    "endTime": "00:16:40",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:16:37.92\", \"end\": \"0:16:40.21\"}"
+      }
+    ]
+  },
+  "1000000": {
+    "id": "33a24ef09f-100",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:40",
+    "endTime": "00:16:50",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:16:37.92\", \"end\": \"0:16:40.21\"}"
+      }
+    ]
+  },
+  "1010000": {
+    "id": "33a24ef09f-101",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:50",
+    "endTime": "00:17:00"
+  },
+  "1020000": {
+    "id": "33a24ef09f-102",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:00",
+    "endTime": "00:17:10",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:17:09.55\", \"end\": \"0:17:13.67\"}"
+      }
+    ]
+  },
+  "1030000": {
+    "id": "33a24ef09f-103",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:10",
+    "endTime": "00:17:20",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:17:09.55\", \"end\": \"0:17:13.67\"}"
+      }
+    ]
+  },
+  "1040000": {
+    "id": "33a24ef09f-104",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:20",
+    "endTime": "00:17:30"
+  },
+  "1050000": {
+    "id": "33a24ef09f-105",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:30",
+    "endTime": "00:17:40"
+  },
+  "1060000": {
+    "id": "33a24ef09f-106",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:40",
+    "endTime": "00:17:50",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:17:36.89\", \"end\": \"0:17:48.069\"}"
+      }
+    ]
+  },
+  "1070000": {
+    "id": "33a24ef09f-107",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:50",
+    "endTime": "00:18:00"
+  },
+  "1080000": {
+    "id": "33a24ef09f-108",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:00",
+    "endTime": "00:18:10"
+  },
+  "1090000": {
+    "id": "33a24ef09f-109",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:10",
+    "endTime": "00:18:20"
+  },
+  "1100000": {
+    "id": "33a24ef09f-110",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:20",
+    "endTime": "00:18:30"
+  },
+  "1110000": {
+    "id": "33a24ef09f-111",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:30",
+    "endTime": "00:18:40"
+  },
+  "1120000": {
+    "id": "33a24ef09f-112",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:40",
+    "endTime": "00:18:50"
+  },
+  "1130000": {
+    "id": "33a24ef09f-113",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:50",
+    "endTime": "00:19:00"
+  },
+  "1140000": {
+    "id": "33a24ef09f-114",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:00",
+    "endTime": "00:19:10"
+  },
+  "1150000": {
+    "id": "33a24ef09f-115",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:10",
+    "endTime": "00:19:20"
+  },
+  "1160000": {
+    "id": "33a24ef09f-116",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:20",
+    "endTime": "00:19:30"
+  },
+  "1170000": {
+    "id": "33a24ef09f-117",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:30",
+    "endTime": "00:19:40"
+  },
+  "1180000": {
+    "id": "33a24ef09f-118",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:40",
+    "endTime": "00:19:50"
+  },
+  "1190000": {
+    "id": "33a24ef09f-119",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:50",
+    "endTime": "00:20:00"
+  },
+  "1200000": {
+    "id": "33a24ef09f-120",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:00",
+    "endTime": "00:20:10"
+  },
+  "1210000": {
+    "id": "33a24ef09f-121",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:10",
+    "endTime": "00:20:20"
+  },
+  "1220000": {
+    "id": "33a24ef09f-122",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:20",
+    "endTime": "00:20:30"
+  },
+  "1230000": {
+    "id": "33a24ef09f-123",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:30",
+    "endTime": "00:20:40"
+  },
+  "1240000": {
+    "id": "33a24ef09f-124",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:40",
+    "endTime": "00:20:50"
+  },
+  "1250000": {
+    "id": "33a24ef09f-125",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:50",
+    "endTime": "00:21:00"
+  },
+  "1260000": {
+    "id": "33a24ef09f-126",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:00",
+    "endTime": "00:21:10"
+  },
+  "1270000": {
+    "id": "33a24ef09f-127",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:10",
+    "endTime": "00:21:20"
+  },
+  "1280000": {
+    "id": "33a24ef09f-128",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:20",
+    "endTime": "00:21:30",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:21:26.41\", \"end\": \"0:21:35.26\"}"
+      }
+    ]
+  },
+  "1290000": {
+    "id": "33a24ef09f-129",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:30",
+    "endTime": "00:21:40",
+    "sentiments": [
+      {
+        "sentimentType": "Positive",
+        "assets": "{\"id\": 3, \"averageScore\": 0.9629, \"start\": \"0:21:26.41\", \"end\": \"0:21:35.26\"}"
+      }
+    ]
+  },
+  "1300000": {
+    "id": "33a24ef09f-130",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:40",
+    "endTime": "00:21:50"
+  },
+  "1310000": {
+    "id": "33a24ef09f-131",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:50",
+    "endTime": "00:22:00"
+  },
+  "1320000": {
+    "id": "33a24ef09f-132",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:00",
+    "endTime": "00:22:10"
+  },
+  "1330000": {
+    "id": "33a24ef09f-133",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:10",
+    "endTime": "00:22:20"
+  },
+  "1340000": {
+    "id": "33a24ef09f-134",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:20",
+    "endTime": "00:22:30"
+  },
+  "1350000": {
+    "id": "33a24ef09f-135",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:30",
+    "endTime": "00:22:40"
+  },
+  "1360000": {
+    "id": "33a24ef09f-136",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:40",
+    "endTime": "00:22:50"
+  },
+  "1370000": {
+    "id": "33a24ef09f-137",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:50",
+    "endTime": "00:23:00"
+  },
+  "1380000": {
+    "id": "33a24ef09f-138",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:00",
+    "endTime": "00:23:10"
+  },
+  "1390000": {
+    "id": "33a24ef09f-139",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:10",
+    "endTime": "00:23:20"
+  },
+  "1400000": {
+    "id": "33a24ef09f-140",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:20",
+    "endTime": "00:23:30"
+  },
+  "1410000": {
+    "id": "33a24ef09f-141",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:30",
+    "endTime": "00:23:40"
+  },
+  "1420000": {
+    "id": "33a24ef09f-142",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:40",
+    "endTime": "00:23:50"
+  },
+  "1430000": {
+    "id": "33a24ef09f-143",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:50",
+    "endTime": "00:24:00"
+  },
+  "1440000": {
+    "id": "33a24ef09f-144",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:00",
+    "endTime": "00:24:10"
+  },
+  "1450000": {
+    "id": "33a24ef09f-145",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:10",
+    "endTime": "00:24:20"
+  },
+  "1460000": {
+    "id": "33a24ef09f-146",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:20",
+    "endTime": "00:24:30"
+  },
+  "1470000": {
+    "id": "33a24ef09f-147",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:30",
+    "endTime": "00:24:40"
+  },
+  "1480000": {
+    "id": "33a24ef09f-148",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:40",
+    "endTime": "00:24:50"
+  },
+  "1490000": {
+    "id": "33a24ef09f-149",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:50",
+    "endTime": "00:25:00"
+  },
+  "1500000": {
+    "id": "33a24ef09f-150",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:00",
+    "endTime": "00:25:10"
+  },
+  "1510000": {
+    "id": "33a24ef09f-151",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:10",
+    "endTime": "00:25:20"
+  },
+  "1520000": {
+    "id": "33a24ef09f-152",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:20",
+    "endTime": "00:25:30"
+  },
+  "1530000": {
+    "id": "33a24ef09f-153",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:30",
+    "endTime": "00:25:40"
+  },
+  "1540000": {
+    "id": "33a24ef09f-154",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:40",
+    "endTime": "00:25:50"
+  },
+  "1550000": {
+    "id": "33a24ef09f-155",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:50",
+    "endTime": "23:29:47"
+  }
+}

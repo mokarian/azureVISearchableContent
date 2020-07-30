@@ -1,0 +1,2046 @@
+{
+  "0": {
+    "id": "33a24ef09f-0",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:10"
+  },
+  "10000": {
+    "id": "33a24ef09f-1",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:10",
+    "endTime": "00:00:20"
+  },
+  "20000": {
+    "id": "33a24ef09f-2",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:20",
+    "endTime": "00:00:30"
+  },
+  "30000": {
+    "id": "33a24ef09f-3",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:30",
+    "endTime": "00:00:40"
+  },
+  "40000": {
+    "id": "33a24ef09f-4",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:40",
+    "endTime": "00:00:50"
+  },
+  "50000": {
+    "id": "33a24ef09f-5",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:50",
+    "endTime": "00:01:00"
+  },
+  "60000": {
+    "id": "33a24ef09f-6",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:00",
+    "endTime": "00:01:10"
+  },
+  "70000": {
+    "id": "33a24ef09f-7",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:10",
+    "endTime": "00:01:20"
+  },
+  "80000": {
+    "id": "33a24ef09f-8",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:20",
+    "endTime": "00:01:30"
+  },
+  "90000": {
+    "id": "33a24ef09f-9",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:30",
+    "endTime": "00:01:40",
+    "ocrs": [
+      {
+        "ocr": "Ch.",
+        "assets": "{\"id\": 100, \"left\": 461, \"top\": 517, \"width\": 31, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:35.429\"}"
+      },
+      {
+        "ocr": "Ch.",
+        "assets": "{\"id\": 107, \"left\": 461, \"top\": 541, \"width\": 31, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:01:35.429\", \"end\": \"0:01:40.017\"}"
+      }
+    ]
+  },
+  "100000": {
+    "id": "33a24ef09f-10",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:40",
+    "endTime": "00:01:50",
+    "ocrs": [
+      {
+        "ocr": "Warner Bros. Television",
+        "assets": "{\"id\": 5, \"left\": 489, \"top\": 103, \"width\": 301, \"height\": 21, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "young",
+        "assets": "{\"id\": 7, \"left\": 551, \"top\": 136, \"width\": 172, \"height\": 50, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Sheldon",
+        "assets": "{\"id\": 11, \"left\": 485, \"top\": 185, \"width\": 310, \"height\": 63, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "\"A Secret Letter and a Lowly Disc of Processed Meat\"",
+        "assets": "{\"id\": 32, \"left\": 300, \"top\": 273, \"width\": 679, \"height\": 26, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Production #T12.16471 / 321",
+        "assets": "{\"id\": 38, \"left\": 462, \"top\": 305, \"width\": 352, \"height\": 21, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Textless at Tail - :30 Sec. after program",
+        "assets": "{\"id\": 61, \"left\": 424, \"top\": 381, \"width\": 430, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "16x9 1.78",
+        "assets": "{\"id\": 72, \"left\": 589, \"top\": 415, \"width\": 103, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "1 Left",
+        "assets": "{\"id\": 98, \"left\": 500, \"top\": 494, \"width\": 58, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Ch.",
+        "assets": "{\"id\": 100, \"left\": 461, \"top\": 517, \"width\": 31, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:01:40.017\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Center",
+        "assets": "{\"id\": 101, \"left\": 521, \"top\": 517, \"width\": 63, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Left Surround Ch. 6",
+        "assets": "{\"id\": 105, \"left\": 522, \"top\": 539, \"width\": 208, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Right Surround",
+        "assets": "{\"id\": 106, \"left\": 742, \"top\": 539, \"width\": 145, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Ch.",
+        "assets": "{\"id\": 107, \"left\": 461, \"top\": 541, \"width\": 31, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:01:35.429\", \"end\": \"0:01:40.017\"}"
+      },
+      {
+        "ocr": "Right Total",
+        "assets": "{\"id\": 112, \"left\": 742, \"top\": 564, \"width\": 101, \"height\": 19, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "Left Total",
+        "assets": "{\"id\": 114, \"left\": 522, \"top\": 566, \"width\": 87, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      },
+      {
+        "ocr": "4/27/20",
+        "assets": "{\"id\": 124, \"left\": 600, \"top\": 600, \"width\": 78, \"height\": 19, \"language\": \"en-US\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      }
+    ]
+  },
+  "110000": {
+    "id": "33a24ef09f-11",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:50",
+    "endTime": "00:02:00"
+  },
+  "120000": {
+    "id": "33a24ef09f-12",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:00",
+    "endTime": "00:02:10"
+  },
+  "130000": {
+    "id": "33a24ef09f-13",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:10",
+    "endTime": "00:02:20"
+  },
+  "140000": {
+    "id": "33a24ef09f-14",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:20",
+    "endTime": "00:02:30"
+  },
+  "150000": {
+    "id": "33a24ef09f-15",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:30",
+    "endTime": "00:02:40"
+  },
+  "160000": {
+    "id": "33a24ef09f-16",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:40",
+    "endTime": "00:02:50"
+  },
+  "170000": {
+    "id": "33a24ef09f-17",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:50",
+    "endTime": "00:03:00"
+  },
+  "180000": {
+    "id": "33a24ef09f-18",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:00",
+    "endTime": "00:03:10"
+  },
+  "190000": {
+    "id": "33a24ef09f-19",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:10",
+    "endTime": "00:03:20"
+  },
+  "200000": {
+    "id": "33a24ef09f-20",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:20",
+    "endTime": "00:03:30"
+  },
+  "210000": {
+    "id": "33a24ef09f-21",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:30",
+    "endTime": "00:03:40"
+  },
+  "220000": {
+    "id": "33a24ef09f-22",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:40",
+    "endTime": "00:03:50"
+  },
+  "230000": {
+    "id": "33a24ef09f-23",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:50",
+    "endTime": "00:04:00"
+  },
+  "240000": {
+    "id": "33a24ef09f-24",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:00",
+    "endTime": "00:04:10"
+  },
+  "250000": {
+    "id": "33a24ef09f-25",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:10",
+    "endTime": "00:04:20",
+    "ocrs": [
+      {
+        "ocr": "created by",
+        "assets": "{\"id\": 41, \"left\": 541, \"top\": 322, \"width\": 131, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:04:11.418\", \"end\": \"0:04:17.253\"}"
+      },
+      {
+        "ocr": "Chuck Lorre & Steven Molaro",
+        "assets": "{\"id\": 50, \"left\": 314, \"top\": 356, \"width\": 650, \"height\": 34, \"language\": \"en-US\", \"start\": \"0:04:11.418\", \"end\": \"0:04:17.253\"}"
+      }
+    ]
+  },
+  "260000": {
+    "id": "33a24ef09f-26",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:20",
+    "endTime": "00:04:30",
+    "ocrs": [
+      {
+        "ocr": "Zoe Perry",
+        "assets": "{\"id\": 125, \"left\": 275, \"top\": 606, \"width\": 243, \"height\": 41, \"language\": \"en-US\", \"start\": \"0:04:26.099\", \"end\": \"0:04:26.558\"}"
+      }
+    ]
+  },
+  "270000": {
+    "id": "33a24ef09f-27",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:30",
+    "endTime": "00:04:40",
+    "ocrs": [
+      {
+        "ocr": "ision of Physics, Mathematic\u2022",
+        "assets": "{\"id\": 90, \"left\": 0, \"top\": 462, \"width\": 217, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:04:38.487\", \"end\": \"0:04:39.405\"}"
+      },
+      {
+        "ocr": "adena, California 9",
+        "assets": "{\"id\": 95, \"left\": 0, \"top\": 483, \"width\": 146, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:04:38.487\", \"end\": \"0:04:39.405\"}"
+      }
+    ]
+  },
+  "280000": {
+    "id": "33a24ef09f-28",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:40",
+    "endTime": "00:04:50",
+    "ocrs": [
+      {
+        "ocr": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+        "assets": "{\"id\": 8, \"left\": 191, \"top\": 152, \"width\": 582, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:04:43.992\", \"end\": \"0:04:44.451\"}"
+      },
+      {
+        "ocr": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+        "assets": "{\"id\": 8, \"left\": 191, \"top\": 152, \"width\": 582, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      },
+      {
+        "ocr": "Division of Physics, Mathematics and Astronomy",
+        "assets": "{\"id\": 14, \"left\": 244, \"top\": 191, \"width\": 425, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:04:43.992\", \"end\": \"0:04:44.451\"}"
+      },
+      {
+        "ocr": "Division of Physics, Mathematics and Astronomy",
+        "assets": "{\"id\": 14, \"left\": 244, \"top\": 191, \"width\": 425, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      },
+      {
+        "ocr": "Pasadena. California 91125",
+        "assets": "{\"id\": 21, \"left\": 242, \"top\": 218, \"width\": 244, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:04:43.992\", \"end\": \"0:04:44.451\"}"
+      },
+      {
+        "ocr": "Pasadena. California 91125",
+        "assets": "{\"id\": 21, \"left\": 242, \"top\": 218, \"width\": 244, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      },
+      {
+        "ocr": "adena, California 9",
+        "assets": "{\"id\": 25, \"left\": 221, \"top\": 223, \"width\": 247, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:04:44.451\", \"end\": \"0:04:44.91\"}"
+      },
+      {
+        "ocr": "TO THE PARENTS OF SHELDON COOPER",
+        "assets": "{\"id\": 69, \"left\": 602, \"top\": 406, \"width\": 524, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      },
+      {
+        "ocr": "5501 Grant Avenue",
+        "assets": "{\"id\": 80, \"left\": 602, \"top\": 438, \"width\": 269, \"height\": 22, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      },
+      {
+        "ocr": "Medford, Texas 75922",
+        "assets": "{\"id\": 93, \"left\": 637, \"top\": 470, \"width\": 327, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:04:44.91\", \"end\": \"0:04:48.91\"}"
+      }
+    ]
+  },
+  "290000": {
+    "id": "33a24ef09f-29",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:50",
+    "endTime": "00:05:00"
+  },
+  "300000": {
+    "id": "33a24ef09f-30",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:00",
+    "endTime": "00:05:10",
+    "ocrs": [
+      {
+        "ocr": "with",
+        "assets": "{\"id\": 108, \"left\": 253, \"top\": 546, \"width\": 63, \"height\": 21, \"language\": \"en-US\", \"start\": \"0:05:05.556\", \"end\": \"0:05:06.932\"}"
+      }
+    ]
+  },
+  "310000": {
+    "id": "33a24ef09f-31",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:10",
+    "endTime": "00:05:20",
+    "ocrs": [
+      {
+        "ocr": "and",
+        "assets": "{\"id\": 91, \"left\": 238, \"top\": 467, \"width\": 51, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:05:11.52\", \"end\": \"0:05:11.979\"}"
+      },
+      {
+        "ocr": "and",
+        "assets": "{\"id\": 91, \"left\": 238, \"top\": 467, \"width\": 51, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:05:13.814\", \"end\": \"0:05:14.273\"}"
+      },
+      {
+        "ocr": "dirn Parsons",
+        "assets": "{\"id\": 113, \"left\": 266, \"top\": 566, \"width\": 304, \"height\": 35, \"language\": \"en-US\", \"start\": \"0:05:11.52\", \"end\": \"0:05:11.979\"}"
+      },
+      {
+        "ocr": "dirn Parsons",
+        "assets": "{\"id\": 113, \"left\": 266, \"top\": 566, \"width\": 304, \"height\": 35, \"language\": \"en-US\", \"start\": \"0:05:13.814\", \"end\": \"0:05:14.273\"}"
+      },
+      {
+        "ocr": "as the voice Of \"Sheldon\"",
+        "assets": "{\"id\": 126, \"left\": 267, \"top\": 614, \"width\": 350, \"height\": 19, \"language\": \"en-US\", \"start\": \"0:05:11.52\", \"end\": \"0:05:11.979\"}"
+      },
+      {
+        "ocr": "as the voice Of \"Sheldon\"",
+        "assets": "{\"id\": 126, \"left\": 267, \"top\": 614, \"width\": 350, \"height\": 19, \"language\": \"en-US\", \"start\": \"0:05:13.814\", \"end\": \"0:05:14.273\"}"
+      }
+    ]
+  },
+  "320000": {
+    "id": "33a24ef09f-32",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:20",
+    "endTime": "00:05:30",
+    "ocrs": [
+      {
+        "ocr": "producer",
+        "assets": "{\"id\": 102, \"left\": 362, \"top\": 521, \"width\": 173, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:05:28.954\", \"end\": \"0:05:29.413\"}"
+      },
+      {
+        "ocr": "produced b",
+        "assets": "{\"id\": 103, \"left\": 402, \"top\": 521, \"width\": 133, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:05:29.872\", \"end\": \"0:05:33.872\"}"
+      },
+      {
+        "ocr": "Parsons",
+        "assets": "{\"id\": 104, \"left\": 361, \"top\": 532, \"width\": 193, \"height\": 49, \"language\": \"en-US\", \"start\": \"0:05:27.578\", \"end\": \"0:05:28.037\"}"
+      },
+      {
+        "ocr": "Parsons",
+        "assets": "{\"id\": 104, \"left\": 361, \"top\": 532, \"width\": 193, \"height\": 49, \"language\": \"en-US\", \"start\": \"0:05:28.495\", \"end\": \"0:05:28.954\"}"
+      },
+      {
+        "ocr": "Todd Spiewak",
+        "assets": "{\"id\": 121, \"left\": 267, \"top\": 599, \"width\": 336, \"height\": 43, \"language\": \"en-US\", \"start\": \"0:05:27.578\", \"end\": \"0:05:28.037\"}"
+      },
+      {
+        "ocr": "Todd Spiewak",
+        "assets": "{\"id\": 121, \"left\": 267, \"top\": 599, \"width\": 336, \"height\": 43, \"language\": \"en-US\", \"start\": \"0:05:28.495\", \"end\": \"0:05:29.413\"}"
+      },
+      {
+        "ocr": "Todd Spiewak",
+        "assets": "{\"id\": 121, \"left\": 267, \"top\": 599, \"width\": 336, \"height\": 43, \"language\": \"en-US\", \"start\": \"0:05:29.872\", \"end\": \"0:05:33.872\"}"
+      }
+    ]
+  },
+  "330000": {
+    "id": "33a24ef09f-33",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:30",
+    "endTime": "00:05:40",
+    "ocrs": [
+      {
+        "ocr": "produced b",
+        "assets": "{\"id\": 103, \"left\": 402, \"top\": 521, \"width\": 133, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:05:29.872\", \"end\": \"0:05:33.872\"}"
+      },
+      {
+        "ocr": "co-executive producer",
+        "assets": "{\"id\": 117, \"left\": 267, \"top\": 567, \"width\": 259, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:05:34.459\", \"end\": \"0:05:39.965\"}"
+      },
+      {
+        "ocr": "Todd Spiewak",
+        "assets": "{\"id\": 121, \"left\": 267, \"top\": 599, \"width\": 336, \"height\": 43, \"language\": \"en-US\", \"start\": \"0:05:29.872\", \"end\": \"0:05:33.872\"}"
+      },
+      {
+        "ocr": "Eric Kaplan",
+        "assets": "{\"id\": 122, \"left\": 267, \"top\": 599, \"width\": 292, \"height\": 43, \"language\": \"en-US\", \"start\": \"0:05:34.459\", \"end\": \"0:05:39.965\"}"
+      }
+    ]
+  },
+  "340000": {
+    "id": "33a24ef09f-34",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:40",
+    "endTime": "00:05:50"
+  },
+  "350000": {
+    "id": "33a24ef09f-35",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:50",
+    "endTime": "00:06:00"
+  },
+  "360000": {
+    "id": "33a24ef09f-36",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:00",
+    "endTime": "00:06:10",
+    "ocrs": [
+      {
+        "ocr": "producer",
+        "assets": "{\"id\": 115, \"left\": 266, \"top\": 567, \"width\": 128, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:06:01.528\", \"end\": \"0:06:02.446\"}"
+      },
+      {
+        "ocr": "producer",
+        "assets": "{\"id\": 115, \"left\": 266, \"top\": 567, \"width\": 128, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:06:02.905\", \"end\": \"0:06:03.822\"}"
+      },
+      {
+        "ocr": "Ansley Rix",
+        "assets": "{\"id\": 120, \"left\": 266, \"top\": 599, \"width\": 272, \"height\": 44, \"language\": \"en-US\", \"start\": \"0:06:01.528\", \"end\": \"0:06:02.446\"}"
+      },
+      {
+        "ocr": "Ansley Rix",
+        "assets": "{\"id\": 120, \"left\": 266, \"top\": 599, \"width\": 272, \"height\": 44, \"language\": \"en-US\", \"start\": \"0:06:02.905\", \"end\": \"0:06:03.822\"}"
+      }
+    ]
+  },
+  "370000": {
+    "id": "33a24ef09f-37",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:10",
+    "endTime": "00:06:20",
+    "ocrs": [
+      {
+        "ocr": "produced by",
+        "assets": "{\"id\": 116, \"left\": 266, \"top\": 567, \"width\": 168, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:06:12.08\", \"end\": \"0:06:12.539\"}"
+      },
+      {
+        "ocr": "produced by",
+        "assets": "{\"id\": 116, \"left\": 266, \"top\": 567, \"width\": 168, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:06:12.998\", \"end\": \"0:06:16.998\"}"
+      }
+    ]
+  },
+  "380000": {
+    "id": "33a24ef09f-38",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:20",
+    "endTime": "00:06:30",
+    "ocrs": [
+      {
+        "ocr": "and",
+        "assets": "{\"id\": 111, \"left\": 584, \"top\": 564, \"width\": 61, \"height\": 27, \"language\": \"en-US\", \"start\": \"0:06:29.056\", \"end\": \"0:06:29.515\"}"
+      }
+    ]
+  },
+  "390000": {
+    "id": "33a24ef09f-39",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:30",
+    "endTime": "00:06:40"
+  },
+  "400000": {
+    "id": "33a24ef09f-40",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:40",
+    "endTime": "00:06:50"
+  },
+  "410000": {
+    "id": "33a24ef09f-41",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:50",
+    "endTime": "00:07:00"
+  },
+  "420000": {
+    "id": "33a24ef09f-42",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:00",
+    "endTime": "00:07:10"
+  },
+  "430000": {
+    "id": "33a24ef09f-43",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:10",
+    "endTime": "00:07:20"
+  },
+  "440000": {
+    "id": "33a24ef09f-44",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:20",
+    "endTime": "00:07:30"
+  },
+  "450000": {
+    "id": "33a24ef09f-45",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:30",
+    "endTime": "00:07:40"
+  },
+  "460000": {
+    "id": "33a24ef09f-46",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:40",
+    "endTime": "00:07:50"
+  },
+  "470000": {
+    "id": "33a24ef09f-47",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:50",
+    "endTime": "00:08:00"
+  },
+  "480000": {
+    "id": "33a24ef09f-48",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:00",
+    "endTime": "00:08:10"
+  },
+  "490000": {
+    "id": "33a24ef09f-49",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:10",
+    "endTime": "00:08:20"
+  },
+  "500000": {
+    "id": "33a24ef09f-50",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:20",
+    "endTime": "00:08:30"
+  },
+  "510000": {
+    "id": "33a24ef09f-51",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:30",
+    "endTime": "00:08:40"
+  },
+  "520000": {
+    "id": "33a24ef09f-52",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:40",
+    "endTime": "00:08:50"
+  },
+  "530000": {
+    "id": "33a24ef09f-53",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:50",
+    "endTime": "00:09:00"
+  },
+  "540000": {
+    "id": "33a24ef09f-54",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:00",
+    "endTime": "00:09:10"
+  },
+  "550000": {
+    "id": "33a24ef09f-55",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:10",
+    "endTime": "00:09:20"
+  },
+  "560000": {
+    "id": "33a24ef09f-56",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:20",
+    "endTime": "00:09:30"
+  },
+  "570000": {
+    "id": "33a24ef09f-57",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:30",
+    "endTime": "00:09:40"
+  },
+  "580000": {
+    "id": "33a24ef09f-58",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:40",
+    "endTime": "00:09:50"
+  },
+  "590000": {
+    "id": "33a24ef09f-59",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:50",
+    "endTime": "00:10:00"
+  },
+  "600000": {
+    "id": "33a24ef09f-60",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:00",
+    "endTime": "00:10:10"
+  },
+  "610000": {
+    "id": "33a24ef09f-61",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:10",
+    "endTime": "00:10:20"
+  },
+  "620000": {
+    "id": "33a24ef09f-62",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:20",
+    "endTime": "00:10:30"
+  },
+  "630000": {
+    "id": "33a24ef09f-63",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:30",
+    "endTime": "00:10:40"
+  },
+  "640000": {
+    "id": "33a24ef09f-64",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:40",
+    "endTime": "00:10:50"
+  },
+  "650000": {
+    "id": "33a24ef09f-65",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:50",
+    "endTime": "00:11:00"
+  },
+  "660000": {
+    "id": "33a24ef09f-66",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:00",
+    "endTime": "00:11:10"
+  },
+  "670000": {
+    "id": "33a24ef09f-67",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:10",
+    "endTime": "00:11:20"
+  },
+  "680000": {
+    "id": "33a24ef09f-68",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:20",
+    "endTime": "00:11:30"
+  },
+  "690000": {
+    "id": "33a24ef09f-69",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:30",
+    "endTime": "00:11:40"
+  },
+  "700000": {
+    "id": "33a24ef09f-70",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:40",
+    "endTime": "00:11:50"
+  },
+  "710000": {
+    "id": "33a24ef09f-71",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:50",
+    "endTime": "00:12:00"
+  },
+  "720000": {
+    "id": "33a24ef09f-72",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:00",
+    "endTime": "00:12:10"
+  },
+  "730000": {
+    "id": "33a24ef09f-73",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:10",
+    "endTime": "00:12:20"
+  },
+  "740000": {
+    "id": "33a24ef09f-74",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:20",
+    "endTime": "00:12:30"
+  },
+  "750000": {
+    "id": "33a24ef09f-75",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:30",
+    "endTime": "00:12:40"
+  },
+  "760000": {
+    "id": "33a24ef09f-76",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:40",
+    "endTime": "00:12:50"
+  },
+  "770000": {
+    "id": "33a24ef09f-77",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:50",
+    "endTime": "00:13:00"
+  },
+  "780000": {
+    "id": "33a24ef09f-78",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:00",
+    "endTime": "00:13:10"
+  },
+  "790000": {
+    "id": "33a24ef09f-79",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:10",
+    "endTime": "00:13:20"
+  },
+  "800000": {
+    "id": "33a24ef09f-80",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:20",
+    "endTime": "00:13:30"
+  },
+  "810000": {
+    "id": "33a24ef09f-81",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:30",
+    "endTime": "00:13:40"
+  },
+  "820000": {
+    "id": "33a24ef09f-82",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:40",
+    "endTime": "00:13:50"
+  },
+  "830000": {
+    "id": "33a24ef09f-83",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:50",
+    "endTime": "00:14:00"
+  },
+  "840000": {
+    "id": "33a24ef09f-84",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:00",
+    "endTime": "00:14:10"
+  },
+  "850000": {
+    "id": "33a24ef09f-85",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:10",
+    "endTime": "00:14:20"
+  },
+  "860000": {
+    "id": "33a24ef09f-86",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:20",
+    "endTime": "00:14:30"
+  },
+  "870000": {
+    "id": "33a24ef09f-87",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:30",
+    "endTime": "00:14:40"
+  },
+  "880000": {
+    "id": "33a24ef09f-88",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:40",
+    "endTime": "00:14:50"
+  },
+  "890000": {
+    "id": "33a24ef09f-89",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:50",
+    "endTime": "00:15:00"
+  },
+  "900000": {
+    "id": "33a24ef09f-90",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:00",
+    "endTime": "00:15:10"
+  },
+  "910000": {
+    "id": "33a24ef09f-91",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:10",
+    "endTime": "00:15:20"
+  },
+  "920000": {
+    "id": "33a24ef09f-92",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:20",
+    "endTime": "00:15:30"
+  },
+  "930000": {
+    "id": "33a24ef09f-93",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:30",
+    "endTime": "00:15:40"
+  },
+  "940000": {
+    "id": "33a24ef09f-94",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:40",
+    "endTime": "00:15:50"
+  },
+  "950000": {
+    "id": "33a24ef09f-95",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:50",
+    "endTime": "00:16:00"
+  },
+  "960000": {
+    "id": "33a24ef09f-96",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:00",
+    "endTime": "00:16:10"
+  },
+  "970000": {
+    "id": "33a24ef09f-97",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:10",
+    "endTime": "00:16:20"
+  },
+  "980000": {
+    "id": "33a24ef09f-98",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:20",
+    "endTime": "00:16:30"
+  },
+  "990000": {
+    "id": "33a24ef09f-99",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:30",
+    "endTime": "00:16:40"
+  },
+  "1000000": {
+    "id": "33a24ef09f-100",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:40",
+    "endTime": "00:16:50"
+  },
+  "1010000": {
+    "id": "33a24ef09f-101",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:50",
+    "endTime": "00:17:00"
+  },
+  "1020000": {
+    "id": "33a24ef09f-102",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:00",
+    "endTime": "00:17:10"
+  },
+  "1030000": {
+    "id": "33a24ef09f-103",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:10",
+    "endTime": "00:17:20"
+  },
+  "1040000": {
+    "id": "33a24ef09f-104",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:20",
+    "endTime": "00:17:30"
+  },
+  "1050000": {
+    "id": "33a24ef09f-105",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:30",
+    "endTime": "00:17:40"
+  },
+  "1060000": {
+    "id": "33a24ef09f-106",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:40",
+    "endTime": "00:17:50"
+  },
+  "1070000": {
+    "id": "33a24ef09f-107",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:50",
+    "endTime": "00:18:00"
+  },
+  "1080000": {
+    "id": "33a24ef09f-108",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:00",
+    "endTime": "00:18:10"
+  },
+  "1090000": {
+    "id": "33a24ef09f-109",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:10",
+    "endTime": "00:18:20"
+  },
+  "1100000": {
+    "id": "33a24ef09f-110",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:20",
+    "endTime": "00:18:30"
+  },
+  "1110000": {
+    "id": "33a24ef09f-111",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:30",
+    "endTime": "00:18:40"
+  },
+  "1120000": {
+    "id": "33a24ef09f-112",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:40",
+    "endTime": "00:18:50"
+  },
+  "1130000": {
+    "id": "33a24ef09f-113",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:50",
+    "endTime": "00:19:00"
+  },
+  "1140000": {
+    "id": "33a24ef09f-114",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:00",
+    "endTime": "00:19:10"
+  },
+  "1150000": {
+    "id": "33a24ef09f-115",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:10",
+    "endTime": "00:19:20"
+  },
+  "1160000": {
+    "id": "33a24ef09f-116",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:20",
+    "endTime": "00:19:30"
+  },
+  "1170000": {
+    "id": "33a24ef09f-117",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:30",
+    "endTime": "00:19:40"
+  },
+  "1180000": {
+    "id": "33a24ef09f-118",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:40",
+    "endTime": "00:19:50"
+  },
+  "1190000": {
+    "id": "33a24ef09f-119",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:50",
+    "endTime": "00:20:00"
+  },
+  "1200000": {
+    "id": "33a24ef09f-120",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:00",
+    "endTime": "00:20:10"
+  },
+  "1210000": {
+    "id": "33a24ef09f-121",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:10",
+    "endTime": "00:20:20"
+  },
+  "1220000": {
+    "id": "33a24ef09f-122",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:20",
+    "endTime": "00:20:30"
+  },
+  "1230000": {
+    "id": "33a24ef09f-123",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:30",
+    "endTime": "00:20:40"
+  },
+  "1240000": {
+    "id": "33a24ef09f-124",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:40",
+    "endTime": "00:20:50"
+  },
+  "1250000": {
+    "id": "33a24ef09f-125",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:50",
+    "endTime": "00:21:00"
+  },
+  "1260000": {
+    "id": "33a24ef09f-126",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:00",
+    "endTime": "00:21:10"
+  },
+  "1270000": {
+    "id": "33a24ef09f-127",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:10",
+    "endTime": "00:21:20"
+  },
+  "1280000": {
+    "id": "33a24ef09f-128",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:20",
+    "endTime": "00:21:30"
+  },
+  "1290000": {
+    "id": "33a24ef09f-129",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:30",
+    "endTime": "00:21:40",
+    "ocrs": [
+      {
+        "ocr": "Hockey Padding",
+        "assets": "{\"id\": 59, \"left\": 321, \"top\": 378, \"width\": 98, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:21:30.123\", \"end\": \"0:21:30.582\"}"
+      },
+      {
+        "ocr": "Hockey Padding",
+        "assets": "{\"id\": 59, \"left\": 321, \"top\": 378, \"width\": 98, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:21:31.5\", \"end\": \"0:21:35.5\"}"
+      },
+      {
+        "ocr": "_Hockey Padding",
+        "assets": "{\"id\": 64, \"left\": 276, \"top\": 395, \"width\": 100, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:21:36.088\", \"end\": \"0:21:36.547\"}"
+      },
+      {
+        "ocr": "and Equipment",
+        "assets": "{\"id\": 65, \"left\": 324, \"top\": 397, \"width\": 93, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:21:30.123\", \"end\": \"0:21:30.582\"}"
+      },
+      {
+        "ocr": "and Equipment",
+        "assets": "{\"id\": 65, \"left\": 324, \"top\": 397, \"width\": 93, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:21:31.5\", \"end\": \"0:21:35.5\"}"
+      },
+      {
+        "ocr": "Equipment",
+        "assets": "{\"id\": 70, \"left\": 309, \"top\": 414, \"width\": 66, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:21:36.088\", \"end\": \"0:21:36.547\"}"
+      }
+    ]
+  },
+  "1300000": {
+    "id": "33a24ef09f-130",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:40",
+    "endTime": "00:21:50",
+    "ocrs": [
+      {
+        "ocr": "ey Padding",
+        "assets": "{\"id\": 58, \"left\": 315, \"top\": 378, \"width\": 67, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:21:44.346\", \"end\": \"0:21:44.805\"}"
+      },
+      {
+        "ocr": "Hockey Padding",
+        "assets": "{\"id\": 59, \"left\": 321, \"top\": 378, \"width\": 98, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:21:44.805\", \"end\": \"0:21:45.264\"}"
+      },
+      {
+        "ocr": "and Equipment",
+        "assets": "{\"id\": 65, \"left\": 324, \"top\": 397, \"width\": 93, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:21:44.805\", \"end\": \"0:21:45.264\"}"
+      },
+      {
+        "ocr": "Equipment",
+        "assets": "{\"id\": 66, \"left\": 314, \"top\": 398, \"width\": 66, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:21:44.346\", \"end\": \"0:21:44.805\"}"
+      },
+      {
+        "ocr": "Hockey Padding",
+        "assets": "{\"id\": 78, \"left\": 95, \"top\": 436, \"width\": 184, \"height\": 29, \"language\": \"en-US\", \"start\": \"0:21:47.558\", \"end\": \"0:21:48.017\"}"
+      },
+      {
+        "ocr": "and Equipment",
+        "assets": "{\"id\": 94, \"left\": 101, \"top\": 473, \"width\": 174, \"height\": 28, \"language\": \"en-US\", \"start\": \"0:21:47.558\", \"end\": \"0:21:48.017\"}"
+      },
+      {
+        "ocr": "co-executive producer",
+        "assets": "{\"id\": 117, \"left\": 267, \"top\": 567, \"width\": 259, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      },
+      {
+        "ocr": "Chuck Lorre",
+        "assets": "{\"id\": 123, \"left\": 268, \"top\": 599, \"width\": 303, \"height\": 35, \"language\": \"en-US\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      }
+    ]
+  },
+  "1310000": {
+    "id": "33a24ef09f-131",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:50",
+    "endTime": "00:22:00",
+    "ocrs": [
+      {
+        "ocr": "co-producer",
+        "assets": "{\"id\": 30, \"left\": 563, \"top\": 269, \"width\": 158, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:21:51.228\", \"end\": \"0:21:52.146\"}"
+      },
+      {
+        "ocr": "Doc Farrow",
+        "assets": "{\"id\": 33, \"left\": 515, \"top\": 275, \"width\": 254, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:21:58.569\", \"end\": \"0:21:59.945\"}"
+      },
+      {
+        "ocr": "David 1--lelfand",
+        "assets": "{\"id\": 37, \"left\": 486, \"top\": 300, \"width\": 312, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:21:51.228\", \"end\": \"0:21:52.146\"}"
+      },
+      {
+        "ocr": "as Coach Wilkins",
+        "assets": "{\"id\": 42, \"left\": 528, \"top\": 323, \"width\": 227, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:21:58.569\", \"end\": \"0:21:59.945\"}"
+      },
+      {
+        "ocr": "music editor",
+        "assets": "{\"id\": 43, \"left\": 562, \"top\": 325, \"width\": 161, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:21:52.145\", \"end\": \"0:21:52.604\"}"
+      },
+      {
+        "ocr": "Valerie Mahaffey",
+        "assets": "{\"id\": 47, \"left\": 452, \"top\": 342, \"width\": 378, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:21:54.439\", \"end\": \"0:21:54.898\"}"
+      },
+      {
+        "ocr": "Valerie Mahaffey",
+        "assets": "{\"id\": 47, \"left\": 452, \"top\": 342, \"width\": 378, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:21:55.357\", \"end\": \"0:21:55.816\"}"
+      },
+      {
+        "ocr": "Danielle Pinnock",
+        "assets": "{\"id\": 60, \"left\": 457, \"top\": 380, \"width\": 368, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:21:58.569\", \"end\": \"0:21:59.945\"}"
+      },
+      {
+        "ocr": "executive consultant",
+        "assets": "{\"id\": 62, \"left\": 502, \"top\": 383, \"width\": 280, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:21:51.228\", \"end\": \"0:21:52.146\"}"
+      },
+      {
+        "ocr": "as Ms. MacE1roy",
+        "assets": "{\"id\": 63, \"left\": 530, \"top\": 391, \"width\": 225, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:21:54.439\", \"end\": \"0:21:54.898\"}"
+      },
+      {
+        "ocr": "as Ms. MacE1roy",
+        "assets": "{\"id\": 63, \"left\": 530, \"top\": 391, \"width\": 225, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:21:55.357\", \"end\": \"0:21:55.816\"}"
+      },
+      {
+        "ocr": "as Ms. Ingram",
+        "assets": "{\"id\": 75, \"left\": 544, \"top\": 429, \"width\": 196, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:21:58.569\", \"end\": \"0:21:59.945\"}"
+      },
+      {
+        "ocr": "co-executive producer",
+        "assets": "{\"id\": 117, \"left\": 267, \"top\": 567, \"width\": 259, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      },
+      {
+        "ocr": "Chuck Lorre",
+        "assets": "{\"id\": 123, \"left\": 268, \"top\": 599, \"width\": 303, \"height\": 35, \"language\": \"en-US\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      }
+    ]
+  },
+  "1320000": {
+    "id": "33a24ef09f-132",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:00",
+    "endTime": "00:22:10",
+    "ocrs": [
+      {
+        "ocr": "b camera second assistant camera",
+        "assets": "{\"id\": 2, \"left\": 408, \"top\": 101, \"width\": 469, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:07.744\", \"end\": \"0:22:08.662\"}"
+      },
+      {
+        "ocr": "post production supervisor",
+        "assets": "{\"id\": 3, \"left\": 459, \"top\": 101, \"width\": 366, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "production sound mixer",
+        "assets": "{\"id\": 4, \"left\": 479, \"top\": 101, \"width\": 325, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:05.909\", \"end\": \"0:22:06.368\"}"
+      },
+      {
+        "ocr": "Leah Pablo",
+        "assets": "{\"id\": 6, \"left\": 523, \"top\": 132, \"width\": 237, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "production accountant",
+        "assets": "{\"id\": 15, \"left\": 489, \"top\": 191, \"width\": 304, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:22:06.368\", \"end\": \"0:22:06.827\"}"
+      },
+      {
+        "ocr": "assistant editor",
+        "assets": "{\"id\": 16, \"left\": 536, \"top\": 191, \"width\": 211, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "unit production manager",
+        "assets": "{\"id\": 18, \"left\": 472, \"top\": 213, \"width\": 339, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:02.239\", \"end\": \"0:22:04.074\"}"
+      },
+      {
+        "ocr": "production staff",
+        "assets": "{\"id\": 20, \"left\": 533, \"top\": 216, \"width\": 218, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:09.121\", \"end\": \"0:22:10.039\"}"
+      },
+      {
+        "ocr": "Ben Bosse",
+        "assets": "{\"id\": 23, \"left\": 529, \"top\": 222, \"width\": 224, \"height\": 32, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "Stephen Lim",
+        "assets": "{\"id\": 28, \"left\": 505, \"top\": 243, \"width\": 275, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:22:02.239\", \"end\": \"0:22:04.074\"}"
+      },
+      {
+        "ocr": "casting by",
+        "assets": "{\"id\": 29, \"left\": 573, \"top\": 247, \"width\": 139, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:22:04.533\", \"end\": \"0:22:05.451\"}"
+      },
+      {
+        "ocr": "Nikki Valko, CSA",
+        "assets": "{\"id\": 34, \"left\": 467, \"top\": 278, \"width\": 349, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:22:04.533\", \"end\": \"0:22:05.451\"}"
+      },
+      {
+        "ocr": "gaffer",
+        "assets": "{\"id\": 35, \"left\": 602, \"top\": 281, \"width\": 80, \"height\": 25, \"language\": \"en-US\", \"start\": \"0:22:05.909\", \"end\": \"0:22:06.368\"}"
+      },
+      {
+        "ocr": "music supervisor",
+        "assets": "{\"id\": 36, \"left\": 525, \"top\": 282, \"width\": 233, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:22:06.368\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "Kevin Edelman",
+        "assets": "{\"id\": 39, \"left\": 475, \"top\": 312, \"width\": 334, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "Bob Sterry",
+        "assets": "{\"id\": 40, \"left\": 523, \"top\": 312, \"width\": 237, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:22:07.744\", \"end\": \"0:22:08.203\"}"
+      },
+      {
+        "ocr": "production designer",
+        "assets": "{\"id\": 44, \"left\": 507, \"top\": 327, \"width\": 270, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:01.78\", \"end\": \"0:22:02.239\"}"
+      },
+      {
+        "ocr": "assistant production coordinator",
+        "assets": "{\"id\": 55, \"left\": 420, \"top\": 371, \"width\": 444, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:06.368\", \"end\": \"0:22:06.827\"}"
+      },
+      {
+        "ocr": "music editor",
+        "assets": "{\"id\": 56, \"left\": 558, \"top\": 371, \"width\": 168, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "Joe Deveau",
+        "assets": "{\"id\": 68, \"left\": 515, \"top\": 402, \"width\": 252, \"height\": 31, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "produced b",
+        "assets": "{\"id\": 74, \"left\": 559, \"top\": 428, \"width\": 166, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:04.074\", \"end\": \"0:22:04.533\"}"
+      },
+      {
+        "ocr": "Peter Pappas, CSA",
+        "assets": "{\"id\": 79, \"left\": 450, \"top\": 437, \"width\": 383, \"height\": 38, \"language\": \"en-US\", \"start\": \"0:22:04.533\", \"end\": \"0:22:05.451\"}"
+      },
+      {
+        "ocr": "first assistant director",
+        "assets": "{\"id\": 81, \"left\": 473, \"top\": 441, \"width\": 339, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:02.239\", \"end\": \"0:22:04.074\"}"
+      },
+      {
+        "ocr": "edited by",
+        "assets": "{\"id\": 82, \"left\": 580, \"top\": 441, \"width\": 124, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:01.78\", \"end\": \"0:22:02.239\"}"
+      },
+      {
+        "ocr": "created by",
+        "assets": "{\"id\": 83, \"left\": 580, \"top\": 441, \"width\": 124, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:01.321\", \"end\": \"0:22:01.78\"}"
+      },
+      {
+        "ocr": "second second assistant director",
+        "assets": "{\"id\": 87, \"left\": 422, \"top\": 461, \"width\": 441, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "cronstruction coordinator",
+        "assets": "{\"id\": 88, \"left\": 475, \"top\": 461, \"width\": 334, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:22:05.909\", \"end\": \"0:22:06.827\"}"
+      },
+      {
+        "ocr": "script coordinator",
+        "assets": "{\"id\": 89, \"left\": 521, \"top\": 461, \"width\": 243, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:06.368\", \"end\": \"0:22:06.827\"}"
+      },
+      {
+        "ocr": "Cali Pom\u00e9s",
+        "assets": "{\"id\": 92, \"left\": 522, \"top\": 470, \"width\": 238, \"height\": 33, \"language\": \"en-US\", \"start\": \"0:22:02.239\", \"end\": \"0:22:04.074\"}"
+      },
+      {
+        "ocr": "Jeffrey Sheets",
+        "assets": "{\"id\": 97, \"left\": 482, \"top\": 492, \"width\": 316, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "assistant to producer",
+        "assets": "{\"id\": 109, \"left\": 428, \"top\": 551, \"width\": 428, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:06.368\", \"end\": \"0:22:07.745\"}"
+      },
+      {
+        "ocr": "transportation coordinator",
+        "assets": "{\"id\": 110, \"left\": 459, \"top\": 551, \"width\": 365, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:05.909\", \"end\": \"0:22:06.368\"}"
+      },
+      {
+        "ocr": "Stephanie Spetrino",
+        "assets": "{\"id\": 119, \"left\": 435, \"top\": 582, \"width\": 413, \"height\": 39, \"language\": \"en-US\", \"start\": \"0:22:06.827\", \"end\": \"0:22:07.745\"}"
+      }
+    ]
+  },
+  "1330000": {
+    "id": "33a24ef09f-133",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:10",
+    "endTime": "00:22:20",
+    "ocrs": [
+      {
+        "ocr": "Thank you for watching Young Sheldon. We hope to see you again in the",
+        "assets": "{\"id\": 9, \"left\": 256, \"top\": 159, \"width\": 772, \"height\": 19, \"language\": \"en-US\", \"start\": \"0:22:11.415\", \"end\": \"0:22:13.25\"}"
+      },
+      {
+        "ocr": "Fall... or Winter... or maybe next Spring... Actually I have no idea when",
+        "assets": "{\"id\": 12, \"left\": 256, \"top\": 186, \"width\": 773, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:22:11.415\", \"end\": \"0:22:13.25\"}"
+      },
+      {
+        "ocr": "we'll see you again. No one knows anything. Be safe.",
+        "assets": "{\"id\": 17, \"left\": 255, \"top\": 212, \"width\": 559, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:22:11.415\", \"end\": \"0:22:13.25\"}"
+      },
+      {
+        "ocr": "production staff",
+        "assets": "{\"id\": 20, \"left\": 533, \"top\": 216, \"width\": 218, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:22:09.121\", \"end\": \"0:22:10.039\"}"
+      },
+      {
+        "ocr": "Production #T12.16471 / 321",
+        "assets": "{\"id\": 84, \"left\": 669, \"top\": 452, \"width\": 247, \"height\": 15, \"language\": \"en-US\", \"start\": \"0:22:10.956\", \"end\": \"0:22:11.415\"}"
+      }
+    ]
+  },
+  "1340000": {
+    "id": "33a24ef09f-134",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:20",
+    "endTime": "00:22:30"
+  },
+  "1350000": {
+    "id": "33a24ef09f-135",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:30",
+    "endTime": "00:22:40"
+  },
+  "1360000": {
+    "id": "33a24ef09f-136",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:40",
+    "endTime": "00:22:50",
+    "ocrs": [
+      {
+        "ocr": "Warner Bros. Television",
+        "assets": "{\"id\": 10, \"left\": 497, \"top\": 180, \"width\": 301, \"height\": 21, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "young",
+        "assets": "{\"id\": 24, \"left\": 559, \"top\": 222, \"width\": 172, \"height\": 50, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "Sheldon",
+        "assets": "{\"id\": 31, \"left\": 493, \"top\": 271, \"width\": 310, \"height\": 63, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "\"A Secret Letter and a Lowly Disc of Processed Meat\"",
+        "assets": "{\"id\": 52, \"left\": 272, \"top\": 364, \"width\": 757, \"height\": 30, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      }
+    ]
+  },
+  "1370000": {
+    "id": "33a24ef09f-137",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:50",
+    "endTime": "00:23:00",
+    "ocrs": [
+      {
+        "ocr": "Warner Bros. Television",
+        "assets": "{\"id\": 10, \"left\": 497, \"top\": 180, \"width\": 301, \"height\": 21, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "young",
+        "assets": "{\"id\": 24, \"left\": 559, \"top\": 222, \"width\": 172, \"height\": 50, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "Sheldon",
+        "assets": "{\"id\": 31, \"left\": 493, \"top\": 271, \"width\": 310, \"height\": 63, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      },
+      {
+        "ocr": "\"A Secret Letter and a Lowly Disc of Processed Meat\"",
+        "assets": "{\"id\": 52, \"left\": 272, \"top\": 364, \"width\": 757, \"height\": 30, \"language\": \"en-US\", \"start\": \"0:22:46.283\", \"end\": \"0:22:54.871\"}"
+      }
+    ]
+  },
+  "1380000": {
+    "id": "33a24ef09f-138",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:00",
+    "endTime": "00:23:10"
+  },
+  "1390000": {
+    "id": "33a24ef09f-139",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:10",
+    "endTime": "00:23:20"
+  },
+  "1400000": {
+    "id": "33a24ef09f-140",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:20",
+    "endTime": "00:23:30"
+  },
+  "1410000": {
+    "id": "33a24ef09f-141",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:30",
+    "endTime": "00:23:40",
+    "ocrs": [
+      {
+        "ocr": "rision of Physics, Mathematic\u00ab",
+        "assets": "{\"id\": 86, \"left\": 0, \"top\": 461, \"width\": 211, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:23:35.832\", \"end\": \"0:23:40.291\"}"
+      },
+      {
+        "ocr": "adena, California 9",
+        "assets": "{\"id\": 95, \"left\": 0, \"top\": 483, \"width\": 146, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:23:35.832\", \"end\": \"0:23:40.291\"}"
+      }
+    ]
+  },
+  "1420000": {
+    "id": "33a24ef09f-142",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:40",
+    "endTime": "00:23:50",
+    "ocrs": [
+      {
+        "ocr": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+        "assets": "{\"id\": 8, \"left\": 191, \"top\": 152, \"width\": 582, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+        "assets": "{\"id\": 8, \"left\": 191, \"top\": 152, \"width\": 582, \"height\": 24, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "Division of Physics, Mathematics and Astronomy",
+        "assets": "{\"id\": 14, \"left\": 244, \"top\": 191, \"width\": 425, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "Division of Physics, Mathematics and Astronomy",
+        "assets": "{\"id\": 14, \"left\": 244, \"top\": 191, \"width\": 425, \"height\": 20, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "Pasadena, California 91125",
+        "assets": "{\"id\": 19, \"left\": 243, \"top\": 215, \"width\": 243, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "Pasadena, California 91125",
+        "assets": "{\"id\": 19, \"left\": 243, \"top\": 215, \"width\": 243, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "adena, California 9",
+        "assets": "{\"id\": 25, \"left\": 221, \"top\": 223, \"width\": 247, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:23:41.338\", \"end\": \"0:23:41.797\"}"
+      },
+      {
+        "ocr": "TO THE PARENTS OF SHELDON COOPER",
+        "assets": "{\"id\": 69, \"left\": 602, \"top\": 406, \"width\": 524, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "TO THE PARENTS OF SHELDON COOPER",
+        "assets": "{\"id\": 69, \"left\": 602, \"top\": 406, \"width\": 524, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "5501 Grant Avenue",
+        "assets": "{\"id\": 80, \"left\": 602, \"top\": 438, \"width\": 269, \"height\": 22, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "5501 Grant Avenue",
+        "assets": "{\"id\": 80, \"left\": 602, \"top\": 438, \"width\": 269, \"height\": 22, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "rision of Physics, Mathematic\u00ab",
+        "assets": "{\"id\": 86, \"left\": 0, \"top\": 461, \"width\": 211, \"height\": 18, \"language\": \"en-US\", \"start\": \"0:23:35.832\", \"end\": \"0:23:40.291\"}"
+      },
+      {
+        "ocr": "Medford, Texas 75922",
+        "assets": "{\"id\": 93, \"left\": 637, \"top\": 470, \"width\": 327, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:23:40.879\", \"end\": \"0:23:41.338\"}"
+      },
+      {
+        "ocr": "Medford, Texas 75922",
+        "assets": "{\"id\": 93, \"left\": 637, \"top\": 470, \"width\": 327, \"height\": 23, \"language\": \"en-US\", \"start\": \"0:23:41.797\", \"end\": \"0:23:45.797\"}"
+      },
+      {
+        "ocr": "adena, California 9",
+        "assets": "{\"id\": 95, \"left\": 0, \"top\": 483, \"width\": 146, \"height\": 16, \"language\": \"en-US\", \"start\": \"0:23:35.832\", \"end\": \"0:23:40.291\"}"
+      }
+    ]
+  },
+  "1430000": {
+    "id": "33a24ef09f-143",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:50",
+    "endTime": "00:24:00"
+  },
+  "1440000": {
+    "id": "33a24ef09f-144",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:00",
+    "endTime": "00:24:10"
+  },
+  "1450000": {
+    "id": "33a24ef09f-145",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:10",
+    "endTime": "00:24:20"
+  },
+  "1460000": {
+    "id": "33a24ef09f-146",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:20",
+    "endTime": "00:24:30"
+  },
+  "1470000": {
+    "id": "33a24ef09f-147",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:30",
+    "endTime": "00:24:40"
+  },
+  "1480000": {
+    "id": "33a24ef09f-148",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:40",
+    "endTime": "00:24:50"
+  },
+  "1490000": {
+    "id": "33a24ef09f-149",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:50",
+    "endTime": "00:25:00"
+  },
+  "1500000": {
+    "id": "33a24ef09f-150",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:00",
+    "endTime": "00:25:10"
+  },
+  "1510000": {
+    "id": "33a24ef09f-151",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:10",
+    "endTime": "00:25:20"
+  },
+  "1520000": {
+    "id": "33a24ef09f-152",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:20",
+    "endTime": "00:25:30"
+  },
+  "1530000": {
+    "id": "33a24ef09f-153",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:30",
+    "endTime": "00:25:40"
+  },
+  "1540000": {
+    "id": "33a24ef09f-154",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:40",
+    "endTime": "00:25:50"
+  },
+  "1550000": {
+    "id": "33a24ef09f-155",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:50",
+    "endTime": "23:29:47"
+  }
+}

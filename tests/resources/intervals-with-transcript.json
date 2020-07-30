@@ -1,0 +1,3130 @@
+{
+  "0": {
+    "id": "33a24ef09f-0",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:10"
+  },
+  "10000": {
+    "id": "33a24ef09f-1",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:10",
+    "endTime": "00:00:20"
+  },
+  "20000": {
+    "id": "33a24ef09f-2",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:20",
+    "endTime": "00:00:30"
+  },
+  "30000": {
+    "id": "33a24ef09f-3",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:30",
+    "endTime": "00:00:40"
+  },
+  "40000": {
+    "id": "33a24ef09f-4",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:40",
+    "endTime": "00:00:50"
+  },
+  "50000": {
+    "id": "33a24ef09f-5",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:50",
+    "endTime": "00:01:00"
+  },
+  "60000": {
+    "id": "33a24ef09f-6",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:00",
+    "endTime": "00:01:10"
+  },
+  "70000": {
+    "id": "33a24ef09f-7",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:10",
+    "endTime": "00:01:20"
+  },
+  "80000": {
+    "id": "33a24ef09f-8",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:20",
+    "endTime": "00:01:30"
+  },
+  "90000": {
+    "id": "33a24ef09f-9",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:30",
+    "endTime": "00:01:40"
+  },
+  "100000": {
+    "id": "33a24ef09f-10",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:40",
+    "endTime": "00:01:50"
+  },
+  "110000": {
+    "id": "33a24ef09f-11",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:50",
+    "endTime": "00:02:00"
+  },
+  "120000": {
+    "id": "33a24ef09f-12",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:00",
+    "endTime": "00:02:10",
+    "transcripts": [
+      {
+        "transcript": "Previously on Young Sheldon, maybe it's time to take a break from your college classes.",
+        "assets": "{\"id\": 2, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:00.3\", \"end\": \"0:02:05.969\"}"
+      },
+      {
+        "transcript": "What, why? I've gotten straight A's.",
+        "assets": "{\"id\": 3, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:05.969\", \"end\": \"0:02:08.353\"}"
+      },
+      {
+        "transcript": "I know you're smart enough for college.",
+        "assets": "{\"id\": 4, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:08.353\", \"end\": \"0:02:10.93\"}"
+      }
+    ]
+  },
+  "130000": {
+    "id": "33a24ef09f-13",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:10",
+    "endTime": "00:02:20",
+    "transcripts": [
+      {
+        "transcript": "I know you're smart enough for college.",
+        "assets": "{\"id\": 4, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:08.353\", \"end\": \"0:02:10.93\"}"
+      },
+      {
+        "transcript": "I'm just not sure you're mature enough.",
+        "assets": "{\"id\": 5, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:10.93\", \"end\": \"0:02:13.507\"}"
+      },
+      {
+        "transcript": "I hope you know you're jeopardizing our relationship.",
+        "assets": "{\"id\": 6, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:13.507\", \"end\": \"0:02:16.985\"}"
+      },
+      {
+        "transcript": "I will take that risk.",
+        "assets": "{\"id\": 7, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:16.985\", \"end\": \"0:02:18.467\"}"
+      },
+      {
+        "transcript": "You know all eventually wear you down will see I'm pretty tough.",
+        "assets": "{\"id\": 8, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:18.467\", \"end\": \"0:02:22.59\"}"
+      }
+    ]
+  },
+  "140000": {
+    "id": "33a24ef09f-14",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:20",
+    "endTime": "00:02:30",
+    "transcripts": [
+      {
+        "transcript": "You know all eventually wear you down will see I'm pretty tough.",
+        "assets": "{\"id\": 8, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:18.467\", \"end\": \"0:02:22.59\"}"
+      },
+      {
+        "transcript": "I've done for you and your family.",
+        "assets": "{\"id\": 9, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:22.59\", \"end\": \"0:02:24.49\"}"
+      },
+      {
+        "transcript": "You get my grandson a job,",
+        "assets": "{\"id\": 10, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:24.49\", \"end\": \"0:02:25.956\"}"
+      },
+      {
+        "transcript": "so I'm supposed to marry you.",
+        "assets": "{\"id\": 11, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:25.956\", \"end\": \"0:02:28.03\"}"
+      },
+      {
+        "transcript": "Well, you can forget. I even asked.",
+        "assets": "{\"id\": 12, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:28.03\", \"end\": \"0:02:31.96\"}"
+      }
+    ]
+  },
+  "150000": {
+    "id": "33a24ef09f-15",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:30",
+    "endTime": "00:02:40",
+    "transcripts": [
+      {
+        "transcript": "Well, you can forget. I even asked.",
+        "assets": "{\"id\": 12, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:02:28.03\", \"end\": \"0:02:31.96\"}"
+      }
+    ]
+  },
+  "160000": {
+    "id": "33a24ef09f-16",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:40",
+    "endTime": "00:02:50",
+    "transcripts": [
+      {
+        "transcript": "No. Really my store now.",
+        "assets": "{\"id\": 13, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:31.96\", \"end\": \"0:02:43.08\"}"
+      },
+      {
+        "transcript": "In every young man's life,",
+        "assets": "{\"id\": 15, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:45.16\", \"end\": \"0:02:47.87\"}"
+      },
+      {
+        "transcript": "there are milestones along the road,",
+        "assets": "{\"id\": 16, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:47.87\", \"end\": \"0:02:51.583\"}"
+      }
+    ]
+  },
+  "170000": {
+    "id": "33a24ef09f-17",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:50",
+    "endTime": "00:03:00",
+    "transcripts": [
+      {
+        "transcript": "there are milestones along the road,",
+        "assets": "{\"id\": 16, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:47.87\", \"end\": \"0:02:51.583\"}"
+      },
+      {
+        "transcript": "independence, squashing one's very first bug,",
+        "assets": "{\"id\": 17, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:51.583\", \"end\": \"0:02:56.2\"}"
+      },
+      {
+        "transcript": "tending to ones own Boo Boo.",
+        "assets": "{\"id\": 18, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:56.2\", \"end\": \"0:02:59.01\"}"
+      },
+      {
+        "transcript": "Not today and preparing a favorite meal without ones Mommy.",
+        "assets": "{\"id\": 19, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:59.01\", \"end\": \"0:03:03.154\"}"
+      }
+    ]
+  },
+  "180000": {
+    "id": "33a24ef09f-18",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:00",
+    "endTime": "00:03:10",
+    "transcripts": [
+      {
+        "transcript": "Not today and preparing a favorite meal without ones Mommy.",
+        "assets": "{\"id\": 19, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:02:59.01\", \"end\": \"0:03:03.154\"}"
+      },
+      {
+        "transcript": "Can you open this? I'm making spaghetti with hot dogs cut up in it.",
+        "assets": "{\"id\": 20, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:03.154\", \"end\": \"0:03:07.849\"}"
+      },
+      {
+        "transcript": "You know, there's a lady that does that for us,",
+        "assets": "{\"id\": 21, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:07.849\", \"end\": \"0:03:11.164\"}"
+      }
+    ]
+  },
+  "190000": {
+    "id": "33a24ef09f-19",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:10",
+    "endTime": "00:03:20",
+    "transcripts": [
+      {
+        "transcript": "You know, there's a lady that does that for us,",
+        "assets": "{\"id\": 21, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:07.849\", \"end\": \"0:03:11.164\"}"
+      },
+      {
+        "transcript": "right? Yes, but she's not here right now.",
+        "assets": "{\"id\": 22, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:11.164\", \"end\": \"0:03:14.065\"}"
+      },
+      {
+        "transcript": "So I'm watching Oprah. I would like to introduce each of the Teenage Mutant Ninja Turtles.",
+        "assets": "{\"id\": 23, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:14.065\", \"end\": \"0:03:20.98\"}"
+      }
+    ]
+  },
+  "200000": {
+    "id": "33a24ef09f-20",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:20",
+    "endTime": "00:03:30",
+    "transcripts": [
+      {
+        "transcript": "So I'm watching Oprah. I would like to introduce each of the Teenage Mutant Ninja Turtles.",
+        "assets": "{\"id\": 23, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:14.065\", \"end\": \"0:03:20.98\"}"
+      },
+      {
+        "transcript": "I was not alone in asserting my independence that day.",
+        "assets": "{\"id\": 24, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:20.98\", \"end\": \"0:03:27.4\"}"
+      },
+      {
+        "transcript": "This tiny slice of hotdog also seem to yearn for freedom.",
+        "assets": "{\"id\": 25, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:27.4\", \"end\": \"0:03:35.53\"}"
+      }
+    ]
+  },
+  "210000": {
+    "id": "33a24ef09f-21",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:30",
+    "endTime": "00:03:40",
+    "transcripts": [
+      {
+        "transcript": "This tiny slice of hotdog also seem to yearn for freedom.",
+        "assets": "{\"id\": 25, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:03:27.4\", \"end\": \"0:03:35.53\"}"
+      },
+      {
+        "transcript": "But sometimes. Freedom comes at a cost.",
+        "assets": "{\"id\": 26, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:35.53\", \"end\": \"0:03:44.216\"}"
+      }
+    ]
+  },
+  "220000": {
+    "id": "33a24ef09f-22",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:40",
+    "endTime": "00:03:50",
+    "transcripts": [
+      {
+        "transcript": "But sometimes. Freedom comes at a cost.",
+        "assets": "{\"id\": 26, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:35.53\", \"end\": \"0:03:44.216\"}"
+      },
+      {
+        "transcript": "In this case a Lobley disc of processed meat.",
+        "assets": "{\"id\": 27, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:44.216\", \"end\": \"0:03:49.5\"}"
+      },
+      {
+        "transcript": "With nearly tear my family apart.",
+        "assets": "{\"id\": 28, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:49.5\", \"end\": \"0:03:56.38\"}"
+      }
+    ]
+  },
+  "230000": {
+    "id": "33a24ef09f-23",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:50",
+    "endTime": "00:04:00",
+    "transcripts": [
+      {
+        "transcript": "With nearly tear my family apart.",
+        "assets": "{\"id\": 28, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:49.5\", \"end\": \"0:03:56.38\"}"
+      },
+      {
+        "transcript": "Goodbye.",
+        "assets": "{\"id\": 29, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:03:56.38\", \"end\": \"0:03:58.56\"}"
+      }
+    ]
+  },
+  "240000": {
+    "id": "33a24ef09f-24",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:00",
+    "endTime": "00:04:10"
+  },
+  "250000": {
+    "id": "33a24ef09f-25",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:10",
+    "endTime": "00:04:20",
+    "transcripts": [
+      {
+        "transcript": "Where the heck did it go?",
+        "assets": "{\"id\": 31, \"speakerId\": 6, \"language\": \"en-US\", \"start\": \"0:04:13.56\", \"end\": \"0:04:17.83\"}"
+      }
+    ]
+  },
+  "260000": {
+    "id": "33a24ef09f-26",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:20",
+    "endTime": "00:04:30",
+    "transcripts": [
+      {
+        "transcript": "Do we have another flashlight?",
+        "assets": "{\"id\": 33, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:25.45\", \"end\": \"0:04:27.664\"}"
+      },
+      {
+        "transcript": "I'll slice of hot dog rolled under the refrigerator as a flashlight and mom denied stand.",
+        "assets": "{\"id\": 34, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:27.664\", \"end\": \"0:04:34.02\"}"
+      }
+    ]
+  },
+  "270000": {
+    "id": "33a24ef09f-27",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:30",
+    "endTime": "00:04:40",
+    "transcripts": [
+      {
+        "transcript": "I'll slice of hot dog rolled under the refrigerator as a flashlight and mom denied stand.",
+        "assets": "{\"id\": 34, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:27.664\", \"end\": \"0:04:34.02\"}"
+      }
+    ]
+  },
+  "280000": {
+    "id": "33a24ef09f-28",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:40",
+    "endTime": "00:04:50",
+    "transcripts": [
+      {
+        "transcript": "Find the flashlight. Yes, I also found this letter from Caltech.",
+        "assets": "{\"id\": 36, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:44.27\", \"end\": \"0:04:50.226\"}"
+      }
+    ]
+  },
+  "290000": {
+    "id": "33a24ef09f-29",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:50",
+    "endTime": "00:05:00",
+    "transcripts": [
+      {
+        "transcript": "Find the flashlight. Yes, I also found this letter from Caltech.",
+        "assets": "{\"id\": 36, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:44.27\", \"end\": \"0:04:50.226\"}"
+      },
+      {
+        "transcript": "I wonder why she was hiding it burrito.",
+        "assets": "{\"id\": 37, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:50.226\", \"end\": \"0:04:54.39\"}"
+      },
+      {
+        "transcript": "I'm not allowed to. It's not addressed to me.",
+        "assets": "{\"id\": 38, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:54.39\", \"end\": \"0:04:57.273\"}"
+      },
+      {
+        "transcript": "Who cares. the US Postal services government agency Mail is protected by federal law.",
+        "assets": "{\"id\": 39, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:57.273\", \"end\": \"0:05:02.663\"}"
+      }
+    ]
+  },
+  "300000": {
+    "id": "33a24ef09f-30",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:00",
+    "endTime": "00:05:10",
+    "transcripts": [
+      {
+        "transcript": "Who cares. the US Postal services government agency Mail is protected by federal law.",
+        "assets": "{\"id\": 39, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:04:57.273\", \"end\": \"0:05:02.663\"}"
+      },
+      {
+        "transcript": "Don't if you do, I'll be an accessory to the crime.",
+        "assets": "{\"id\": 40, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:02.663\", \"end\": \"0:05:06.27\"}"
+      },
+      {
+        "transcript": "To rest. What does it say?",
+        "assets": "{\"id\": 41, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:06.27\", \"end\": \"0:05:09.78\"}"
+      },
+      {
+        "transcript": "No, don't tell me. OK,",
+        "assets": "{\"id\": 42, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:09.78\", \"end\": \"0:05:11.811\"}"
+      }
+    ]
+  },
+  "310000": {
+    "id": "33a24ef09f-31",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:10",
+    "endTime": "00:05:20",
+    "transcripts": [
+      {
+        "transcript": "No, don't tell me. OK,",
+        "assets": "{\"id\": 42, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:09.78\", \"end\": \"0:05:11.811\"}"
+      },
+      {
+        "transcript": "tell me no, don't Sheldon if I tell you,",
+        "assets": "{\"id\": 43, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:11.811\", \"end\": \"0:05:14.175\"}"
+      },
+      {
+        "transcript": "but you never look at it then you didn't break the law,",
+        "assets": "{\"id\": 44, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:14.175\", \"end\": \"0:05:17.404\"}"
+      },
+      {
+        "transcript": "right?",
+        "assets": "{\"id\": 45, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:17.404\", \"end\": \"0:05:18.9\"}"
+      },
+      {
+        "transcript": "Well, offices of Morris Morrison your Janice speaking hello,",
+        "assets": "{\"id\": 46, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:18.9\", \"end\": \"0:05:23.291\"}"
+      }
+    ]
+  },
+  "320000": {
+    "id": "33a24ef09f-32",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:20",
+    "endTime": "00:05:30",
+    "transcripts": [
+      {
+        "transcript": "Well, offices of Morris Morrison your Janice speaking hello,",
+        "assets": "{\"id\": 46, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:18.9\", \"end\": \"0:05:23.291\"}"
+      },
+      {
+        "transcript": "I'd like to speak to either Morris Morris or yarn.",
+        "assets": "{\"id\": 47, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:23.291\", \"end\": \"0:05:27.77\"}"
+      },
+      {
+        "transcript": "May I ask what it is in regard to?",
+        "assets": "{\"id\": 48, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:27.77\", \"end\": \"0:05:29.837\"}"
+      },
+      {
+        "transcript": "Well, I was slicing a hotdog.",
+        "assets": "{\"id\": 49, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:29.837\", \"end\": \"0:05:33.02\"}"
+      }
+    ]
+  },
+  "330000": {
+    "id": "33a24ef09f-33",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:30",
+    "endTime": "00:05:40",
+    "transcripts": [
+      {
+        "transcript": "Well, I was slicing a hotdog.",
+        "assets": "{\"id\": 49, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:29.837\", \"end\": \"0:05:33.02\"}"
+      },
+      {
+        "transcript": "What's up? I was wondering if you could talk to Dale for me.",
+        "assets": "{\"id\": 50, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:33.02\", \"end\": \"0:05:38.09\"}"
+      },
+      {
+        "transcript": "Wow. Wait a minute. He fired you,",
+        "assets": "{\"id\": 51, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:38.09\", \"end\": \"0:05:42.36\"}"
+      }
+    ]
+  },
+  "340000": {
+    "id": "33a24ef09f-34",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:40",
+    "endTime": "00:05:50",
+    "transcripts": [
+      {
+        "transcript": "Wow. Wait a minute. He fired you,",
+        "assets": "{\"id\": 51, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:38.09\", \"end\": \"0:05:42.36\"}"
+      },
+      {
+        "transcript": "yeah? After you gave him the money back,",
+        "assets": "{\"id\": 52, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:42.36\", \"end\": \"0:05:45.809\"}"
+      },
+      {
+        "transcript": "you didn't tell you.",
+        "assets": "{\"id\": 53, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:45.809\", \"end\": \"0:05:48.97\"}"
+      },
+      {
+        "transcript": "We haven't exactly been on speaking terms lately.",
+        "assets": "{\"id\": 54, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:48.97\", \"end\": \"0:05:52.54\"}"
+      }
+    ]
+  },
+  "350000": {
+    "id": "33a24ef09f-35",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:50",
+    "endTime": "00:06:00",
+    "transcripts": [
+      {
+        "transcript": "We haven't exactly been on speaking terms lately.",
+        "assets": "{\"id\": 54, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:48.97\", \"end\": \"0:05:52.54\"}"
+      },
+      {
+        "transcript": "Oh, I didn't know, but we're about to be on yelling terms.",
+        "assets": "{\"id\": 55, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:52.54\", \"end\": \"0:05:59.49\"}"
+      },
+      {
+        "transcript": "This is exciting. So if I don't actually look at the letter legally,",
+        "assets": "{\"id\": 56, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:59.49\", \"end\": \"0:06:03.415\"}"
+      }
+    ]
+  },
+  "360000": {
+    "id": "33a24ef09f-36",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:00",
+    "endTime": "00:06:10",
+    "transcripts": [
+      {
+        "transcript": "This is exciting. So if I don't actually look at the letter legally,",
+        "assets": "{\"id\": 56, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:05:59.49\", \"end\": \"0:06:03.415\"}"
+      },
+      {
+        "transcript": "I'm in the clear. Thank you,",
+        "assets": "{\"id\": 57, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:03.415\", \"end\": \"0:06:05.813\"}"
+      },
+      {
+        "transcript": "this has been very helpful and if in the future you have any physics questions.",
+        "assets": "{\"id\": 58, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:05.813\", \"end\": \"0:06:10.853\"}"
+      }
+    ]
+  },
+  "370000": {
+    "id": "33a24ef09f-37",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:10",
+    "endTime": "00:06:20",
+    "transcripts": [
+      {
+        "transcript": "this has been very helpful and if in the future you have any physics questions.",
+        "assets": "{\"id\": 58, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:05.813\", \"end\": \"0:06:10.853\"}"
+      },
+      {
+        "transcript": "Janice has my info. You see,",
+        "assets": "{\"id\": 59, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:10.853\", \"end\": \"0:06:12.457\"}"
+      },
+      {
+        "transcript": "you can legally tell me what's in the letter.",
+        "assets": "{\"id\": 60, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:12.457\", \"end\": \"0:06:15.27\"}"
+      },
+      {
+        "transcript": "Here's where it gets fun.",
+        "assets": "{\"id\": 63, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:18.19\", \"end\": \"0:06:20.446\"}"
+      }
+    ]
+  },
+  "380000": {
+    "id": "33a24ef09f-38",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:20",
+    "endTime": "00:06:30",
+    "transcripts": [
+      {
+        "transcript": "Here's where it gets fun.",
+        "assets": "{\"id\": 63, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:18.19\", \"end\": \"0:06:20.446\"}"
+      },
+      {
+        "transcript": "Come on. Ballards what's wrong with you?",
+        "assets": "{\"id\": 64, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:20.446\", \"end\": \"0:06:25.311\"}"
+      },
+      {
+        "transcript": "I'm sorry who is this?",
+        "assets": "{\"id\": 65, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:25.311\", \"end\": \"0:06:28.44\"}"
+      },
+      {
+        "transcript": "You know you can be mad at me all you want,",
+        "assets": "{\"id\": 66, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:28.44\", \"end\": \"0:06:31.361\"}"
+      }
+    ]
+  },
+  "390000": {
+    "id": "33a24ef09f-39",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:30",
+    "endTime": "00:06:40",
+    "transcripts": [
+      {
+        "transcript": "You know you can be mad at me all you want,",
+        "assets": "{\"id\": 66, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:28.44\", \"end\": \"0:06:31.361\"}"
+      },
+      {
+        "transcript": "but don't take it out on my grandson.",
+        "assets": "{\"id\": 67, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:31.361\", \"end\": \"0:06:33.885\"}"
+      },
+      {
+        "transcript": "He let the story got robbed and he paid you the money back like he should have.",
+        "assets": "{\"id\": 68, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:33.885\", \"end\": \"0:06:40.27\"}"
+      }
+    ]
+  },
+  "400000": {
+    "id": "33a24ef09f-40",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:40",
+    "endTime": "00:06:50",
+    "transcripts": [
+      {
+        "transcript": "He let the story got robbed and he paid you the money back like he should have.",
+        "assets": "{\"id\": 68, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:33.885\", \"end\": \"0:06:40.27\"}"
+      },
+      {
+        "transcript": "You know I was actually starting to feel bad for you and now I don't.",
+        "assets": "{\"id\": 69, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:40.27\", \"end\": \"0:06:46.262\"}"
+      },
+      {
+        "transcript": "Yeah well. Thanks for calling.",
+        "assets": "{\"id\": 70, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:46.262\", \"end\": \"0:06:48.83\"}"
+      },
+      {
+        "transcript": "Say cheese. Cheese",
+        "assets": "{\"id\": 71, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:48.83\", \"end\": \"0:06:55.47\"}"
+      }
+    ]
+  },
+  "410000": {
+    "id": "33a24ef09f-41",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:50",
+    "endTime": "00:07:00",
+    "transcripts": [
+      {
+        "transcript": "Say cheese. Cheese",
+        "assets": "{\"id\": 71, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:48.83\", \"end\": \"0:06:55.47\"}"
+      },
+      {
+        "transcript": "Now tell me what was in that letter?",
+        "assets": "{\"id\": 72, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:55.47\", \"end\": \"0:06:57.687\"}"
+      },
+      {
+        "transcript": "You're pretty cranky for Princess Rodeo Clown.",
+        "assets": "{\"id\": 73, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:57.687\", \"end\": \"0:07:00.504\"}"
+      }
+    ]
+  },
+  "420000": {
+    "id": "33a24ef09f-42",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:00",
+    "endTime": "00:07:10",
+    "transcripts": [
+      {
+        "transcript": "You're pretty cranky for Princess Rodeo Clown.",
+        "assets": "{\"id\": 73, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:06:57.687\", \"end\": \"0:07:00.504\"}"
+      },
+      {
+        "transcript": "Missy. Caltech wants you to go to school there.",
+        "assets": "{\"id\": 74, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:00.504\", \"end\": \"0:07:04.25\"}"
+      },
+      {
+        "transcript": "I wanna talk to mom and dad about it.",
+        "assets": "{\"id\": 75, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:04.25\", \"end\": \"0:07:08.15\"}"
+      },
+      {
+        "transcript": "I can't believe she would hide that for me.",
+        "assets": "{\"id\": 76, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:08.15\", \"end\": \"0:07:11.965\"}"
+      }
+    ]
+  },
+  "430000": {
+    "id": "33a24ef09f-43",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:10",
+    "endTime": "00:07:20",
+    "transcripts": [
+      {
+        "transcript": "I can't believe she would hide that for me.",
+        "assets": "{\"id\": 76, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:08.15\", \"end\": \"0:07:11.965\"}"
+      },
+      {
+        "transcript": "Whatever you guys back on.",
+        "assets": "{\"id\": 77, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:11.965\", \"end\": \"0:07:14.22\"}"
+      },
+      {
+        "transcript": "I'm home, would you care to explain this letter which I didn't read but legally know the contents of?",
+        "assets": "{\"id\": 78, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:14.22\", \"end\": \"0:07:21.81\"}"
+      }
+    ]
+  },
+  "440000": {
+    "id": "33a24ef09f-44",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:20",
+    "endTime": "00:07:30",
+    "transcripts": [
+      {
+        "transcript": "I'm home, would you care to explain this letter which I didn't read but legally know the contents of?",
+        "assets": "{\"id\": 78, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:14.22\", \"end\": \"0:07:21.81\"}"
+      },
+      {
+        "transcript": "Well, what are you doing going through my night stand?",
+        "assets": "{\"id\": 80, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:27.2\", \"end\": \"0:07:30.577\"}"
+      }
+    ]
+  },
+  "450000": {
+    "id": "33a24ef09f-45",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:30",
+    "endTime": "00:07:40",
+    "transcripts": [
+      {
+        "transcript": "Well, what are you doing going through my night stand?",
+        "assets": "{\"id\": 80, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:27.2\", \"end\": \"0:07:30.577\"}"
+      },
+      {
+        "transcript": "You answer my question first I am your mother Ann.",
+        "assets": "{\"id\": 81, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:30.577\", \"end\": \"0:07:33.708\"}"
+      },
+      {
+        "transcript": "I don't need answer anything.",
+        "assets": "{\"id\": 82, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:33.708\", \"end\": \"0:07:35.549\"}"
+      },
+      {
+        "transcript": "How could you not tell me that caltech wants me to go to school there because you're not going so it doesn't matter.",
+        "assets": "{\"id\": 83, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:35.549\", \"end\": \"0:07:42.732\"}"
+      }
+    ]
+  },
+  "460000": {
+    "id": "33a24ef09f-46",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:40",
+    "endTime": "00:07:50",
+    "transcripts": [
+      {
+        "transcript": "How could you not tell me that caltech wants me to go to school there because you're not going so it doesn't matter.",
+        "assets": "{\"id\": 83, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:35.549\", \"end\": \"0:07:42.732\"}"
+      },
+      {
+        "transcript": "So I don't get a say in this.",
+        "assets": "{\"id\": 84, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:42.732\", \"end\": \"0:07:44.574\"}"
+      },
+      {
+        "transcript": "Actually no. Which is why that letter is addressed to the parents of Sheldon Cooper.",
+        "assets": "{\"id\": 85, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:44.574\", \"end\": \"0:07:49.793\"}"
+      },
+      {
+        "transcript": "So dad was OK hiding this from me.",
+        "assets": "{\"id\": 86, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:49.793\", \"end\": \"0:07:52.39\"}"
+      }
+    ]
+  },
+  "470000": {
+    "id": "33a24ef09f-47",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:50",
+    "endTime": "00:08:00",
+    "transcripts": [
+      {
+        "transcript": "So dad was OK hiding this from me.",
+        "assets": "{\"id\": 86, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:49.793\", \"end\": \"0:07:52.39\"}"
+      },
+      {
+        "transcript": "We are done having this discussion.",
+        "assets": "{\"id\": 87, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:52.39\", \"end\": \"0:07:55.069\"}"
+      },
+      {
+        "transcript": "Go to your room.",
+        "assets": "{\"id\": 88, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:55.069\", \"end\": \"0:07:57.36\"}"
+      },
+      {
+        "transcript": "Hey, what time does photomath close?",
+        "assets": "{\"id\": 89, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:57.36\", \"end\": \"0:08:00.46\"}"
+      }
+    ]
+  },
+  "480000": {
+    "id": "33a24ef09f-48",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:00",
+    "endTime": "00:08:10",
+    "transcripts": [
+      {
+        "transcript": "Hey, what time does photomath close?",
+        "assets": "{\"id\": 89, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:07:57.36\", \"end\": \"0:08:00.46\"}"
+      },
+      {
+        "transcript": "I was angry at my mother and needed more information while she told me to go to my room.",
+        "assets": "{\"id\": 90, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:00.46\", \"end\": \"0:08:07.165\"}"
+      },
+      {
+        "transcript": "She didn't say stay there boy.",
+        "assets": "{\"id\": 91, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:07.165\", \"end\": \"0:08:09.501\"}"
+      },
+      {
+        "transcript": "Howdy, I do love a loophole.",
+        "assets": "{\"id\": 92, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:09.501\", \"end\": \"0:08:12.15\"}"
+      }
+    ]
+  },
+  "490000": {
+    "id": "33a24ef09f-49",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:10",
+    "endTime": "00:08:20",
+    "transcripts": [
+      {
+        "transcript": "Howdy, I do love a loophole.",
+        "assets": "{\"id\": 92, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:09.501\", \"end\": \"0:08:12.15\"}"
+      },
+      {
+        "transcript": "All right, who's hotter? Cindy Crawford or Jessica Rabbit was the person wanted cartoon and you couldn't get even one of 'em.",
+        "assets": "{\"id\": 93, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:12.15\", \"end\": \"0:08:21.188\"}"
+      }
+    ]
+  },
+  "500000": {
+    "id": "33a24ef09f-50",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:20",
+    "endTime": "00:08:30",
+    "transcripts": [
+      {
+        "transcript": "All right, who's hotter? Cindy Crawford or Jessica Rabbit was the person wanted cartoon and you couldn't get even one of 'em.",
+        "assets": "{\"id\": 93, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:08:12.15\", \"end\": \"0:08:21.188\"}"
+      },
+      {
+        "transcript": "Now answer the question. The hell are you doing here?",
+        "assets": "{\"id\": 94, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:21.188\", \"end\": \"0:08:25.261\"}"
+      },
+      {
+        "transcript": "I need to talk to you.",
+        "assets": "{\"id\": 95, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:25.261\", \"end\": \"0:08:26.97\"}"
+      },
+      {
+        "transcript": "How do you even find me?",
+        "assets": "{\"id\": 96, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:26.97\", \"end\": \"0:08:28.388\"}"
+      },
+      {
+        "transcript": "It's not like you come home smelling like coffee.",
+        "assets": "{\"id\": 97, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:28.388\", \"end\": \"0:08:31.223\"}"
+      }
+    ]
+  },
+  "510000": {
+    "id": "33a24ef09f-51",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:30",
+    "endTime": "00:08:40",
+    "transcripts": [
+      {
+        "transcript": "It's not like you come home smelling like coffee.",
+        "assets": "{\"id\": 97, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:28.388\", \"end\": \"0:08:31.223\"}"
+      },
+      {
+        "transcript": "What do you want Shelton?",
+        "assets": "{\"id\": 98, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:31.223\", \"end\": \"0:08:32.697\"}"
+      },
+      {
+        "transcript": "I wanna know why no one told me about this recruitment letter from Caltech.",
+        "assets": "{\"id\": 99, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:32.697\", \"end\": \"0:08:37.54\"}"
+      },
+      {
+        "transcript": "Let me see that.",
+        "assets": "{\"id\": 100, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:37.54\", \"end\": \"0:08:39.55\"}"
+      },
+      {
+        "transcript": "Alright, let's get me drunk high Mr Gibbons,",
+        "assets": "{\"id\": 101, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:39.55\", \"end\": \"0:08:43.528\"}"
+      }
+    ]
+  },
+  "520000": {
+    "id": "33a24ef09f-52",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:40",
+    "endTime": "00:08:50",
+    "transcripts": [
+      {
+        "transcript": "Alright, let's get me drunk high Mr Gibbons,",
+        "assets": "{\"id\": 101, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:39.55\", \"end\": \"0:08:43.528\"}"
+      },
+      {
+        "transcript": "oh come on.",
+        "assets": "{\"id\": 102, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:43.528\", \"end\": \"0:08:46.5\"}"
+      },
+      {
+        "transcript": "Hey, what are you doing with him?",
+        "assets": "{\"id\": 103, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:46.5\", \"end\": \"0:08:48.611\"}"
+      },
+      {
+        "transcript": "I thought you were in your room.",
+        "assets": "{\"id\": 104, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:48.611\", \"end\": \"0:08:50.659\"}"
+      }
+    ]
+  },
+  "530000": {
+    "id": "33a24ef09f-53",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:50",
+    "endTime": "00:09:00",
+    "transcripts": [
+      {
+        "transcript": "I thought you were in your room.",
+        "assets": "{\"id\": 104, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:48.611\", \"end\": \"0:08:50.659\"}"
+      },
+      {
+        "transcript": "I don't worry I was.",
+        "assets": "{\"id\": 105, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:50.659\", \"end\": \"0:08:51.963\"}"
+      },
+      {
+        "transcript": "I need to talk to your mother.",
+        "assets": "{\"id\": 106, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:51.963\", \"end\": \"0:08:53.888\"}"
+      },
+      {
+        "transcript": "Go back to your room alright and this time stay there.",
+        "assets": "{\"id\": 107, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:08:53.888\", \"end\": \"0:08:58.25\"}"
+      },
+      {
+        "transcript": "Well, tell me about this.",
+        "assets": "{\"id\": 108, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:58.25\", \"end\": \"0:09:00.58\"}"
+      }
+    ]
+  },
+  "540000": {
+    "id": "33a24ef09f-54",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:00",
+    "endTime": "00:09:10",
+    "transcripts": [
+      {
+        "transcript": "Well, tell me about this.",
+        "assets": "{\"id\": 108, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:08:58.25\", \"end\": \"0:09:00.58\"}"
+      },
+      {
+        "transcript": "It came a couple of weeks ago and since there's no way he's going to California,",
+        "assets": "{\"id\": 109, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:00.58\", \"end\": \"0:09:06.598\"}"
+      },
+      {
+        "transcript": "I didn't see the point in him knowing about it.",
+        "assets": "{\"id\": 110, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:06.598\", \"end\": \"0:09:10.91\"}"
+      }
+    ]
+  },
+  "550000": {
+    "id": "33a24ef09f-55",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:10",
+    "endTime": "00:09:20",
+    "transcripts": [
+      {
+        "transcript": "I didn't see the point in him knowing about it.",
+        "assets": "{\"id\": 110, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:06.598\", \"end\": \"0:09:10.91\"}"
+      },
+      {
+        "transcript": "And when were you going to tell me?",
+        "assets": "{\"id\": 111, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:09:10.91\", \"end\": \"0:09:12.94\"}"
+      },
+      {
+        "transcript": "What difference does it make?",
+        "assets": "{\"id\": 112, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:12.94\", \"end\": \"0:09:14.658\"}"
+      },
+      {
+        "transcript": "This says to the parents of Sheldon Cooper?",
+        "assets": "{\"id\": 113, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:09:14.658\", \"end\": \"0:09:17.177\"}"
+      },
+      {
+        "transcript": "Last I checked, it was me too.",
+        "assets": "{\"id\": 114, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:17.177\", \"end\": \"0:09:18.952\"}"
+      },
+      {
+        "transcript": "You are making a big deal out of nothing.",
+        "assets": "{\"id\": 115, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:18.952\", \"end\": \"0:09:21.82\"}"
+      }
+    ]
+  },
+  "560000": {
+    "id": "33a24ef09f-56",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:20",
+    "endTime": "00:09:30",
+    "transcripts": [
+      {
+        "transcript": "You are making a big deal out of nothing.",
+        "assets": "{\"id\": 115, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:18.952\", \"end\": \"0:09:21.82\"}"
+      },
+      {
+        "transcript": "This could be a huge opportunity for him.",
+        "assets": "{\"id\": 116, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:09:21.82\", \"end\": \"0:09:24.367\"}"
+      },
+      {
+        "transcript": "I should at least be told about it.",
+        "assets": "{\"id\": 117, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:24.367\", \"end\": \"0:09:26.551\"}"
+      },
+      {
+        "transcript": "OK, now you know you think you get to make these decisions all by yourself.",
+        "assets": "{\"id\": 118, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:26.551\", \"end\": \"0:09:31.16\"}"
+      }
+    ]
+  },
+  "570000": {
+    "id": "33a24ef09f-57",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:30",
+    "endTime": "00:09:40",
+    "transcripts": [
+      {
+        "transcript": "OK, now you know you think you get to make these decisions all by yourself.",
+        "assets": "{\"id\": 118, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:26.551\", \"end\": \"0:09:31.16\"}"
+      },
+      {
+        "transcript": "In this case, yeah, well,",
+        "assets": "{\"id\": 119, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:31.16\", \"end\": \"0:09:32.737\"}"
+      },
+      {
+        "transcript": "you don't. He's not just your son,",
+        "assets": "{\"id\": 120, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:09:32.737\", \"end\": \"0:09:34.86\"}"
+      },
+      {
+        "transcript": "he's my son too.",
+        "assets": "{\"id\": 121, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:09:34.86\", \"end\": \"0:09:37.02\"}"
+      },
+      {
+        "transcript": "He didn't feel like your son when he had Chickenpox,",
+        "assets": "{\"id\": 122, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:37.02\", \"end\": \"0:09:39.957\"}"
+      },
+      {
+        "transcript": "or every morning when I have to make his lunch.",
+        "assets": "{\"id\": 123, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:39.957\", \"end\": \"0:09:42.617\"}"
+      }
+    ]
+  },
+  "580000": {
+    "id": "33a24ef09f-58",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:40",
+    "endTime": "00:09:50",
+    "transcripts": [
+      {
+        "transcript": "or every morning when I have to make his lunch.",
+        "assets": "{\"id\": 123, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:39.957\", \"end\": \"0:09:42.617\"}"
+      },
+      {
+        "transcript": "You feel like my son when I took him to Caltech,",
+        "assets": "{\"id\": 124, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:42.617\", \"end\": \"0:09:45.332\"}"
+      },
+      {
+        "transcript": "where he clearly impressed a lot of people.",
+        "assets": "{\"id\": 125, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:45.332\", \"end\": \"0:09:47.77\"}"
+      },
+      {
+        "transcript": "So you just want to ship our baby boy off to California to live by himself?",
+        "assets": "{\"id\": 126, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:47.77\", \"end\": \"0:09:51.982\"}"
+      }
+    ]
+  },
+  "590000": {
+    "id": "33a24ef09f-59",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:50",
+    "endTime": "00:10:00",
+    "transcripts": [
+      {
+        "transcript": "So you just want to ship our baby boy off to California to live by himself?",
+        "assets": "{\"id\": 126, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:47.77\", \"end\": \"0:09:51.982\"}"
+      },
+      {
+        "transcript": "I want to be included in decisions about his future.",
+        "assets": "{\"id\": 127, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:51.982\", \"end\": \"0:09:54.919\"}"
+      },
+      {
+        "transcript": "If that means California, maybe I'll go with him.",
+        "assets": "{\"id\": 128, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:54.919\", \"end\": \"0:09:57.69\"}"
+      },
+      {
+        "transcript": "He is not going anywhere.",
+        "assets": "{\"id\": 129, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:57.69\", \"end\": \"0:09:59.13\"}"
+      },
+      {
+        "transcript": "You can go as far away as you want.",
+        "assets": "{\"id\": 130, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:59.13\", \"end\": \"0:10:01.07\"}"
+      }
+    ]
+  },
+  "600000": {
+    "id": "33a24ef09f-60",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:00",
+    "endTime": "00:10:10",
+    "transcripts": [
+      {
+        "transcript": "You can go as far away as you want.",
+        "assets": "{\"id\": 130, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:09:59.13\", \"end\": \"0:10:01.07\"}"
+      }
+    ]
+  },
+  "610000": {
+    "id": "33a24ef09f-61",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:10",
+    "endTime": "00:10:20",
+    "transcripts": [
+      {
+        "transcript": "This is weird.",
+        "assets": "{\"id\": 132, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:17.34\", \"end\": \"0:10:20.56\"}"
+      }
+    ]
+  },
+  "620000": {
+    "id": "33a24ef09f-62",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:20",
+    "endTime": "00:10:30",
+    "transcripts": [
+      {
+        "transcript": "This is weird.",
+        "assets": "{\"id\": 132, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:17.34\", \"end\": \"0:10:20.56\"}"
+      },
+      {
+        "transcript": "I think it's nice. We don't usually get to chat,",
+        "assets": "{\"id\": 133, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:20.56\", \"end\": \"0:10:24.202\"}"
+      },
+      {
+        "transcript": "just us. Yeah, yes.",
+        "assets": "{\"id\": 134, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:24.202\", \"end\": \"0:10:26.93\"}"
+      },
+      {
+        "transcript": "How are things in school?",
+        "assets": "{\"id\": 136, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:29.53\", \"end\": \"0:10:31.51\"}"
+      }
+    ]
+  },
+  "630000": {
+    "id": "33a24ef09f-63",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:30",
+    "endTime": "00:10:40",
+    "transcripts": [
+      {
+        "transcript": "How are things in school?",
+        "assets": "{\"id\": 136, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:29.53\", \"end\": \"0:10:31.51\"}"
+      },
+      {
+        "transcript": "Still having fun at baseball.",
+        "assets": "{\"id\": 138, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:34.54\", \"end\": \"0:10:37.33\"}"
+      },
+      {
+        "transcript": "So any boys you like.",
+        "assets": "{\"id\": 140, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:39.7\", \"end\": \"0:10:43.32\"}"
+      }
+    ]
+  },
+  "640000": {
+    "id": "33a24ef09f-64",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:40",
+    "endTime": "00:10:50",
+    "transcripts": [
+      {
+        "transcript": "So any boys you like.",
+        "assets": "{\"id\": 140, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:39.7\", \"end\": \"0:10:43.32\"}"
+      },
+      {
+        "transcript": "Hey thank God, where have you been trying to find a job?",
+        "assets": "{\"id\": 141, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:43.32\", \"end\": \"0:10:47.587\"}"
+      },
+      {
+        "transcript": "No ones hiring. I'm sorry.",
+        "assets": "{\"id\": 142, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:47.587\", \"end\": \"0:10:49.609\"}"
+      },
+      {
+        "transcript": "Grab a plate and sit with us.",
+        "assets": "{\"id\": 143, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:49.609\", \"end\": \"0:10:52.39\"}"
+      }
+    ]
+  },
+  "650000": {
+    "id": "33a24ef09f-65",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:50",
+    "endTime": "00:11:00",
+    "transcripts": [
+      {
+        "transcript": "Grab a plate and sit with us.",
+        "assets": "{\"id\": 143, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:49.609\", \"end\": \"0:10:52.39\"}"
+      },
+      {
+        "transcript": "I hungry.",
+        "assets": "{\"id\": 144, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:52.39\", \"end\": \"0:10:54.33\"}"
+      },
+      {
+        "transcript": "So where were we? Boys,",
+        "assets": "{\"id\": 145, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:54.33\", \"end\": \"0:10:57.409\"}"
+      },
+      {
+        "transcript": "George, you come back.",
+        "assets": "{\"id\": 146, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:57.409\", \"end\": \"0:11:00.01\"}"
+      }
+    ]
+  },
+  "660000": {
+    "id": "33a24ef09f-66",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:00",
+    "endTime": "00:11:10",
+    "transcripts": [
+      {
+        "transcript": "George, you come back.",
+        "assets": "{\"id\": 146, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:10:57.409\", \"end\": \"0:11:00.01\"}"
+      },
+      {
+        "transcript": "I should have shown you the letter.",
+        "assets": "{\"id\": 148, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:06.29\", \"end\": \"0:11:11.43\"}"
+      }
+    ]
+  },
+  "670000": {
+    "id": "33a24ef09f-67",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:10",
+    "endTime": "00:11:20",
+    "transcripts": [
+      {
+        "transcript": "I should have shown you the letter.",
+        "assets": "{\"id\": 148, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:06.29\", \"end\": \"0:11:11.43\"}"
+      },
+      {
+        "transcript": "Yeah, you should have.",
+        "assets": "{\"id\": 149, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:11.43\", \"end\": \"0:11:14.32\"}"
+      },
+      {
+        "transcript": "I was going to eventually sure you were.",
+        "assets": "{\"id\": 150, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:14.32\", \"end\": \"0:11:18.9\"}"
+      },
+      {
+        "transcript": "You should know.",
+        "assets": "{\"id\": 151, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:18.9\", \"end\": \"0:11:21.91\"}"
+      }
+    ]
+  },
+  "680000": {
+    "id": "33a24ef09f-68",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:20",
+    "endTime": "00:11:30",
+    "transcripts": [
+      {
+        "transcript": "You should know.",
+        "assets": "{\"id\": 151, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:18.9\", \"end\": \"0:11:21.91\"}"
+      },
+      {
+        "transcript": "Caltech wasn't the only school that sent one.",
+        "assets": "{\"id\": 152, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:21.91\", \"end\": \"0:11:24.39\"}"
+      },
+      {
+        "transcript": "Are you kidding Maine? One was in New Jersey and one was all the way in Germany.",
+        "assets": "{\"id\": 154, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:26.99\", \"end\": \"0:11:34.296\"}"
+      }
+    ]
+  },
+  "690000": {
+    "id": "33a24ef09f-69",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:30",
+    "endTime": "00:11:40",
+    "transcripts": [
+      {
+        "transcript": "Are you kidding Maine? One was in New Jersey and one was all the way in Germany.",
+        "assets": "{\"id\": 154, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:26.99\", \"end\": \"0:11:34.296\"}"
+      },
+      {
+        "transcript": "Well, who says he can't go to school in New Jersey?",
+        "assets": "{\"id\": 155, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:34.296\", \"end\": \"0:11:37.654\"}"
+      },
+      {
+        "transcript": "I don't know. Maybe we'll all move to New Jersey.",
+        "assets": "{\"id\": 156, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:37.654\", \"end\": \"0:11:40.884\"}"
+      }
+    ]
+  },
+  "700000": {
+    "id": "33a24ef09f-70",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:40",
+    "endTime": "00:11:50",
+    "transcripts": [
+      {
+        "transcript": "I don't know. Maybe we'll all move to New Jersey.",
+        "assets": "{\"id\": 156, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:37.654\", \"end\": \"0:11:40.884\"}"
+      },
+      {
+        "transcript": "We're not moving to New Jersey George.",
+        "assets": "{\"id\": 157, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:40.884\", \"end\": \"0:11:43.402\"}"
+      },
+      {
+        "transcript": "Well, I guess Mary has spoken.",
+        "assets": "{\"id\": 158, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:43.402\", \"end\": \"0:11:45.34\"}"
+      },
+      {
+        "transcript": "Start.",
+        "assets": "{\"id\": 159, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:45.34\", \"end\": \"0:11:47.45\"}"
+      },
+      {
+        "transcript": "You know this is your fault.",
+        "assets": "{\"id\": 160, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:47.45\", \"end\": \"0:11:50.15\"}"
+      }
+    ]
+  },
+  "710000": {
+    "id": "33a24ef09f-71",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:50",
+    "endTime": "00:12:00",
+    "transcripts": [
+      {
+        "transcript": "You know this is your fault.",
+        "assets": "{\"id\": 160, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:47.45\", \"end\": \"0:11:50.15\"}"
+      },
+      {
+        "transcript": "You're the one who read the letter you put in her night stand.",
+        "assets": "{\"id\": 161, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:50.15\", \"end\": \"0:11:53.943\"}"
+      },
+      {
+        "transcript": "Was looking for a flashlight.",
+        "assets": "{\"id\": 162, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:53.943\", \"end\": \"0:11:55.75\"}"
+      },
+      {
+        "transcript": "It's not my fault. Mom was hiding things there.",
+        "assets": "{\"id\": 163, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:11:55.75\", \"end\": \"0:11:58.64\"}"
+      },
+      {
+        "transcript": "The fighting is your freak.",
+        "assets": "{\"id\": 164, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:58.64\", \"end\": \"0:12:00.326\"}"
+      }
+    ]
+  },
+  "720000": {
+    "id": "33a24ef09f-72",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:00",
+    "endTime": "00:12:10",
+    "transcripts": [
+      {
+        "transcript": "The fighting is your freak.",
+        "assets": "{\"id\": 164, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:11:58.64\", \"end\": \"0:12:00.326\"}"
+      },
+      {
+        "transcript": "That's your fault. You know I'm right.",
+        "assets": "{\"id\": 165, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:00.326\", \"end\": \"0:12:05.03\"}"
+      },
+      {
+        "transcript": "This is about what's best for you.",
+        "assets": "{\"id\": 166, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:05.03\", \"end\": \"0:12:07.82\"}"
+      }
+    ]
+  },
+  "730000": {
+    "id": "33a24ef09f-73",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:10",
+    "endTime": "00:12:20",
+    "transcripts": [
+      {
+        "transcript": "Where you going sleep on the couch?",
+        "assets": "{\"id\": 168, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:10.23\", \"end\": \"0:12:17.17\"}"
+      },
+      {
+        "transcript": "Oh baby, come here.",
+        "assets": "{\"id\": 169, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:17.17\", \"end\": \"0:12:20.1\"}"
+      }
+    ]
+  },
+  "740000": {
+    "id": "33a24ef09f-74",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:20",
+    "endTime": "00:12:30",
+    "transcripts": [
+      {
+        "transcript": "Oh baby, come here.",
+        "assets": "{\"id\": 169, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:17.17\", \"end\": \"0:12:20.1\"}"
+      },
+      {
+        "transcript": "I want dad. Come on,",
+        "assets": "{\"id\": 171, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:22.49\", \"end\": \"0:12:26.007\"}"
+      },
+      {
+        "transcript": "let's get you back here.",
+        "assets": "{\"id\": 172, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:26.007\", \"end\": \"0:12:30.4\"}"
+      }
+    ]
+  },
+  "750000": {
+    "id": "33a24ef09f-75",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:30",
+    "endTime": "00:12:40",
+    "transcripts": [
+      {
+        "transcript": "let's get you back here.",
+        "assets": "{\"id\": 172, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:26.007\", \"end\": \"0:12:30.4\"}"
+      }
+    ]
+  },
+  "760000": {
+    "id": "33a24ef09f-76",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:40",
+    "endTime": "00:12:50",
+    "transcripts": [
+      {
+        "transcript": "did the schools even hear about me?",
+        "assets": "{\"id\": 174, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:12:44.739\", \"end\": \"0:12:49.63\"}"
+      },
+      {
+        "transcript": "Where is Jenny like sports is always recruiters looking for talent.",
+        "assets": "{\"id\": 175, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:49.63\", \"end\": \"0:12:53.7\"}"
+      }
+    ]
+  },
+  "770000": {
+    "id": "33a24ef09f-77",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:50",
+    "endTime": "00:13:00",
+    "transcripts": [
+      {
+        "transcript": "Where is Jenny like sports is always recruiters looking for talent.",
+        "assets": "{\"id\": 175, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:49.63\", \"end\": \"0:12:53.7\"}"
+      },
+      {
+        "transcript": "I really enjoyed visiting Caltech,",
+        "assets": "{\"id\": 176, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:53.7\", \"end\": \"0:12:55.837\"}"
+      },
+      {
+        "transcript": "But Prince is an interesting choice.",
+        "assets": "{\"id\": 177, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:55.837\", \"end\": \"0:12:58.096\"}"
+      },
+      {
+        "transcript": "Albert Einstein taught there buddy.",
+        "assets": "{\"id\": 178, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:58.096\", \"end\": \"0:13:00.295\"}"
+      }
+    ]
+  },
+  "780000": {
+    "id": "33a24ef09f-78",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:00",
+    "endTime": "00:13:10",
+    "transcripts": [
+      {
+        "transcript": "Albert Einstein taught there buddy.",
+        "assets": "{\"id\": 178, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:12:58.096\", \"end\": \"0:13:00.295\"}"
+      },
+      {
+        "transcript": "It's nice. All the schools are interested,",
+        "assets": "{\"id\": 179, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:00.295\", \"end\": \"0:13:02.92\"}"
+      },
+      {
+        "transcript": "but California, New Jersey are really far away.",
+        "assets": "{\"id\": 180, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:02.92\", \"end\": \"0:13:06.48\"}"
+      },
+      {
+        "transcript": "Now you don't want me to go to college either.",
+        "assets": "{\"id\": 181, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:06.48\", \"end\": \"0:13:09.51\"}"
+      },
+      {
+        "transcript": "I didn't say that I'm just saying given how young you are,",
+        "assets": "{\"id\": 182, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:09.51\", \"end\": \"0:13:13.313\"}"
+      }
+    ]
+  },
+  "790000": {
+    "id": "33a24ef09f-79",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:10",
+    "endTime": "00:13:20",
+    "transcripts": [
+      {
+        "transcript": "I didn't say that I'm just saying given how young you are,",
+        "assets": "{\"id\": 182, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:09.51\", \"end\": \"0:13:13.313\"}"
+      },
+      {
+        "transcript": "we need to be realistic.",
+        "assets": "{\"id\": 183, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:13.313\", \"end\": \"0:13:14.86\"}"
+      },
+      {
+        "transcript": "I recently took care of my own Boo Boo an as grownups.",
+        "assets": "{\"id\": 184, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:14.86\", \"end\": \"0:13:17.125\"}"
+      },
+      {
+        "transcript": "That makes you sound. I don't think it's going to convince your mother.",
+        "assets": "{\"id\": 185, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:17.125\", \"end\": \"0:13:20.75\"}"
+      }
+    ]
+  },
+  "800000": {
+    "id": "33a24ef09f-80",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:20",
+    "endTime": "00:13:30",
+    "transcripts": [
+      {
+        "transcript": "That makes you sound. I don't think it's going to convince your mother.",
+        "assets": "{\"id\": 185, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:17.125\", \"end\": \"0:13:20.75\"}"
+      },
+      {
+        "transcript": "What will convince her? I'm sure between two of us we can come up with a plane.",
+        "assets": "{\"id\": 186, \"speakerId\": 4, \"language\": \"en-US\", \"start\": \"0:13:20.75\", \"end\": \"0:13:26.81\"}"
+      },
+      {
+        "transcript": "Are you so you do have a track record?",
+        "assets": "{\"id\": 187, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:26.81\", \"end\": \"0:13:30.51\"}"
+      }
+    ]
+  },
+  "810000": {
+    "id": "33a24ef09f-81",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:30",
+    "endTime": "00:13:40",
+    "transcripts": [
+      {
+        "transcript": "Are you so you do have a track record?",
+        "assets": "{\"id\": 187, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:26.81\", \"end\": \"0:13:30.51\"}"
+      },
+      {
+        "transcript": "OK, The X is you.",
+        "assets": "{\"id\": 188, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:30.51\", \"end\": \"0:13:34.5\"}"
+      },
+      {
+        "transcript": "College is the goal. What stands between you and the goal line.",
+        "assets": "{\"id\": 189, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:13:34.5\", \"end\": \"0:13:38.392\"}"
+      },
+      {
+        "transcript": "Mom. Exactly. She's a tough opponent.",
+        "assets": "{\"id\": 190, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:13:38.392\", \"end\": \"0:13:40.703\"}"
+      }
+    ]
+  },
+  "820000": {
+    "id": "33a24ef09f-82",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:40",
+    "endTime": "00:13:50",
+    "transcripts": [
+      {
+        "transcript": "Mom. Exactly. She's a tough opponent.",
+        "assets": "{\"id\": 190, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:13:38.392\", \"end\": \"0:13:40.703\"}"
+      },
+      {
+        "transcript": "So we gotta be smart about how we get around here,",
+        "assets": "{\"id\": 191, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:13:40.703\", \"end\": \"0:13:43.804\"}"
+      },
+      {
+        "transcript": "which won't be easy because she's got Jesus on her team.",
+        "assets": "{\"id\": 192, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:43.804\", \"end\": \"0:13:48.25\"}"
+      },
+      {
+        "transcript": "Boy Howdy.",
+        "assets": "{\"id\": 193, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:48.25\", \"end\": \"0:13:50.29\"}"
+      }
+    ]
+  },
+  "830000": {
+    "id": "33a24ef09f-83",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:50",
+    "endTime": "00:14:00",
+    "transcripts": [
+      {
+        "transcript": "Boy Howdy.",
+        "assets": "{\"id\": 193, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:48.25\", \"end\": \"0:13:50.29\"}"
+      },
+      {
+        "transcript": "Oh my God.",
+        "assets": "{\"id\": 195, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:13:54.18\", \"end\": \"0:13:56.7\"}"
+      },
+      {
+        "transcript": "You smoke. Then your face is on fire.",
+        "assets": "{\"id\": 196, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:56.7\", \"end\": \"0:14:02.59\"}"
+      }
+    ]
+  },
+  "840000": {
+    "id": "33a24ef09f-84",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:00",
+    "endTime": "00:14:10",
+    "transcripts": [
+      {
+        "transcript": "You smoke. Then your face is on fire.",
+        "assets": "{\"id\": 196, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:13:56.7\", \"end\": \"0:14:02.59\"}"
+      },
+      {
+        "transcript": "It's just the one Up going through a rough Patch.",
+        "assets": "{\"id\": 197, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:02.59\", \"end\": \"0:14:07.56\"}"
+      },
+      {
+        "transcript": "What happened the bookmark? Follow your Bible and you lost your place.",
+        "assets": "{\"id\": 198, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:14:07.56\", \"end\": \"0:14:12.04\"}"
+      }
+    ]
+  },
+  "850000": {
+    "id": "33a24ef09f-85",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:10",
+    "endTime": "00:14:20",
+    "transcripts": [
+      {
+        "transcript": "What happened the bookmark? Follow your Bible and you lost your place.",
+        "assets": "{\"id\": 198, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:14:07.56\", \"end\": \"0:14:12.04\"}"
+      },
+      {
+        "transcript": "No, you run out of room on your fridge for Sheldon's perfect report cards.",
+        "assets": "{\"id\": 199, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:14:12.04\", \"end\": \"0:14:16.03\"}"
+      }
+    ]
+  },
+  "860000": {
+    "id": "33a24ef09f-86",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:20",
+    "endTime": "00:14:30",
+    "transcripts": [
+      {
+        "transcript": "Oh Oh hey. I was just kidding around.",
+        "assets": "{\"id\": 201, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:14:21.9\", \"end\": \"0:14:31.51\"}"
+      }
+    ]
+  },
+  "870000": {
+    "id": "33a24ef09f-87",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:30",
+    "endTime": "00:14:40",
+    "transcripts": [
+      {
+        "transcript": "Oh Oh hey. I was just kidding around.",
+        "assets": "{\"id\": 201, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:14:21.9\", \"end\": \"0:14:31.51\"}"
+      },
+      {
+        "transcript": "Uh, No. Once you come over here.",
+        "assets": "{\"id\": 202, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:31.51\", \"end\": \"0:14:38.84\"}"
+      },
+      {
+        "transcript": "Really, and bring the pack will go in the chicken coop where God can't see us.",
+        "assets": "{\"id\": 203, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:38.84\", \"end\": \"0:14:45.67\"}"
+      }
+    ]
+  },
+  "880000": {
+    "id": "33a24ef09f-88",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:40",
+    "endTime": "00:14:50",
+    "transcripts": [
+      {
+        "transcript": "Really, and bring the pack will go in the chicken coop where God can't see us.",
+        "assets": "{\"id\": 203, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:38.84\", \"end\": \"0:14:45.67\"}"
+      },
+      {
+        "transcript": "So we agree that the only way this is going to happen right now is if you stay local.",
+        "assets": "{\"id\": 204, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:14:45.67\", \"end\": \"0:14:50.564\"}"
+      }
+    ]
+  },
+  "890000": {
+    "id": "33a24ef09f-89",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:50",
+    "endTime": "00:15:00",
+    "transcripts": [
+      {
+        "transcript": "So we agree that the only way this is going to happen right now is if you stay local.",
+        "assets": "{\"id\": 204, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:14:45.67\", \"end\": \"0:14:50.564\"}"
+      },
+      {
+        "transcript": "I can always go away for grad school someday.",
+        "assets": "{\"id\": 205, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:50.564\", \"end\": \"0:14:53.182\"}"
+      },
+      {
+        "transcript": "And truth be told I don't have the emotional maturity to squish my own bugs.",
+        "assets": "{\"id\": 206, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:53.182\", \"end\": \"0:14:57.564\"}"
+      },
+      {
+        "transcript": "Anyway, that leaves us with the big question.",
+        "assets": "{\"id\": 207, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:57.564\", \"end\": \"0:15:00.182\"}"
+      }
+    ]
+  },
+  "900000": {
+    "id": "33a24ef09f-90",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:00",
+    "endTime": "00:15:10",
+    "transcripts": [
+      {
+        "transcript": "Anyway, that leaves us with the big question.",
+        "assets": "{\"id\": 207, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:14:57.564\", \"end\": \"0:15:00.182\"}"
+      },
+      {
+        "transcript": "How do we get your mom?",
+        "assets": "{\"id\": 208, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:15:00.182\", \"end\": \"0:15:01.548\"}"
+      },
+      {
+        "transcript": "I'm bored. We going where Sturgis teaches.",
+        "assets": "{\"id\": 209, \"speakerId\": 5, \"language\": \"en-US\", \"start\": \"0:15:01.548\", \"end\": \"0:15:03.995\"}"
+      },
+      {
+        "transcript": "Well, how did you get her to agree to marry you?",
+        "assets": "{\"id\": 210, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:03.995\", \"end\": \"0:15:06.784\"}"
+      },
+      {
+        "transcript": "I won't work, she doesn't drink anymore.",
+        "assets": "{\"id\": 211, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:06.784\", \"end\": \"0:15:09.72\"}"
+      }
+    ]
+  },
+  "910000": {
+    "id": "33a24ef09f-91",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:10",
+    "endTime": "00:15:20",
+    "transcripts": [
+      {
+        "transcript": "So George is mad at me in Shelton's,",
+        "assets": "{\"id\": 213, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:13.09\", \"end\": \"0:15:16.027\"}"
+      },
+      {
+        "transcript": "mad at me, and honestly,",
+        "assets": "{\"id\": 214, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:16.027\", \"end\": \"0:15:18.011\"}"
+      },
+      {
+        "transcript": "I'm mad at me too.",
+        "assets": "{\"id\": 215, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:18.011\", \"end\": \"0:15:20.47\"}"
+      }
+    ]
+  },
+  "920000": {
+    "id": "33a24ef09f-92",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:20",
+    "endTime": "00:15:30",
+    "transcripts": [
+      {
+        "transcript": "I'm mad at me too.",
+        "assets": "{\"id\": 215, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:18.011\", \"end\": \"0:15:20.47\"}"
+      },
+      {
+        "transcript": "Will you please give yourself a break?",
+        "assets": "{\"id\": 216, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:20.47\", \"end\": \"0:15:23.5\"}"
+      },
+      {
+        "transcript": "All that you do for that family,",
+        "assets": "{\"id\": 217, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:23.5\", \"end\": \"0:15:25.77\"}"
+      },
+      {
+        "transcript": "I'm surprised you didn't crack years ago.",
+        "assets": "{\"id\": 218, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:25.77\", \"end\": \"0:15:29.53\"}"
+      },
+      {
+        "transcript": "How do you handle it all?",
+        "assets": "{\"id\": 219, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:29.53\", \"end\": \"0:15:31.144\"}"
+      }
+    ]
+  },
+  "930000": {
+    "id": "33a24ef09f-93",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:30",
+    "endTime": "00:15:40",
+    "transcripts": [
+      {
+        "transcript": "How do you handle it all?",
+        "assets": "{\"id\": 219, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:29.53\", \"end\": \"0:15:31.144\"}"
+      },
+      {
+        "transcript": "I'm sitting in the chicken coop drinking a wine cooler at 11:00 AM.",
+        "assets": "{\"id\": 220, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:31.144\", \"end\": \"0:15:35.367\"}"
+      },
+      {
+        "transcript": "Clearly I don't. Chili in this college stuff is killing me.",
+        "assets": "{\"id\": 221, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:35.367\", \"end\": \"0:15:42.31\"}"
+      }
+    ]
+  },
+  "940000": {
+    "id": "33a24ef09f-94",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:40",
+    "endTime": "00:15:50",
+    "transcripts": [
+      {
+        "transcript": "Clearly I don't. Chili in this college stuff is killing me.",
+        "assets": "{\"id\": 221, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:35.367\", \"end\": \"0:15:42.31\"}"
+      },
+      {
+        "transcript": "I never went to college.",
+        "assets": "{\"id\": 222, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:42.31\", \"end\": \"0:15:43.794\"}"
+      },
+      {
+        "transcript": "How can I prepare him?",
+        "assets": "{\"id\": 223, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:43.794\", \"end\": \"0:15:45.7\"}"
+      },
+      {
+        "transcript": "We're if that kid is smart enough to have colleges want him already.",
+        "assets": "{\"id\": 224, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:15:45.7\", \"end\": \"0:15:49.205\"}"
+      },
+      {
+        "transcript": "He's gotta be smart enough to figure it out.",
+        "assets": "{\"id\": 225, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:49.205\", \"end\": \"0:15:52.28\"}"
+      }
+    ]
+  },
+  "950000": {
+    "id": "33a24ef09f-95",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:50",
+    "endTime": "00:16:00",
+    "transcripts": [
+      {
+        "transcript": "He's gotta be smart enough to figure it out.",
+        "assets": "{\"id\": 225, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:49.205\", \"end\": \"0:15:52.28\"}"
+      },
+      {
+        "transcript": "My baby.",
+        "assets": "{\"id\": 226, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:52.28\", \"end\": \"0:15:53.02\"}"
+      },
+      {
+        "transcript": "It still hurts to hear him say once they leave.",
+        "assets": "{\"id\": 228, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:56.2\", \"end\": \"0:16:01.14\"}"
+      }
+    ]
+  },
+  "960000": {
+    "id": "33a24ef09f-96",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:00",
+    "endTime": "00:16:10",
+    "transcripts": [
+      {
+        "transcript": "It still hurts to hear him say once they leave.",
+        "assets": "{\"id\": 228, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:15:56.2\", \"end\": \"0:16:01.14\"}"
+      },
+      {
+        "transcript": "I bet.",
+        "assets": "{\"id\": 229, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:01.14\", \"end\": \"0:16:01.74\"}"
+      },
+      {
+        "transcript": "On the other hand, I'm worried my Billy will never be ready to leave,",
+        "assets": "{\"id\": 231, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:04.27\", \"end\": \"0:16:09.456\"}"
+      },
+      {
+        "transcript": "so of course he will damn smoking drinking lime.",
+        "assets": "{\"id\": 232, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:09.456\", \"end\": \"0:16:13.087\"}"
+      }
+    ]
+  },
+  "970000": {
+    "id": "33a24ef09f-97",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:10",
+    "endTime": "00:16:20",
+    "transcripts": [
+      {
+        "transcript": "so of course he will damn smoking drinking lime.",
+        "assets": "{\"id\": 232, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:09.456\", \"end\": \"0:16:13.087\"}"
+      },
+      {
+        "transcript": "You're covering all the sins today.",
+        "assets": "{\"id\": 233, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:13.087\", \"end\": \"0:16:16.74\"}"
+      },
+      {
+        "transcript": "Is it terrible? Erratic yes.",
+        "assets": "{\"id\": 234, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:16:16.74\", \"end\": \"0:16:24.42\"}"
+      }
+    ]
+  },
+  "980000": {
+    "id": "33a24ef09f-98",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:20",
+    "endTime": "00:16:30",
+    "transcripts": [
+      {
+        "transcript": "Is it terrible? Erratic yes.",
+        "assets": "{\"id\": 234, \"speakerId\": 1, \"language\": \"en-US\", \"start\": \"0:16:16.74\", \"end\": \"0:16:24.42\"}"
+      },
+      {
+        "transcript": "OK, we're rolling. Hello mother,",
+        "assets": "{\"id\": 235, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:24.42\", \"end\": \"0:16:27.243\"}"
+      },
+      {
+        "transcript": "I'd like to present my case as to why I should be allowed to go to East Texas Tech next year and I'll keep it simple so you don't get",
+        "assets": "{\"id\": 236, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:27.243\", \"end\": \"0:16:34.352\"}"
+      }
+    ]
+  },
+  "990000": {
+    "id": "33a24ef09f-99",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:30",
+    "endTime": "00:16:40",
+    "transcripts": [
+      {
+        "transcript": "I'd like to present my case as to why I should be allowed to go to East Texas Tech next year and I'll keep it simple so you don't get",
+        "assets": "{\"id\": 236, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:27.243\", \"end\": \"0:16:34.352\"}"
+      },
+      {
+        "transcript": "confused. Sing in my teeth.",
+        "assets": "{\"id\": 237, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:34.352\", \"end\": \"0:16:37.92\"}"
+      },
+      {
+        "transcript": "I brought you a snack thanks.",
+        "assets": "{\"id\": 238, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:37.92\", \"end\": \"0:16:40.21\"}"
+      }
+    ]
+  },
+  "1000000": {
+    "id": "33a24ef09f-100",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:40",
+    "endTime": "00:16:50",
+    "transcripts": [
+      {
+        "transcript": "I brought you a snack thanks.",
+        "assets": "{\"id\": 238, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:37.92\", \"end\": \"0:16:40.21\"}"
+      },
+      {
+        "transcript": "So I don't know if you heard me and your father having a disagreement last night.",
+        "assets": "{\"id\": 240, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:42.76\", \"end\": \"0:16:48.37\"}"
+      },
+      {
+        "transcript": "Disagreement fun aspect.",
+        "assets": "{\"id\": 241, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:48.37\", \"end\": \"0:16:52.12\"}"
+      }
+    ]
+  },
+  "1010000": {
+    "id": "33a24ef09f-101",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:50",
+    "endTime": "00:17:00",
+    "transcripts": [
+      {
+        "transcript": "Disagreement fun aspect.",
+        "assets": "{\"id\": 241, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:48.37\", \"end\": \"0:16:52.12\"}"
+      },
+      {
+        "transcript": "OK, I'm fat. I just want you to know that you do not need to worry.",
+        "assets": "{\"id\": 242, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:16:52.12\", \"end\": \"0:16:58.68\"}"
+      },
+      {
+        "transcript": "It's kind of hard, not too.",
+        "assets": "{\"id\": 243, \"speakerId\": 3, \"language\": \"en-US\", \"start\": \"0:16:58.68\", \"end\": \"0:16:59.89\"}"
+      }
+    ]
+  },
+  "1020000": {
+    "id": "33a24ef09f-102",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:00",
+    "endTime": "00:17:10",
+    "transcripts": [
+      {
+        "transcript": "Sometimes moms and dads have fights,",
+        "assets": "{\"id\": 245, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:01.91\", \"end\": \"0:17:04.625\"}"
+      },
+      {
+        "transcript": "but it doesn't mean that they don't work things out.",
+        "assets": "{\"id\": 246, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:04.625\", \"end\": \"0:17:09.55\"}"
+      },
+      {
+        "transcript": "Did you work it out?",
+        "assets": "{\"id\": 247, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:09.55\", \"end\": \"0:17:11.96\"}"
+      }
+    ]
+  },
+  "1030000": {
+    "id": "33a24ef09f-103",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:10",
+    "endTime": "00:17:20",
+    "transcripts": [
+      {
+        "transcript": "Did you work it out?",
+        "assets": "{\"id\": 247, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:09.55\", \"end\": \"0:17:11.96\"}"
+      },
+      {
+        "transcript": "Home thank you cookies.",
+        "assets": "{\"id\": 248, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:11.96\", \"end\": \"0:17:13.67\"}"
+      },
+      {
+        "transcript": "Why are you so late?",
+        "assets": "{\"id\": 250, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:18.78\", \"end\": \"0:17:21.57\"}"
+      }
+    ]
+  },
+  "1040000": {
+    "id": "33a24ef09f-104",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:20",
+    "endTime": "00:17:30",
+    "transcripts": [
+      {
+        "transcript": "Why are you so late?",
+        "assets": "{\"id\": 250, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:18.78\", \"end\": \"0:17:21.57\"}"
+      },
+      {
+        "transcript": "Shell. I've put together a presentation detailing the reasons why should be allowed to go to college,",
+        "assets": "{\"id\": 251, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:21.57\", \"end\": \"0:17:27.031\"}"
+      },
+      {
+        "transcript": "and I like you to watch it with an open mind.",
+        "assets": "{\"id\": 252, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:27.031\", \"end\": \"0:17:29.04\"}"
+      }
+    ]
+  },
+  "1050000": {
+    "id": "33a24ef09f-105",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:30",
+    "endTime": "00:17:40",
+    "transcripts": [
+      {
+        "transcript": "I can do that. Excellent.",
+        "assets": "{\"id\": 254, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:33.02\", \"end\": \"0:17:36.89\"}"
+      },
+      {
+        "transcript": "Is Nemo here smoke cigarettes?",
+        "assets": "{\"id\": 255, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:36.89\", \"end\": \"0:17:40.47\"}"
+      }
+    ]
+  },
+  "1060000": {
+    "id": "33a24ef09f-106",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:40",
+    "endTime": "00:17:50",
+    "transcripts": [
+      {
+        "transcript": "Is Nemo here smoke cigarettes?",
+        "assets": "{\"id\": 255, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:36.89\", \"end\": \"0:17:40.47\"}"
+      },
+      {
+        "transcript": "Thank you for this opportunity to plead my case,",
+        "assets": "{\"id\": 256, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:40.47\", \"end\": \"0:17:44.193\"}"
+      },
+      {
+        "transcript": "and I'd like to thank my cameraman and driver dad.",
+        "assets": "{\"id\": 257, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:44.193\", \"end\": \"0:17:48.069\"}"
+      },
+      {
+        "transcript": "I'm not even like assistant director.",
+        "assets": "{\"id\": 258, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:48.069\", \"end\": \"0:17:51.42\"}"
+      }
+    ]
+  },
+  "1070000": {
+    "id": "33a24ef09f-107",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:50",
+    "endTime": "00:18:00",
+    "transcripts": [
+      {
+        "transcript": "I'm not even like assistant director.",
+        "assets": "{\"id\": 258, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:48.069\", \"end\": \"0:17:51.42\"}"
+      },
+      {
+        "transcript": "No, sit back enjoy.",
+        "assets": "{\"id\": 259, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:51.42\", \"end\": \"0:17:53.15\"}"
+      },
+      {
+        "transcript": "Hello, I'm Sheldon Cooper and This is why Sheldon Cooper should go to college.",
+        "assets": "{\"id\": 261, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:56.74\", \"end\": \"0:18:03.04\"}"
+      }
+    ]
+  },
+  "1080000": {
+    "id": "33a24ef09f-108",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:00",
+    "endTime": "00:18:10",
+    "transcripts": [
+      {
+        "transcript": "Hello, I'm Sheldon Cooper and This is why Sheldon Cooper should go to college.",
+        "assets": "{\"id\": 261, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:17:56.74\", \"end\": \"0:18:03.04\"}"
+      },
+      {
+        "transcript": "I realized attending College in another state or country is unrealistic at this time,",
+        "assets": "{\"id\": 262, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:03.04\", \"end\": \"0:18:07.383\"}"
+      },
+      {
+        "transcript": "which is why I'm proposing that I live at home but enrolled full-time to continue my studies with Doctor Sturgis at East Texas Tech.",
+        "assets": "{\"id\": 263, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:07.383\", \"end\": \"0:18:16.02\"}"
+      }
+    ]
+  },
+  "1090000": {
+    "id": "33a24ef09f-109",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:10",
+    "endTime": "00:18:20",
+    "transcripts": [
+      {
+        "transcript": "which is why I'm proposing that I live at home but enrolled full-time to continue my studies with Doctor Sturgis at East Texas Tech.",
+        "assets": "{\"id\": 263, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:07.383\", \"end\": \"0:18:16.02\"}"
+      },
+      {
+        "transcript": "I firmly believe that I'm ready for this next step in my academic life,",
+        "assets": "{\"id\": 264, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:16.02\", \"end\": \"0:18:19.881\"}"
+      },
+      {
+        "transcript": "but don't just take it for me.",
+        "assets": "{\"id\": 265, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:19.881\", \"end\": \"0:18:22.91\"}"
+      }
+    ]
+  },
+  "1100000": {
+    "id": "33a24ef09f-110",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:20",
+    "endTime": "00:18:30",
+    "transcripts": [
+      {
+        "transcript": "but don't just take it for me.",
+        "assets": "{\"id\": 265, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:19.881\", \"end\": \"0:18:22.91\"}"
+      },
+      {
+        "transcript": "He's ready in the fall now.",
+        "assets": "{\"id\": 266, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:22.91\", \"end\": \"0:18:25.414\"}"
+      },
+      {
+        "transcript": "Just let him go, please.",
+        "assets": "{\"id\": 267, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:25.414\", \"end\": \"0:18:28.14\"}"
+      },
+      {
+        "transcript": "I don't think I have anything left to teach Sheldon.",
+        "assets": "{\"id\": 268, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:28.14\", \"end\": \"0:18:31.767\"}"
+      }
+    ]
+  },
+  "1110000": {
+    "id": "33a24ef09f-111",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:30",
+    "endTime": "00:18:40",
+    "transcripts": [
+      {
+        "transcript": "I don't think I have anything left to teach Sheldon.",
+        "assets": "{\"id\": 268, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:28.14\", \"end\": \"0:18:31.767\"}"
+      },
+      {
+        "transcript": "I'm pretty sure he's already smarter than me,",
+        "assets": "{\"id\": 269, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:31.767\", \"end\": \"0:18:34.916\"}"
+      },
+      {
+        "transcript": "it's true. Honestly, teaching Sheldon is the hardest thing I've ever had to do,",
+        "assets": "{\"id\": 270, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:34.916\", \"end\": \"0:18:40.36\"}"
+      }
+    ]
+  },
+  "1120000": {
+    "id": "33a24ef09f-112",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:40",
+    "endTime": "00:18:50",
+    "transcripts": [
+      {
+        "transcript": "it's true. Honestly, teaching Sheldon is the hardest thing I've ever had to do,",
+        "assets": "{\"id\": 270, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:18:34.916\", \"end\": \"0:18:40.36\"}"
+      },
+      {
+        "transcript": "and I don't say that because it can be a pain.",
+        "assets": "{\"id\": 271, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:40.36\", \"end\": \"0:18:43.66\"}"
+      },
+      {
+        "transcript": "I say that because he's so intelligent I had to study every night just to keep up.",
+        "assets": "{\"id\": 272, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:43.66\", \"end\": \"0:18:50.94\"}"
+      }
+    ]
+  },
+  "1130000": {
+    "id": "33a24ef09f-113",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:50",
+    "endTime": "00:19:00",
+    "transcripts": [
+      {
+        "transcript": "I say that because he's so intelligent I had to study every night just to keep up.",
+        "assets": "{\"id\": 272, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:43.66\", \"end\": \"0:18:50.94\"}"
+      },
+      {
+        "transcript": "I miss him.",
+        "assets": "{\"id\": 273, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:50.94\", \"end\": \"0:18:51.71\"}"
+      },
+      {
+        "transcript": "A student like Sheldon comes along once in a lifetime.",
+        "assets": "{\"id\": 275, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:53.91\", \"end\": \"0:18:58.1\"}"
+      },
+      {
+        "transcript": "This school is not going to be the same without him,",
+        "assets": "{\"id\": 276, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:58.1\", \"end\": \"0:19:00.829\"}"
+      }
+    ]
+  },
+  "1140000": {
+    "id": "33a24ef09f-114",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:00",
+    "endTime": "00:19:10",
+    "transcripts": [
+      {
+        "transcript": "This school is not going to be the same without him,",
+        "assets": "{\"id\": 276, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:18:58.1\", \"end\": \"0:19:00.829\"}"
+      },
+      {
+        "transcript": "but I know he's going to do great things.",
+        "assets": "{\"id\": 277, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:00.829\", \"end\": \"0:19:03.87\"}"
+      },
+      {
+        "transcript": "Or to have been a small part of it.",
+        "assets": "{\"id\": 278, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:03.87\", \"end\": \"0:19:08.08\"}"
+      },
+      {
+        "transcript": "I'll chip in for gas money movement to his door with whatever you need.",
+        "assets": "{\"id\": 279, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:08.08\", \"end\": \"0:19:11.95\"}"
+      }
+    ]
+  },
+  "1150000": {
+    "id": "33a24ef09f-115",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:10",
+    "endTime": "00:19:20",
+    "transcripts": [
+      {
+        "transcript": "I'll chip in for gas money movement to his door with whatever you need.",
+        "assets": "{\"id\": 279, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:08.08\", \"end\": \"0:19:11.95\"}"
+      },
+      {
+        "transcript": "Let's make it happen.",
+        "assets": "{\"id\": 280, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:11.95\", \"end\": \"0:19:14.36\"}"
+      },
+      {
+        "transcript": "Hi Mary I know this must be a hard decision for you.",
+        "assets": "{\"id\": 281, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:14.36\", \"end\": \"0:19:19.5\"}"
+      },
+      {
+        "transcript": "I can't tell you how to parent your child.",
+        "assets": "{\"id\": 282, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:19.5\", \"end\": \"0:19:22.786\"}"
+      }
+    ]
+  },
+  "1160000": {
+    "id": "33a24ef09f-116",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:20",
+    "endTime": "00:19:30",
+    "transcripts": [
+      {
+        "transcript": "I can't tell you how to parent your child.",
+        "assets": "{\"id\": 282, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:19.5\", \"end\": \"0:19:22.786\"}"
+      },
+      {
+        "transcript": "I don't have children, but.",
+        "assets": "{\"id\": 283, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:22.786\", \"end\": \"0:19:25.62\"}"
+      },
+      {
+        "transcript": "I can tell you. That in all my years in academia,",
+        "assets": "{\"id\": 284, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:25.62\", \"end\": \"0:19:30.774\"}"
+      }
+    ]
+  },
+  "1170000": {
+    "id": "33a24ef09f-117",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:30",
+    "endTime": "00:19:40",
+    "transcripts": [
+      {
+        "transcript": "I can tell you. That in all my years in academia,",
+        "assets": "{\"id\": 284, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:25.62\", \"end\": \"0:19:30.774\"}"
+      },
+      {
+        "transcript": "I've never seen a mind like Sheldon's.",
+        "assets": "{\"id\": 285, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:30.774\", \"end\": \"0:19:35.67\"}"
+      },
+      {
+        "transcript": "He's truly extraordinary.",
+        "assets": "{\"id\": 286, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:35.67\", \"end\": \"0:19:39.19\"}"
+      },
+      {
+        "transcript": "An if you let him come here.",
+        "assets": "{\"id\": 287, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:39.19\", \"end\": \"0:19:41.52\"}"
+      }
+    ]
+  },
+  "1180000": {
+    "id": "33a24ef09f-118",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:40",
+    "endTime": "00:19:50",
+    "transcripts": [
+      {
+        "transcript": "An if you let him come here.",
+        "assets": "{\"id\": 287, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:39.19\", \"end\": \"0:19:41.52\"}"
+      },
+      {
+        "transcript": "I promise, will take good care of him.",
+        "assets": "{\"id\": 288, \"speakerId\": 9, \"language\": \"en-US\", \"start\": \"0:19:41.52\", \"end\": \"0:19:43.9\"}"
+      },
+      {
+        "transcript": "Sheldon Cooper ready for college ready to change the world.",
+        "assets": "{\"id\": 290, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:19:46.7\", \"end\": \"0:19:52.38\"}"
+      }
+    ]
+  },
+  "1190000": {
+    "id": "33a24ef09f-119",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:50",
+    "endTime": "00:20:00",
+    "transcripts": [
+      {
+        "transcript": "Sheldon Cooper ready for college ready to change the world.",
+        "assets": "{\"id\": 290, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:19:46.7\", \"end\": \"0:19:52.38\"}"
+      },
+      {
+        "transcript": "If that doesn't convince her,",
+        "assets": "{\"id\": 291, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:19:52.38\", \"end\": \"0:19:53.932\"}"
+      },
+      {
+        "transcript": "I don't know what her problem is.",
+        "assets": "{\"id\": 292, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:19:53.932\", \"end\": \"0:19:55.64\"}"
+      },
+      {
+        "transcript": "Well.",
+        "assets": "{\"id\": 294, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:19:58.43\", \"end\": \"0:19:59.01\"}"
+      }
+    ]
+  },
+  "1200000": {
+    "id": "33a24ef09f-120",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:00",
+    "endTime": "00:20:10",
+    "transcripts": [
+      {
+        "transcript": "Once you let me in your mom talk.",
+        "assets": "{\"id\": 296, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:20:02.97\", \"end\": \"0:20:05.49\"}"
+      },
+      {
+        "transcript": "All right?",
+        "assets": "{\"id\": 297, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:20:05.49\", \"end\": \"0:20:06.3\"}"
+      }
+    ]
+  },
+  "1210000": {
+    "id": "33a24ef09f-121",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:10",
+    "endTime": "00:20:20",
+    "transcripts": [
+      {
+        "transcript": "Well.",
+        "assets": "{\"id\": 299, \"speakerId\": 8, \"language\": \"en-US\", \"start\": \"0:20:13.46\", \"end\": \"0:20:13.97\"}"
+      }
+    ]
+  },
+  "1220000": {
+    "id": "33a24ef09f-122",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:20",
+    "endTime": "00:20:30",
+    "transcripts": [
+      {
+        "transcript": "I guess our babies going to college.",
+        "assets": "{\"id\": 301, \"speakerId\": 7, \"language\": \"en-US\", \"start\": \"0:20:24.01\", \"end\": \"0:20:29.26\"}"
+      }
+    ]
+  },
+  "1230000": {
+    "id": "33a24ef09f-123",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:30",
+    "endTime": "00:20:40"
+  },
+  "1240000": {
+    "id": "33a24ef09f-124",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:40",
+    "endTime": "00:20:50"
+  },
+  "1250000": {
+    "id": "33a24ef09f-125",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:50",
+    "endTime": "00:21:00",
+    "transcripts": [
+      {
+        "transcript": "Proof that was driving me crazy.",
+        "assets": "{\"id\": 303, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:20:55.26\", \"end\": \"0:21:01.96\"}"
+      }
+    ]
+  },
+  "1260000": {
+    "id": "33a24ef09f-126",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:00",
+    "endTime": "00:21:10",
+    "transcripts": [
+      {
+        "transcript": "Proof that was driving me crazy.",
+        "assets": "{\"id\": 303, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:20:55.26\", \"end\": \"0:21:01.96\"}"
+      },
+      {
+        "transcript": "Thank you for getting me into",
+        "assets": "{\"id\": 305, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:07.07\", \"end\": \"0:21:08.97\"}"
+      }
+    ]
+  },
+  "1270000": {
+    "id": "33a24ef09f-127",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:10",
+    "endTime": "00:21:20",
+    "transcripts": [
+      {
+        "transcript": "Let's go. How are you?",
+        "assets": "{\"id\": 307, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:18.25\", \"end\": \"0:21:26.41\"}"
+      }
+    ]
+  },
+  "1280000": {
+    "id": "33a24ef09f-128",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:20",
+    "endTime": "00:21:30",
+    "transcripts": [
+      {
+        "transcript": "Let's go. How are you?",
+        "assets": "{\"id\": 307, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:18.25\", \"end\": \"0:21:26.41\"}"
+      },
+      {
+        "transcript": "Thank you. Thank God it ain't my first dragon.",
+        "assets": "{\"id\": 308, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:26.41\", \"end\": \"0:21:35.26\"}"
+      }
+    ]
+  },
+  "1290000": {
+    "id": "33a24ef09f-129",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:30",
+    "endTime": "00:21:40",
+    "transcripts": [
+      {
+        "transcript": "Thank you. Thank God it ain't my first dragon.",
+        "assets": "{\"id\": 308, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:26.41\", \"end\": \"0:21:35.26\"}"
+      },
+      {
+        "transcript": "No. Neither. Here's for fun,",
+        "assets": "{\"id\": 309, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:35.26\", \"end\": \"0:21:43.171\"}"
+      }
+    ]
+  },
+  "1300000": {
+    "id": "33a24ef09f-130",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:40",
+    "endTime": "00:21:50",
+    "transcripts": [
+      {
+        "transcript": "No. Neither. Here's for fun,",
+        "assets": "{\"id\": 309, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:35.26\", \"end\": \"0:21:43.171\"}"
+      },
+      {
+        "transcript": "my grandson.",
+        "assets": "{\"id\": 310, \"speakerId\": 2, \"language\": \"en-US\", \"start\": \"0:21:43.171\", \"end\": \"0:21:44.74\"}"
+      }
+    ]
+  },
+  "1310000": {
+    "id": "33a24ef09f-131",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:50",
+    "endTime": "00:22:00"
+  },
+  "1320000": {
+    "id": "33a24ef09f-132",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:00",
+    "endTime": "00:22:10"
+  },
+  "1330000": {
+    "id": "33a24ef09f-133",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:10",
+    "endTime": "00:22:20"
+  },
+  "1340000": {
+    "id": "33a24ef09f-134",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:20",
+    "endTime": "00:22:30"
+  },
+  "1350000": {
+    "id": "33a24ef09f-135",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:30",
+    "endTime": "00:22:40"
+  },
+  "1360000": {
+    "id": "33a24ef09f-136",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:40",
+    "endTime": "00:22:50"
+  },
+  "1370000": {
+    "id": "33a24ef09f-137",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:50",
+    "endTime": "00:23:00"
+  },
+  "1380000": {
+    "id": "33a24ef09f-138",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:00",
+    "endTime": "00:23:10"
+  },
+  "1390000": {
+    "id": "33a24ef09f-139",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:10",
+    "endTime": "00:23:20"
+  },
+  "1400000": {
+    "id": "33a24ef09f-140",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:20",
+    "endTime": "00:23:30"
+  },
+  "1410000": {
+    "id": "33a24ef09f-141",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:30",
+    "endTime": "00:23:40"
+  },
+  "1420000": {
+    "id": "33a24ef09f-142",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:40",
+    "endTime": "00:23:50"
+  },
+  "1430000": {
+    "id": "33a24ef09f-143",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:50",
+    "endTime": "00:24:00"
+  },
+  "1440000": {
+    "id": "33a24ef09f-144",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:00",
+    "endTime": "00:24:10"
+  },
+  "1450000": {
+    "id": "33a24ef09f-145",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:10",
+    "endTime": "00:24:20"
+  },
+  "1460000": {
+    "id": "33a24ef09f-146",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:20",
+    "endTime": "00:24:30"
+  },
+  "1470000": {
+    "id": "33a24ef09f-147",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:30",
+    "endTime": "00:24:40"
+  },
+  "1480000": {
+    "id": "33a24ef09f-148",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:40",
+    "endTime": "00:24:50"
+  },
+  "1490000": {
+    "id": "33a24ef09f-149",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:50",
+    "endTime": "00:25:00"
+  },
+  "1500000": {
+    "id": "33a24ef09f-150",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:00",
+    "endTime": "00:25:10"
+  },
+  "1510000": {
+    "id": "33a24ef09f-151",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:10",
+    "endTime": "00:25:20"
+  },
+  "1520000": {
+    "id": "33a24ef09f-152",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:20",
+    "endTime": "00:25:30"
+  },
+  "1530000": {
+    "id": "33a24ef09f-153",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:30",
+    "endTime": "00:25:40"
+  },
+  "1540000": {
+    "id": "33a24ef09f-154",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:40",
+    "endTime": "00:25:50"
+  },
+  "1550000": {
+    "id": "33a24ef09f-155",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:50",
+    "endTime": "23:29:47"
+  }
+}

@@ -1,0 +1,1492 @@
+{
+  "0": {
+    "id": "33a24ef09f-0",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:00",
+    "endTime": "00:00:10"
+  },
+  "10000": {
+    "id": "33a24ef09f-1",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:10",
+    "endTime": "00:00:20"
+  },
+  "20000": {
+    "id": "33a24ef09f-2",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:20",
+    "endTime": "00:00:30"
+  },
+  "30000": {
+    "id": "33a24ef09f-3",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:30",
+    "endTime": "00:00:40"
+  },
+  "40000": {
+    "id": "33a24ef09f-4",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:40",
+    "endTime": "00:00:50"
+  },
+  "50000": {
+    "id": "33a24ef09f-5",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:00:50",
+    "endTime": "00:01:00"
+  },
+  "60000": {
+    "id": "33a24ef09f-6",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:00",
+    "endTime": "00:01:10"
+  },
+  "70000": {
+    "id": "33a24ef09f-7",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:10",
+    "endTime": "00:01:20"
+  },
+  "80000": {
+    "id": "33a24ef09f-8",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:20",
+    "endTime": "00:01:30"
+  },
+  "90000": {
+    "id": "33a24ef09f-9",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:30",
+    "endTime": "00:01:40"
+  },
+  "100000": {
+    "id": "33a24ef09f-10",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:40",
+    "endTime": "00:01:50",
+    "namedPeople": [
+      {
+        "namedPerson": "Chuck Lorre",
+        "assets": "{\"id\": 1, \"referenceId\": \"Chuck_Lorre\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Chuck_Lorre\", \"description\": \"Chuck Lorre (/\\u02c8l\\u0252ri/; born Charles Michael Levine; October 18, 1952) is an American television director, writer, producer, and composer. Called the \\\"King of Sitcoms\\\" during the 2010s, he has created and produced sitcoms including Grace Under Fire, Cybill, Dharma & Greg, Two and a Half Men, The Big Bang Theory, Mike & Molly, Mom, and The Kominsky Method. He also served as an executive producer of Roseanne. In 2019, he received his first Golden Globe Award for The Kominsky Method.\", \"confidence\": 0.7654, \"instanceSource\": \"Ocr\", \"start\": \"0:01:30.382\", \"end\": \"0:01:44.017\"}"
+      }
+    ]
+  },
+  "110000": {
+    "id": "33a24ef09f-11",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:01:50",
+    "endTime": "00:02:00"
+  },
+  "120000": {
+    "id": "33a24ef09f-12",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:00",
+    "endTime": "00:02:10"
+  },
+  "130000": {
+    "id": "33a24ef09f-13",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:10",
+    "endTime": "00:02:20"
+  },
+  "140000": {
+    "id": "33a24ef09f-14",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:20",
+    "endTime": "00:02:30"
+  },
+  "150000": {
+    "id": "33a24ef09f-15",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:30",
+    "endTime": "00:02:40"
+  },
+  "160000": {
+    "id": "33a24ef09f-16",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:40",
+    "endTime": "00:02:50"
+  },
+  "170000": {
+    "id": "33a24ef09f-17",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:02:50",
+    "endTime": "00:03:00"
+  },
+  "180000": {
+    "id": "33a24ef09f-18",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:00",
+    "endTime": "00:03:10"
+  },
+  "190000": {
+    "id": "33a24ef09f-19",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:10",
+    "endTime": "00:03:20"
+  },
+  "200000": {
+    "id": "33a24ef09f-20",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:20",
+    "endTime": "00:03:30"
+  },
+  "210000": {
+    "id": "33a24ef09f-21",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:30",
+    "endTime": "00:03:40"
+  },
+  "220000": {
+    "id": "33a24ef09f-22",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:40",
+    "endTime": "00:03:50"
+  },
+  "230000": {
+    "id": "33a24ef09f-23",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:03:50",
+    "endTime": "00:04:00"
+  },
+  "240000": {
+    "id": "33a24ef09f-24",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:00",
+    "endTime": "00:04:10"
+  },
+  "250000": {
+    "id": "33a24ef09f-25",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:10",
+    "endTime": "00:04:20",
+    "namedPeople": [
+      {
+        "namedPerson": "Chuck Lorre",
+        "assets": "{\"id\": 1, \"referenceId\": \"Chuck_Lorre\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Chuck_Lorre\", \"description\": \"Chuck Lorre (/\\u02c8l\\u0252ri/; born Charles Michael Levine; October 18, 1952) is an American television director, writer, producer, and composer. Called the \\\"King of Sitcoms\\\" during the 2010s, he has created and produced sitcoms including Grace Under Fire, Cybill, Dharma & Greg, Two and a Half Men, The Big Bang Theory, Mike & Molly, Mom, and The Kominsky Method. He also served as an executive producer of Roseanne. In 2019, he received his first Golden Globe Award for The Kominsky Method.\", \"confidence\": 0.7654, \"instanceSource\": \"Ocr\", \"start\": \"0:04:11.418\", \"end\": \"0:04:17.253\"}"
+      },
+      {
+        "namedPerson": "Steven Molaro",
+        "assets": "{\"id\": 3, \"referenceId\": \"Steven_Molaro\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Steven_Molaro\", \"description\": \"Steven Molaro, also known as Steve Molaro, is an American television producer and writer. He has worked on such productions as Freddie, The Class, Complete Savages and the Dan Schneider-produced series All That, The Amanda Show, What I Like About You, Drake & Josh, Zoey 101 and iCarly. Since 2007, he has been a producer/writer on the sitcom The Big Bang Theory. He is a native of Queens, New York. Molaro has been nominated for Primetime Emmy Award for Outstanding Comedy Series two times along with fellow writers Chuck Lorre and Bill Prady, in 2011 and 2012. He also shared the Danny Thomas Award for Outstanding Producer of Episodic Television, Comedy, with Lorre, Prady and The Big Bang Theory editor Faye Oshima Belyeu, in 2012 and 2013.\", \"confidence\": 0.8482, \"instanceSource\": \"Ocr\", \"start\": \"0:04:11.418\", \"end\": \"0:04:17.253\"}"
+      }
+    ]
+  },
+  "260000": {
+    "id": "33a24ef09f-26",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:20",
+    "endTime": "00:04:30",
+    "namedPeople": [
+      {
+        "namedPerson": "Zoe Perry",
+        "assets": "{\"id\": 6, \"referenceId\": \"Zoe_Perry\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Zoe_Perry\", \"description\": \"Zoe Perry (born September 26, 1983) is an American actress. She is best known for portraying young Mary Cooper in Young Sheldon and for recurring roles on The Family and Scandal.\", \"confidence\": 0.8344, \"instanceSource\": \"Ocr\", \"start\": \"0:04:26.099\", \"end\": \"0:04:26.558\"}"
+      }
+    ]
+  },
+  "270000": {
+    "id": "33a24ef09f-27",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:30",
+    "endTime": "00:04:40"
+  },
+  "280000": {
+    "id": "33a24ef09f-28",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:40",
+    "endTime": "00:04:50"
+  },
+  "290000": {
+    "id": "33a24ef09f-29",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:04:50",
+    "endTime": "00:05:00"
+  },
+  "300000": {
+    "id": "33a24ef09f-30",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:00",
+    "endTime": "00:05:10"
+  },
+  "310000": {
+    "id": "33a24ef09f-31",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:10",
+    "endTime": "00:05:20",
+    "namedPeople": [
+      {
+        "namedPerson": "Lewis Morrison",
+        "assets": "{\"id\": 8, \"referenceId\": \"Lewis_Morrison\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Lewis_Morrison\", \"description\": \"Lewis Morrison (September 4, 1844 \\u2013 August 20, 1906) was a Jamaican-born American stage actor and theatrical manager, born Moritz (or Morris) W. Morris. He was best known for his portrayal of Mephistopheles in his own production of Faust, which he performed from 1885 to 1906. He was the father of actress Adrienne Morrison, and grandfather of Constance, Barbara and Joan Bennett.\", \"confidence\": 0.7934, \"instanceSource\": \"Transcript\", \"start\": \"0:05:18.9\", \"end\": \"0:05:27.77\"}"
+      }
+    ]
+  },
+  "320000": {
+    "id": "33a24ef09f-32",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:20",
+    "endTime": "00:05:30",
+    "namedPeople": [
+      {
+        "namedPerson": "Lewis Morrison",
+        "assets": "{\"id\": 8, \"referenceId\": \"Lewis_Morrison\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Lewis_Morrison\", \"description\": \"Lewis Morrison (September 4, 1844 \\u2013 August 20, 1906) was a Jamaican-born American stage actor and theatrical manager, born Moritz (or Morris) W. Morris. He was best known for his portrayal of Mephistopheles in his own production of Faust, which he performed from 1885 to 1906. He was the father of actress Adrienne Morrison, and grandfather of Constance, Barbara and Joan Bennett.\", \"confidence\": 0.7934, \"instanceSource\": \"Transcript\", \"start\": \"0:05:18.9\", \"end\": \"0:05:27.77\"}"
+      }
+    ]
+  },
+  "330000": {
+    "id": "33a24ef09f-33",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:30",
+    "endTime": "00:05:40",
+    "namedPeople": [
+      {
+        "namedPerson": "Eric Kaplan",
+        "assets": "{\"id\": 5, \"referenceId\": \"Eric_Kaplan\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Eric_Kaplan\", \"description\": \"Eric Kaplan (born September 10, 1971) is an American television writer and producer. His work has included shows such as Late Show with David Letterman, Andy Richter Controls the Universe, Malcolm in the Middle, Futurama and The Simpsons. He currently works on The Big Bang Theory.\", \"confidence\": 0.773, \"instanceSource\": \"Ocr\", \"start\": \"0:05:34.459\", \"end\": \"0:05:39.965\"}"
+      }
+    ]
+  },
+  "340000": {
+    "id": "33a24ef09f-34",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:40",
+    "endTime": "00:05:50"
+  },
+  "350000": {
+    "id": "33a24ef09f-35",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:05:50",
+    "endTime": "00:06:00"
+  },
+  "360000": {
+    "id": "33a24ef09f-36",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:00",
+    "endTime": "00:06:10"
+  },
+  "370000": {
+    "id": "33a24ef09f-37",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:10",
+    "endTime": "00:06:20"
+  },
+  "380000": {
+    "id": "33a24ef09f-38",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:20",
+    "endTime": "00:06:30"
+  },
+  "390000": {
+    "id": "33a24ef09f-39",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:30",
+    "endTime": "00:06:40"
+  },
+  "400000": {
+    "id": "33a24ef09f-40",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:40",
+    "endTime": "00:06:50"
+  },
+  "410000": {
+    "id": "33a24ef09f-41",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:06:50",
+    "endTime": "00:07:00"
+  },
+  "420000": {
+    "id": "33a24ef09f-42",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:00",
+    "endTime": "00:07:10"
+  },
+  "430000": {
+    "id": "33a24ef09f-43",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:10",
+    "endTime": "00:07:20"
+  },
+  "440000": {
+    "id": "33a24ef09f-44",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:20",
+    "endTime": "00:07:30"
+  },
+  "450000": {
+    "id": "33a24ef09f-45",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:30",
+    "endTime": "00:07:40"
+  },
+  "460000": {
+    "id": "33a24ef09f-46",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:40",
+    "endTime": "00:07:50"
+  },
+  "470000": {
+    "id": "33a24ef09f-47",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:07:50",
+    "endTime": "00:08:00"
+  },
+  "480000": {
+    "id": "33a24ef09f-48",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:00",
+    "endTime": "00:08:10"
+  },
+  "490000": {
+    "id": "33a24ef09f-49",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:10",
+    "endTime": "00:08:20",
+    "namedPeople": [
+      {
+        "namedPerson": "Cindy Crawford",
+        "assets": "{\"id\": 7, \"referenceId\": \"Cindy_Crawford\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Cindy_Crawford\", \"description\": \"Cindy Crawford is a 53 year old American Model. Born Cynthia Ann Crawford on 20th February, 1966 in DeKalb, Illinois USA, she is famous for Supermodel in a career that spans 1987\\u2013present and 1985\\u2013present. Her zodiac sign is Pisces.\\r\\nCindy Crawford has been in an on-screen matchup with William Baldwin in Fair Game (1995).\\r\\nCindy Crawford is a member of the following lists: Project Runway (U.S. series) judges, Female models from Illinois and Models (profession).\", \"confidence\": 0.7696, \"instanceSource\": \"Transcript\", \"start\": \"0:08:12.15\", \"end\": \"0:08:21.188\"}"
+      }
+    ]
+  },
+  "500000": {
+    "id": "33a24ef09f-50",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:20",
+    "endTime": "00:08:30",
+    "namedPeople": [
+      {
+        "namedPerson": "Cindy Crawford",
+        "assets": "{\"id\": 7, \"referenceId\": \"Cindy_Crawford\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Cindy_Crawford\", \"description\": \"Cindy Crawford is a 53 year old American Model. Born Cynthia Ann Crawford on 20th February, 1966 in DeKalb, Illinois USA, she is famous for Supermodel in a career that spans 1987\\u2013present and 1985\\u2013present. Her zodiac sign is Pisces.\\r\\nCindy Crawford has been in an on-screen matchup with William Baldwin in Fair Game (1995).\\r\\nCindy Crawford is a member of the following lists: Project Runway (U.S. series) judges, Female models from Illinois and Models (profession).\", \"confidence\": 0.7696, \"instanceSource\": \"Transcript\", \"start\": \"0:08:12.15\", \"end\": \"0:08:21.188\"}"
+      }
+    ]
+  },
+  "510000": {
+    "id": "33a24ef09f-51",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:30",
+    "endTime": "00:08:40"
+  },
+  "520000": {
+    "id": "33a24ef09f-52",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:40",
+    "endTime": "00:08:50"
+  },
+  "530000": {
+    "id": "33a24ef09f-53",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:08:50",
+    "endTime": "00:09:00"
+  },
+  "540000": {
+    "id": "33a24ef09f-54",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:00",
+    "endTime": "00:09:10"
+  },
+  "550000": {
+    "id": "33a24ef09f-55",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:10",
+    "endTime": "00:09:20"
+  },
+  "560000": {
+    "id": "33a24ef09f-56",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:20",
+    "endTime": "00:09:30"
+  },
+  "570000": {
+    "id": "33a24ef09f-57",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:30",
+    "endTime": "00:09:40"
+  },
+  "580000": {
+    "id": "33a24ef09f-58",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:40",
+    "endTime": "00:09:50"
+  },
+  "590000": {
+    "id": "33a24ef09f-59",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:09:50",
+    "endTime": "00:10:00"
+  },
+  "600000": {
+    "id": "33a24ef09f-60",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:00",
+    "endTime": "00:10:10"
+  },
+  "610000": {
+    "id": "33a24ef09f-61",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:10",
+    "endTime": "00:10:20"
+  },
+  "620000": {
+    "id": "33a24ef09f-62",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:20",
+    "endTime": "00:10:30"
+  },
+  "630000": {
+    "id": "33a24ef09f-63",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:30",
+    "endTime": "00:10:40"
+  },
+  "640000": {
+    "id": "33a24ef09f-64",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:40",
+    "endTime": "00:10:50"
+  },
+  "650000": {
+    "id": "33a24ef09f-65",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:10:50",
+    "endTime": "00:11:00"
+  },
+  "660000": {
+    "id": "33a24ef09f-66",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:00",
+    "endTime": "00:11:10"
+  },
+  "670000": {
+    "id": "33a24ef09f-67",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:10",
+    "endTime": "00:11:20"
+  },
+  "680000": {
+    "id": "33a24ef09f-68",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:20",
+    "endTime": "00:11:30"
+  },
+  "690000": {
+    "id": "33a24ef09f-69",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:30",
+    "endTime": "00:11:40"
+  },
+  "700000": {
+    "id": "33a24ef09f-70",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:40",
+    "endTime": "00:11:50"
+  },
+  "710000": {
+    "id": "33a24ef09f-71",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:11:50",
+    "endTime": "00:12:00"
+  },
+  "720000": {
+    "id": "33a24ef09f-72",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:00",
+    "endTime": "00:12:10"
+  },
+  "730000": {
+    "id": "33a24ef09f-73",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:10",
+    "endTime": "00:12:20"
+  },
+  "740000": {
+    "id": "33a24ef09f-74",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:20",
+    "endTime": "00:12:30"
+  },
+  "750000": {
+    "id": "33a24ef09f-75",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:30",
+    "endTime": "00:12:40"
+  },
+  "760000": {
+    "id": "33a24ef09f-76",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:40",
+    "endTime": "00:12:50"
+  },
+  "770000": {
+    "id": "33a24ef09f-77",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:12:50",
+    "endTime": "00:13:00"
+  },
+  "780000": {
+    "id": "33a24ef09f-78",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:00",
+    "endTime": "00:13:10"
+  },
+  "790000": {
+    "id": "33a24ef09f-79",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:10",
+    "endTime": "00:13:20"
+  },
+  "800000": {
+    "id": "33a24ef09f-80",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:20",
+    "endTime": "00:13:30"
+  },
+  "810000": {
+    "id": "33a24ef09f-81",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:30",
+    "endTime": "00:13:40"
+  },
+  "820000": {
+    "id": "33a24ef09f-82",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:40",
+    "endTime": "00:13:50"
+  },
+  "830000": {
+    "id": "33a24ef09f-83",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:13:50",
+    "endTime": "00:14:00"
+  },
+  "840000": {
+    "id": "33a24ef09f-84",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:00",
+    "endTime": "00:14:10"
+  },
+  "850000": {
+    "id": "33a24ef09f-85",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:10",
+    "endTime": "00:14:20"
+  },
+  "860000": {
+    "id": "33a24ef09f-86",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:20",
+    "endTime": "00:14:30"
+  },
+  "870000": {
+    "id": "33a24ef09f-87",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:30",
+    "endTime": "00:14:40"
+  },
+  "880000": {
+    "id": "33a24ef09f-88",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:40",
+    "endTime": "00:14:50"
+  },
+  "890000": {
+    "id": "33a24ef09f-89",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:14:50",
+    "endTime": "00:15:00"
+  },
+  "900000": {
+    "id": "33a24ef09f-90",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:00",
+    "endTime": "00:15:10"
+  },
+  "910000": {
+    "id": "33a24ef09f-91",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:10",
+    "endTime": "00:15:20"
+  },
+  "920000": {
+    "id": "33a24ef09f-92",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:20",
+    "endTime": "00:15:30"
+  },
+  "930000": {
+    "id": "33a24ef09f-93",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:30",
+    "endTime": "00:15:40"
+  },
+  "940000": {
+    "id": "33a24ef09f-94",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:40",
+    "endTime": "00:15:50"
+  },
+  "950000": {
+    "id": "33a24ef09f-95",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:15:50",
+    "endTime": "00:16:00"
+  },
+  "960000": {
+    "id": "33a24ef09f-96",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:00",
+    "endTime": "00:16:10"
+  },
+  "970000": {
+    "id": "33a24ef09f-97",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:10",
+    "endTime": "00:16:20"
+  },
+  "980000": {
+    "id": "33a24ef09f-98",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:20",
+    "endTime": "00:16:30"
+  },
+  "990000": {
+    "id": "33a24ef09f-99",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:30",
+    "endTime": "00:16:40"
+  },
+  "1000000": {
+    "id": "33a24ef09f-100",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:40",
+    "endTime": "00:16:50"
+  },
+  "1010000": {
+    "id": "33a24ef09f-101",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:16:50",
+    "endTime": "00:17:00",
+    "namedPeople": [
+      {
+        "namedPerson": "Ween",
+        "assets": "{\"id\": 9, \"referenceId\": \"Ween\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Ween\", \"description\": \"Ween is an American alternative rock band formed in New Hope, Pennsylvania, in 1984 by childhood friends Aaron Freeman and Mickey Melchiondo, better known by their respective stage names, Gene and Dean Ween. After meeting in a middle-school typing class, the two began playing music and immediately chose the name Ween as well as their Ramones-inspired pseudonyms. Ween performed as a duo backed by a Digital Audio Tape for the band's first ten years of existence before expanding to a four- (and later five-) piece act. The band's highest charting single is \\\"Push th' Little Daisies\\\", which was a hit in the United States, New Zealand and Australia.\", \"confidence\": 0.7849, \"instanceSource\": \"Transcript\", \"start\": \"0:16:52.12\", \"end\": \"0:16:58.68\"}"
+      }
+    ]
+  },
+  "1020000": {
+    "id": "33a24ef09f-102",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:00",
+    "endTime": "00:17:10"
+  },
+  "1030000": {
+    "id": "33a24ef09f-103",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:10",
+    "endTime": "00:17:20"
+  },
+  "1040000": {
+    "id": "33a24ef09f-104",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:20",
+    "endTime": "00:17:30"
+  },
+  "1050000": {
+    "id": "33a24ef09f-105",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:30",
+    "endTime": "00:17:40"
+  },
+  "1060000": {
+    "id": "33a24ef09f-106",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:40",
+    "endTime": "00:17:50"
+  },
+  "1070000": {
+    "id": "33a24ef09f-107",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:17:50",
+    "endTime": "00:18:00"
+  },
+  "1080000": {
+    "id": "33a24ef09f-108",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:00",
+    "endTime": "00:18:10"
+  },
+  "1090000": {
+    "id": "33a24ef09f-109",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:10",
+    "endTime": "00:18:20"
+  },
+  "1100000": {
+    "id": "33a24ef09f-110",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:20",
+    "endTime": "00:18:30"
+  },
+  "1110000": {
+    "id": "33a24ef09f-111",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:30",
+    "endTime": "00:18:40"
+  },
+  "1120000": {
+    "id": "33a24ef09f-112",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:40",
+    "endTime": "00:18:50"
+  },
+  "1130000": {
+    "id": "33a24ef09f-113",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:18:50",
+    "endTime": "00:19:00"
+  },
+  "1140000": {
+    "id": "33a24ef09f-114",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:00",
+    "endTime": "00:19:10"
+  },
+  "1150000": {
+    "id": "33a24ef09f-115",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:10",
+    "endTime": "00:19:20"
+  },
+  "1160000": {
+    "id": "33a24ef09f-116",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:20",
+    "endTime": "00:19:30"
+  },
+  "1170000": {
+    "id": "33a24ef09f-117",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:30",
+    "endTime": "00:19:40"
+  },
+  "1180000": {
+    "id": "33a24ef09f-118",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:40",
+    "endTime": "00:19:50"
+  },
+  "1190000": {
+    "id": "33a24ef09f-119",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:19:50",
+    "endTime": "00:20:00"
+  },
+  "1200000": {
+    "id": "33a24ef09f-120",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:00",
+    "endTime": "00:20:10"
+  },
+  "1210000": {
+    "id": "33a24ef09f-121",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:10",
+    "endTime": "00:20:20"
+  },
+  "1220000": {
+    "id": "33a24ef09f-122",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:20",
+    "endTime": "00:20:30"
+  },
+  "1230000": {
+    "id": "33a24ef09f-123",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:30",
+    "endTime": "00:20:40"
+  },
+  "1240000": {
+    "id": "33a24ef09f-124",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:40",
+    "endTime": "00:20:50"
+  },
+  "1250000": {
+    "id": "33a24ef09f-125",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:20:50",
+    "endTime": "00:21:00"
+  },
+  "1260000": {
+    "id": "33a24ef09f-126",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:00",
+    "endTime": "00:21:10"
+  },
+  "1270000": {
+    "id": "33a24ef09f-127",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:10",
+    "endTime": "00:21:20"
+  },
+  "1280000": {
+    "id": "33a24ef09f-128",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:20",
+    "endTime": "00:21:30"
+  },
+  "1290000": {
+    "id": "33a24ef09f-129",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:30",
+    "endTime": "00:21:40"
+  },
+  "1300000": {
+    "id": "33a24ef09f-130",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:40",
+    "endTime": "00:21:50",
+    "namedPeople": [
+      {
+        "namedPerson": "Chuck Lorre",
+        "assets": "{\"id\": 1, \"referenceId\": \"Chuck_Lorre\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Chuck_Lorre\", \"description\": \"Chuck Lorre (/\\u02c8l\\u0252ri/; born Charles Michael Levine; October 18, 1952) is an American television director, writer, producer, and composer. Called the \\\"King of Sitcoms\\\" during the 2010s, he has created and produced sitcoms including Grace Under Fire, Cybill, Dharma & Greg, Two and a Half Men, The Big Bang Theory, Mike & Molly, Mom, and The Kominsky Method. He also served as an executive producer of Roseanne. In 2019, he received his first Golden Globe Award for The Kominsky Method.\", \"confidence\": 0.7654, \"instanceSource\": \"Ocr\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      }
+    ]
+  },
+  "1310000": {
+    "id": "33a24ef09f-131",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:21:50",
+    "endTime": "00:22:00",
+    "namedPeople": [
+      {
+        "namedPerson": "Chuck Lorre",
+        "assets": "{\"id\": 1, \"referenceId\": \"Chuck_Lorre\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Chuck_Lorre\", \"description\": \"Chuck Lorre (/\\u02c8l\\u0252ri/; born Charles Michael Levine; October 18, 1952) is an American television director, writer, producer, and composer. Called the \\\"King of Sitcoms\\\" during the 2010s, he has created and produced sitcoms including Grace Under Fire, Cybill, Dharma & Greg, Two and a Half Men, The Big Bang Theory, Mike & Molly, Mom, and The Kominsky Method. He also served as an executive producer of Roseanne. In 2019, he received his first Golden Globe Award for The Kominsky Method.\", \"confidence\": 0.7654, \"instanceSource\": \"Ocr\", \"start\": \"0:21:48.475\", \"end\": \"0:21:50.311\"}"
+      },
+      {
+        "namedPerson": "Valerie Mahaffey",
+        "assets": "{\"id\": 2, \"referenceId\": \"Valerie_Mahaffey\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Valerie_Mahaffey\", \"description\": \"Actress who won an Emmy Award for Northern Exposure and also appeared on Desperate Housewives and Wings.\", \"confidence\": 0.7451, \"instanceSource\": \"Ocr\", \"start\": \"0:21:54.439\", \"end\": \"0:21:54.898\"}"
+      }
+    ]
+  },
+  "1320000": {
+    "id": "33a24ef09f-132",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:00",
+    "endTime": "00:22:10",
+    "namedPeople": [
+      {
+        "namedPerson": "Stephen Lim",
+        "assets": "{\"id\": 4, \"referenceId\": \"Stephen_Lim\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Stephen_Lim\", \"description\": \"Stephen Lim (born 18 October 1942) is a former Malaysian cyclist. He competed in the individual road race at the 1964 Summer Olympics.\", \"confidence\": 0.673, \"instanceSource\": \"Ocr\", \"start\": \"0:22:02.239\", \"end\": \"0:22:04.074\"}"
+      }
+    ]
+  },
+  "1330000": {
+    "id": "33a24ef09f-133",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:10",
+    "endTime": "00:22:20",
+    "namedPeople": [
+      {
+        "namedPerson": "Chuck Lorre",
+        "assets": "{\"id\": 1, \"referenceId\": \"Chuck_Lorre\", \"referenceUrl\": \"https://en.wikipedia.org/wiki/Chuck_Lorre\", \"description\": \"Chuck Lorre (/\\u02c8l\\u0252ri/; born Charles Michael Levine; October 18, 1952) is an American television director, writer, producer, and composer. Called the \\\"King of Sitcoms\\\" during the 2010s, he has created and produced sitcoms including Grace Under Fire, Cybill, Dharma & Greg, Two and a Half Men, The Big Bang Theory, Mike & Molly, Mom, and The Kominsky Method. He also served as an executive producer of Roseanne. In 2019, he received his first Golden Globe Award for The Kominsky Method.\", \"confidence\": 0.7654, \"instanceSource\": \"Ocr\", \"start\": \"0:22:11.415\", \"end\": \"0:22:13.25\"}"
+      }
+    ]
+  },
+  "1340000": {
+    "id": "33a24ef09f-134",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:20",
+    "endTime": "00:22:30"
+  },
+  "1350000": {
+    "id": "33a24ef09f-135",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:30",
+    "endTime": "00:22:40"
+  },
+  "1360000": {
+    "id": "33a24ef09f-136",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:40",
+    "endTime": "00:22:50"
+  },
+  "1370000": {
+    "id": "33a24ef09f-137",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:22:50",
+    "endTime": "00:23:00"
+  },
+  "1380000": {
+    "id": "33a24ef09f-138",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:00",
+    "endTime": "00:23:10"
+  },
+  "1390000": {
+    "id": "33a24ef09f-139",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:10",
+    "endTime": "00:23:20"
+  },
+  "1400000": {
+    "id": "33a24ef09f-140",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:20",
+    "endTime": "00:23:30"
+  },
+  "1410000": {
+    "id": "33a24ef09f-141",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:30",
+    "endTime": "00:23:40"
+  },
+  "1420000": {
+    "id": "33a24ef09f-142",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:40",
+    "endTime": "00:23:50"
+  },
+  "1430000": {
+    "id": "33a24ef09f-143",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:23:50",
+    "endTime": "00:24:00"
+  },
+  "1440000": {
+    "id": "33a24ef09f-144",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:00",
+    "endTime": "00:24:10"
+  },
+  "1450000": {
+    "id": "33a24ef09f-145",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:10",
+    "endTime": "00:24:20"
+  },
+  "1460000": {
+    "id": "33a24ef09f-146",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:20",
+    "endTime": "00:24:30"
+  },
+  "1470000": {
+    "id": "33a24ef09f-147",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:30",
+    "endTime": "00:24:40"
+  },
+  "1480000": {
+    "id": "33a24ef09f-148",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:40",
+    "endTime": "00:24:50"
+  },
+  "1490000": {
+    "id": "33a24ef09f-149",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:24:50",
+    "endTime": "00:25:00"
+  },
+  "1500000": {
+    "id": "33a24ef09f-150",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:00",
+    "endTime": "00:25:10"
+  },
+  "1510000": {
+    "id": "33a24ef09f-151",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:10",
+    "endTime": "00:25:20"
+  },
+  "1520000": {
+    "id": "33a24ef09f-152",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:20",
+    "endTime": "00:25:30"
+  },
+  "1530000": {
+    "id": "33a24ef09f-153",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:30",
+    "endTime": "00:25:40"
+  },
+  "1540000": {
+    "id": "33a24ef09f-154",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:40",
+    "endTime": "00:25:50"
+  },
+  "1550000": {
+    "id": "33a24ef09f-155",
+    "accountId": "816ba872-4365-40ec-aba5-8fd465c425b3",
+    "externalId": "3c8b47d1-c10a-40fe-bb11-d8a4c01bd2e1",
+    "name": "FOO",
+    "metaData": null,
+    "startTime": "00:25:50",
+    "endTime": "23:29:47"
+  }
+}

@@ -1,0 +1,18 @@
+storage:
+  connection-string: ""
+  container: "insights"
+
+search:
+  service-name: "wbsearchtest"
+  api-version: "2020-06-30"
+  api-key: ""
+  index-name:  "testindex"
+
+files:
+  download-blob-directory: "files/blob-files"
+  processed-directory: "files/processed"
+  ingested-file: "ingested.txt"
+  failed-to-ingest-file: "failed-to-ingest.txt"
+
+parser:
+  milliseconds-interval: 10000
