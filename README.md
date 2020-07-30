@@ -4,9 +4,9 @@
 #### Overview
 This project reads [Azure Video indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
 
-So you can make the following queries to the azure search index to find the right moment of a video:
+So you can make the following queries to the azure search index to find the right moments of a video:
 
-- _"Find the moments where Jennifer Aniston in Friends tv show Was happy"_ 
+- _"Find the moments where '**Jennifer Aniston**' in Friends TV show is happy"_ 
 
 ```json
 {
@@ -16,14 +16,14 @@ So you can make the following queries to the azure search index to find the righ
 }
 ```
 
-- _"Find the moments in any show where the transcript is getting old"_
+- _"Find the moments in any show where the transcript is '**getting old**'"_
 ```json
 {
   "search": "getting old",
   "searchFields": "transcripts/transcript"
 }
 ```
-- _"Find the moments in Friends show where Jean Claude Appears_"
+- _"Find the moments in Friends show where '**Jean Claude**' Appears_"
 ```json
 {  
   "search": "Jean Claude",
