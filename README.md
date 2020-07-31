@@ -32,7 +32,7 @@ So you can make the following queries to the azure search index to find the righ
 }
 ```
 
-Architecture:
+#### Architecture:
 Below is the architecture of the system we are using.
 1. Azure video indexer generates the JSON files and store them in the blob storage.
 1. AzureViSearchableContent module reads the files from theblob storage and after  parsing them, it uploads the records into the search index.
@@ -46,7 +46,7 @@ For instance if a video duration is **00:20:10** , using **10** seconds interval
 ![intervals](resources/interval-index.png) 
 
 
-## Client and Parser Usage
+#### Client and Parser Usage
 
 **1. Read data from the blob:**
 
