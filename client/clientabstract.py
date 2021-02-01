@@ -4,7 +4,7 @@ import os
 from os import listdir
 from os.path import isfile, join
 
-from VIIntervalParser.utils.util import Util
+from utils.util import Util
 
 
 class ClientAbstract(object):

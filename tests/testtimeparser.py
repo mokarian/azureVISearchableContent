@@ -1,8 +1,8 @@
 import pytest
 
-from VIIntervalParser.parser.timeparser import TimeParser
-from VIIntervalParser.tests.testbase import TestBase
-from VIIntervalParser.tests.utils import Utils
+from parser.timeparser import TimeParser
+from tests.testbase import TestBase
+from tests.utils import Utils
 
 
 class TestTimeParser(TestBase):

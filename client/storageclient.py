@@ -2,7 +2,7 @@ import os
 
 from azure.storage.blob import BlobServiceClient
 
-from VIIntervalParser.client.clientabstract import ClientAbstract
+from client.clientabstract import ClientAbstract
 
 
 class StorageClient(ClientAbstract):
@@ -24,6 +24,31 @@ class StorageClient(ClientAbstract):
 
                 with open(download_file_path, "wb") as my_blob:
                     my_blob.writelines([blob_client.download_blob().readall()])
+
+    def list_files_in_container(self, container, name_starts_with=None):
+        """
+        this method list all the files in a container
+        :param container:
+        :return:
+        """
+        container_client = self.blob_service_client.get_container_client(
+            container
+        )
+        return container_client.list_blobs(name_starts_with=name_starts_with)
+
+    def get_blob_string(self, container, blob):
+        try:
+            return (
+                self.blob_service_client.get_blob_client(container, blob)
+                .download_blob()
+                .readall()
+            ).decode("utf-8")
+        except Exception as ex:
+            print(
+                "Could not read the content of blob:{} in container:{}\n "
+                "or the content could not be decoded to string "
+                ", \nerror:{}".format(blob, container, ex)
+            )
 
 
 if __name__ == "__main__":

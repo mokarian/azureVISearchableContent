@@ -1,6 +1,6 @@
-from VIIntervalParser.parser.parser import Parser
-from VIIntervalParser.tests.testbase import TestBase
-from VIIntervalParser.tests.utils import Utils
+from parser.parser import Parser
+from tests.testbase import TestBase
+from tests.utils import Utils
 
 
 class TestParser(TestBase):

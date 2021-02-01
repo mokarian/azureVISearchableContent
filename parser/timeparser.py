@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 import re
 
-from VIIntervalParser.utils.util import Util
+from utils.util import Util
 
 
 class TimeParser:
@@ -13,7 +13,7 @@ class TimeParser:
         It initiates atimeParser with desired intervals
         e.g. interval_in__milliseconds=10000 creates intervals of 10seconds in that video
         """
-        self.interval_in__milliseconds = Util().config["parser"]["milliseconds-interval"]
+        self.interval_in_milliseconds = Util().config["parser"]["milliseconds-interval"]
         pass
 
     def get_related_intervals(self, start, end):
@@ -32,10 +32,10 @@ class TimeParser:
         :return: list of intervals based on start  and end time passed
         """
         intervals = []
-        if end - start < self.interval_in__milliseconds:  # CASE: when appearance is within time interval
-            intervals.append(int(start) - int(start) % self.interval_in__milliseconds)
+        if end - start < self.interval_in_milliseconds:  # CASE: when appearance is within time interval
+            intervals.append(int(start) - int(start) % self.interval_in_milliseconds)
         for i in range(int(start), int(end)):
-            if i % self.interval_in__milliseconds == 0:
+            if i % self.interval_in_milliseconds == 0:
                 intervals.append(i)
         return intervals
 

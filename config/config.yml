@@ -1,12 +1,12 @@
 storage:
   connection-string: ""
-  container: "insights"
+  container: "february"
 
 search:
   service-name: "wbsearchtest"
   api-version: "2020-06-30"
   api-key: ""
-  index-name:  "testindex"
+  index-name:  "february"
 
 files:
   download-blob-directory: "files/blob-files"
