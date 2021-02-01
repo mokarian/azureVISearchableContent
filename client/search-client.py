@@ -65,7 +65,7 @@ class SearchClient(ClientAbstract):
 
     @staticmethod
     def upload_local_files_to_search():
-        # files = SEARCH_CLIENT.read_files_from_directory(SEARCH_CLIENT.config["files"]["download-blob-directory"])
+        files = SEARCH_CLIENT.read_files_from_directory(SEARCH_CLIENT.config["files"]["download-blob-directory"])
         i = 0
         for file in files:
             path = os.path.join(SEARCH_CLIENT.config["files"]["download-blob-directory"], file)
@@ -91,6 +91,7 @@ class SearchClient(ClientAbstract):
 
 
 if __name__ == "__main__":
+
     SEARCH_CLIENT = SearchClient()
     #  step 1
     SEARCH_CLIENT.create_index()
