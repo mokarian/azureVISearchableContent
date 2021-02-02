@@ -5,7 +5,7 @@ import requests
 
 from client.clientabstract import ClientAbstract
 from parser.parser import Parser
-from client.storageclient import StorageClient
+from client.storageClient import StorageClient
 
 
 class SearchClient(ClientAbstract):
@@ -24,13 +24,14 @@ class SearchClient(ClientAbstract):
 
     def create_index(self):
         url = self.endpoint + "indexes" + self.api_version
-        index_schema = self.read_file_from_directory("index-schema.json")
+        index_schema = self.read_file_from_directory(self.config["search"]["index-schema-path"])
         index_schema["name"] = self.config["search"]["index-name"]
         response = requests.post(url, headers=self.headers, json=index_schema)
         response = response.json()
         print(response)
 
     def upload_files_from_storage_to_search(self):
+        print("uploading files from storage account to search")
         vi_output_files = self.storage_client.list_files_in_container(
             self.config["storage"]["container"]
         )
@@ -54,21 +55,22 @@ class SearchClient(ClientAbstract):
 
                     documents = {"value": intervals}
                     print(
-                        str(i) + ": uploading to search" + str(file.name)
+                        str(i) + f": uploading {str(file.name)} to search index"
                     )
-                    SEARCH_CLIENT.upload_to_search(documents)
+                    self.upload_to_search(documents)
+                    self.write_status_file(str(file.name), self.config["files"]["ingested-file"])
             except ValueError:
                 print(
                     "could not process " + str(file)
                 )
+                self.write_status_file(file, self.config["files"]["failed-to-ingest-file"])
 
-
-    @staticmethod
-    def upload_local_files_to_search():
-        files = SEARCH_CLIENT.read_files_from_directory(SEARCH_CLIENT.config["files"]["download-blob-directory"])
+    def upload_local_files_to_search(self):
+        print("uploading local files to search")
+        files = self.read_files_from_directory(self.config["files"]["vi-output-directory"])
         i = 0
         for file in files:
-            path = os.path.join(SEARCH_CLIENT.config["files"]["download-blob-directory"], file)
+            path = os.path.join(self.config["files"]["vi-output-directory"], file)
             i += 1
             with open(path) as f:
                 try:
@@ -82,18 +84,10 @@ class SearchClient(ClientAbstract):
 
                         documents = {
                             "value": intervals}
-                        print(str(i) + ": uploading to search" + str(file))
-                        SEARCH_CLIENT.upload_to_search(documents)
+                        print(str(i) + f": uploading {str(file)} to search index")
+                        self.upload_to_search(documents)
+                        self.write_status_file(file, self.config["files"]["ingested-file"])
 
                 except ValueError:
                     print("could not process " + str(file))
-
-
-
-if __name__ == "__main__":
-
-    SEARCH_CLIENT = SearchClient()
-    #  step 1
-    SEARCH_CLIENT.create_index()
-    #  step 2
-    SEARCH_CLIENT.upload_files_from_storage_to_search()
+                    self.write_status_file(file, self.config["files"]["failed-to-ingest-file"])

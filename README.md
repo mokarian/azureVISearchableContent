@@ -41,6 +41,66 @@ So you can make the following queries to the azure search index to find the righ
 }
 ```
 
+#### Set Up and Run the project
+
+##### Set Up
+
+**create your virtual environment**
+
+On Mac and linux:
+`python3 -m venv env`
+
+On Windows:
+`py -m venv env`
+
+**Activate your virtual environment**
+
+On macOS and Linux:
+`source env/bin/activate`
+
+On Windows:
+
+`.\env\Scripts\activate`
+
+**Add required libraries**
+
+`pip install -r requirements.txt`
+
+##### Run the project
+
+Make sure you add the required parameters to the [config.yml](config/config.yml)
+
+```yaml
+# this is used when you want to parse files from storage account
+storage:
+  connection-string: "YOUR STORAGE ACCOUNT CONNECTION STRING"
+  # a container which you store JSON files processed by Azure Video Indexer
+  container: "YOUR CONTAINER NAME"
+
+search:
+  service-name: "SEARCH SERVICE NAME"
+  api-version: "SEARCH SERVICE API VERSION"
+  api-key: "SEARCH SERVICE API KEY"
+  index-name:  "NAME OF THE SEARCH INDEX YOU WANT TO CREATE"
+  index-schema-path: "PATH TO SEARCH INDEX SCHEMA e.g. client/index-schema.json"
+
+files:
+  vi-output-directory: "PATH TO VI JSON FILES e.g. client/files/vi-files"
+  processed-directory: "PATH TO PROCESSED FILE DIRECTORY e.g. client/files/processed"
+  ingested-file: "NAME OF THE LOGS FOR PROCESSED ASSETS e.g. ingested.txt"
+  failed-to-ingest-file: "NAME OF THE LOGS FOR FAIL PROCESSED ASSETS e.g. failed-to-ingest.txt"
+
+# interval durations you wish to create in milliseconds
+parser:
+  milliseconds-interval: 10000
+```
+
+Now using command line you can run the scripts in two ways:
+
+1. process files from storage account: `python main.py`
+1. process files from local files: `python main.py local`
+
+
 #### Architecture:
 Below is the architecture of the system we are using.
 1. Azure video indexer generates the JSON files and store them in the blob storage.

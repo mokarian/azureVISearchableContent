@@ -1,16 +1,17 @@
 storage:
-  connection-string: ""
-  container: "february"
+  connection-string: "CONNECTION_STRING"
+  container: "SEARCH_INDEX_NAME"
 
 search:
-  service-name: "wbsearchtest"
+  service-name: "SEARCH_SERVICE_NAME"
   api-version: "2020-06-30"
-  api-key: ""
-  index-name:  "february"
+  api-key: "API_KEY"
+  index-name:  "INDEX_NAME"
+  index-schema-path: "client/index-schema.json"
 
 files:
-  download-blob-directory: "files/blob-files"
-  processed-directory: "files/processed"
+  vi-output-directory: "client/files/vi-files"
+  processed-directory: "client/files/processed"
   ingested-file: "ingested.txt"
   failed-to-ingest-file: "failed-to-ingest.txt"
 
