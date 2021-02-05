@@ -31,15 +31,6 @@ So you can make the following queries to the azure search index to find the righ
   "filter": "search.ismatchscoring('friends') ",
 }
 ```
-- _"Find the moments in The Hobbit where weather condition is '**sandstorm**' or '**rain**'_"
-
-```json
-{
-  "search": "*",
-  "filter": "search.ismatchscoring('The Hobbit') and 
-             weatherConditions/any(c: c/condition eq 'sandstorm' or c/condition eq 'rain')"
-}
-```
 
 #### Set Up and Run the project
 
