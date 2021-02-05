@@ -42,7 +42,7 @@ class SearchClient(ClientAbstract):
                 json_object = json.loads(
                     self.storage_client.get_blob_string(
                         self.config["storage"]["container"], file.name
-                    )
+                    ).encode()  # Encode as UTF-8 in case UTF-8 BOM
                 )
                 if json_object["state"] == "Processed":
                     parser = Parser()
