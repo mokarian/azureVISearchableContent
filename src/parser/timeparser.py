@@ -1,4 +1,6 @@
 import time
+from os.path import isfile
+from os import getenv
 
 from datetime import datetime
 import re
@@ -9,12 +11,16 @@ from utils.util import Util
 class TimeParser:
     def __init__(self):
         """
-        This is a constructor for teh Time parser.
-        It initiates atimeParser with desired intervals
-        e.g. interval_in__milliseconds=10000 creates intervals of 10seconds in that video
+        This is a constructor for the Time parser.
+        It initiates a TimeParser with desired intervals
+        e.g. interval_in__milliseconds=10000 creates intervals of 10 seconds in that video
         """
-        self.interval_in_milliseconds = Util().config["parser"]["milliseconds-interval"]
-        pass
+
+        self.interval_in_milliseconds = int(
+            Util().config["parser"]["milliseconds-interval"]
+            if isfile("config/config.yml")
+            else getenv("MILLISECONDS_INTERVAL")
+        )
 
     def get_related_intervals(self, start, end):
         """
@@ -32,7 +38,9 @@ class TimeParser:
         :return: list of intervals based on start  and end time passed
         """
         intervals = []
-        if end - start < self.interval_in_milliseconds:  # CASE: when appearance is within time interval
+        if (
+            end - start < self.interval_in_milliseconds
+        ):  # CASE: when appearance is within time interval
             intervals.append(int(start) - int(start) % self.interval_in_milliseconds)
         for i in range(int(start), int(end)):
             if i % self.interval_in_milliseconds == 0:
@@ -67,4 +75,4 @@ class TimeParser:
         :return:
         """
 
-        return str(time.strftime('%H:%M:%S', time.gmtime(seconds)))
+        return str(time.strftime("%H:%M:%S", time.gmtime(seconds)))

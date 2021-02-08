@@ -68,7 +68,7 @@ On Windows:
 
 ##### Run the project
 
-Make sure you add the required parameters to the [config.yml](config/config.yml)
+Make sure you add the required parameters to the [config.yml](src/config/config.yml)
 
 ```yaml
 # this is used when you want to parse files from storage account
@@ -106,13 +106,13 @@ Below is the architecture of the system we are using.
 1. Azure video indexer generates the JSON files and store them in the blob storage.
 1. AzureViSearchableContent module reads the files from theblob storage and after  parsing them, it uploads the records into the search index.
 
-![intervals](resources/architecture.png) 
+![intervals](src/resources/architecture.png) 
 
 So you can search you video by keywords, labels, sentiments, actors etc. and the result will be the HH:MM:SS where your search occurs.
 
 For instance if a video duration is **00:20:10** , using **10** seconds intervals, we will have **121** documents (each covering 10 seconds of the show).
 
-![intervals](resources/interval-index.png) 
+![intervals](src/resources/interval-index.png) 
 
 
 #### Client and Parser Usage
@@ -121,8 +121,8 @@ For instance if a video duration is **00:20:10** , using **10** seconds interval
 
 To read  the JSON files from the blob:
 
-- Make sure the [config.yml](config/config.yml) has required  values to connect to the storage account.
-- Run the [storage-client.py](client/storage-client.py) script
+- Make sure the [config.yml](src/config/config.yml) has required  values to connect to the storage account.
+- Run the [storage-client.py](src/client/storage-client.py) script
 
 This will read the data from a container into your local machine
 
@@ -130,13 +130,13 @@ This will read the data from a container into your local machine
 **2. Create/Upload data into Azure Search:**
 Now that you have the data in your local machine, you can create a search index and after parsing those data, upload them into the search index
 
-Run [search-client.py](client/search-client.py) which performs teh followings:
+Run [search-client.py](src/client/search-client.py) which performs teh followings:
 
-- Creates a search index (using [index-schema.json](client/index-schema.json) file) 
-- Reads JSON files from [files/blob-files](client/files/blob-files)
+- Creates a search index (using [index-schema.json](src/client/index-schema.json) file) 
+- Reads JSON files from [files/blob-files](src/client/files/blob-files)
 - Using Parser class parses each json file and creates list of created intervals
 - Upload the data into azure search index 
 
-**Note 1:** Every successful upload will be added to  [files/processed/ingested.txt](client/files/processed/ingested.txt) 
+**Note 1:** Every successful upload will be added to  [files/processed/ingested.txt](src/client/files/processed/ingested.txt) 
 
-**Note 2:** Every unsuccessful upload will be added to [files/processed/failed-to-ingest.txt](client/files/processed/failed-to-ingest.txt)
+**Note 2:** Every unsuccessful upload will be added to [files/processed/failed-to-ingest.txt](src/client/files/processed/failed-to-ingest.txt)

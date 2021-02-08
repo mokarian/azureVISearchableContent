@@ -1,14 +1,13 @@
 import json
-import os
 
-from os import listdir
-from os.path import isfile, join
+from os import listdir, getenv
+from os.path import isfile, exists, join
 
 from utils.util import Util
 
 
 class ClientAbstract(object):
-    config = Util().config
+    config = Util().config if exists("config/config.yml") else None
 
     @staticmethod
     def read_files_from_directory(path):
@@ -24,6 +23,9 @@ class ClientAbstract(object):
             print("could not read from the json file")
 
     def write_status_file(self, file, path):
-        full_path = os.path.join(self.config["files"]["processed-directory"], path)
-        with open(full_path, 'a') as f:
+        if self.config:
+            out_path = join(self.config["files"]["processed-directory"], path)
+        else:
+            out_path = join(getenv("FILE_PROCESSING_LOGS_DIR"), path)
+        with open(out_path, "a") as f:
             f.write(file + "\n")

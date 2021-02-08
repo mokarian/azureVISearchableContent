@@ -1,6 +1,6 @@
 import pytest
 
-from parser.timeparser import TimeParser
+from src.parser.timeparser import TimeParser
 from tests.testbase import TestBase
 from tests.utils import Utils
 
@@ -9,6 +9,7 @@ class TestTimeParser(TestBase):
     """
     This class contains unit tests for UsernameHelper class
     """
+
     time_parser = TimeParser()
     utils = Utils()
 

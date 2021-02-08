@@ -5,6 +5,7 @@ __pycache__/
 
 # Secrets
 *config.yml
+*.env
 
 # C extensions
 *.so

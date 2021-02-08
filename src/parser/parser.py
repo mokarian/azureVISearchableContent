@@ -26,15 +26,11 @@ class Parser:
             insights = video["insights"]
             intervals = self.create_intervals(video, show_name)
             if "transcript" in insights:
-                intervals = self.parse_transcript(
-                    insights["transcript"], intervals
-                )
+                intervals = self.parse_transcript(insights["transcript"], intervals)
             if "ocr" in insights:
                 intervals = self.parse_ocr(insights["ocr"], intervals)
             if "keywords" in insights:
-                intervals = self.parse_keywords(
-                    insights["keywords"], intervals
-                )
+                intervals = self.parse_keywords(insights["keywords"], intervals)
             if "topics" in insights:
                 intervals = self.parse_topics(insights["topics"], intervals)
             if "faces" in insights:
@@ -46,21 +42,15 @@ class Parser:
                     insights["namedLocations"], intervals
                 )
             if "namedPeople" in insights:
-                intervals = self.parse_named_people(
-                    insights["namedPeople"], intervals
-                )
+                intervals = self.parse_named_people(insights["namedPeople"], intervals)
             if "audioEffects" in insights:
                 intervals = self.parse_audio_effects(
                     insights["audioEffects"], intervals
                 )
             if "sentiments" in insights:
-                intervals = self.parse_sentiments(
-                    insights["sentiments"], intervals
-                )
+                intervals = self.parse_sentiments(insights["sentiments"], intervals)
             if "emotions" in insights:
-                intervals = self.parse_emotions(
-                    insights["emotions"], intervals
-                )
+                intervals = self.parse_emotions(insights["emotions"], intervals)
             if "visualContentModeration" in insights:
                 intervals = self.parse_visual_content_moderation(
                     insights["visualContentModeration"], intervals
@@ -86,17 +76,13 @@ class Parser:
         external_id = video["externalId"] if "externalId" in video else ""
         meta_data = video["metadata"] if "metadata" in video else ""
         duration_in_milliseconds = int(
-            self.time_parser.string_time_to_milliseconds(
-                video["insights"]["duration"]
-            )
+            self.time_parser.string_time_to_milliseconds(video["insights"]["duration"])
         )
         for i in range(0, duration_in_milliseconds):
             if i % self.time_parser.interval_in_milliseconds == 0:
                 start_time = self.time_parser.seconds_to_time_string(i / 1000)
                 end_time = (
-                    self.time_parser.seconds_to_time_string(
-                        duration_in_milliseconds
-                    )
+                    self.time_parser.seconds_to_time_string(duration_in_milliseconds)
                     if i + self.time_parser.interval_in_milliseconds
                     >= duration_in_milliseconds
                     else self.time_parser.seconds_to_time_string(
@@ -148,11 +134,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
 
                     assets = {
@@ -187,11 +171,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": ocr["id"],
@@ -228,11 +210,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": keyword["id"],
@@ -266,11 +246,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": topic["id"],
@@ -280,15 +258,9 @@ class Parser:
                         "referenceType": topic["referenceType"]
                         if "referenceType" in topic
                         else "",
-                        "iptcName": topic["iptcName"]
-                        if "iptcName" in topic
-                        else "",
-                        "iabName": topic["iabName"]
-                        if "iabName" in topic
-                        else "",
-                        "language": topic["language"]
-                        if "language" in topic
-                        else "",
+                        "iptcName": topic["iptcName"] if "iptcName" in topic else "",
+                        "iabName": topic["iabName"] if "iabName" in topic else "",
+                        "language": topic["language"] if "language" in topic else "",
                         "start": instance["start"],
                         "end": instance["end"],
                     }
@@ -318,11 +290,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": face["id"],
@@ -336,9 +306,7 @@ class Parser:
                         if "knownPersonId" in face
                         else "",
                         "title": face["title"] if "title" in face else "",
-                        "imageUrl": face["imageUrl"]
-                        if "imageUrl" in face
-                        else "",
+                        "imageUrl": face["imageUrl"] if "imageUrl" in face else "",
                         "thumbnailsIds": instance["thumbnailsIds"]
                         if "thumbnailsIds" in instance
                         else "",
@@ -358,18 +326,14 @@ class Parser:
                     for thumbnail in face["thumbnails"]:
                         thumbnail_url = thumbnail["fileName"]
                         for instance in thumbnail["instances"]:
-                            start = (
-                                self.time_parser.string_time_to_milliseconds(
-                                    instance["start"]
-                                )
+                            start = self.time_parser.string_time_to_milliseconds(
+                                instance["start"]
                             )
                             end = self.time_parser.string_time_to_milliseconds(
                                 instance["end"]
                             )
-                            occurred_intervals = (
-                                self.time_parser.get_related_intervals(
-                                    start, end
-                                )
+                            occurred_intervals = self.time_parser.get_related_intervals(
+                                start, end
                             )
                             assets = {
                                 "id": face["id"],
@@ -382,9 +346,7 @@ class Parser:
                                 "knownPersonId": face["knownPersonId"]
                                 if "knownPersonId" in face
                                 else "",
-                                "title": face["title"]
-                                if "title" in face
-                                else "",
+                                "title": face["title"] if "title" in face else "",
                                 "imageUrl": face["imageUrl"]
                                 if "imageUrl" in face
                                 else "",
@@ -417,20 +379,16 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": label["id"],
                         "referenceId": label["referenceId"]
                         if "referenceId" in label
                         else "",
-                        "language": label["language"]
-                        if "language" in label
-                        else "",
+                        "language": label["language"] if "language" in label else "",
                         "start": instance["start"],
                         "end": instance["end"],
                     }
@@ -455,19 +413,14 @@ class Parser:
         :return:
         """
         for namedLocation in named_locations:
-            if (
-                namedLocation["name"] != ""
-                and namedLocation["confidence"] > 0.5
-            ):
+            if namedLocation["name"] != "" and namedLocation["confidence"] > 0.5:
                 for instance in namedLocation["instances"]:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": namedLocation["id"],
@@ -512,11 +465,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": name["id"],
@@ -561,11 +512,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": audioEffect["id"],
@@ -592,19 +541,14 @@ class Parser:
         :return:
         """
         for sentiment in sentiments:
-            if (
-                sentiment["sentimentType"] != ""
-                and sentiment["averageScore"] > 0.5
-            ):
+            if sentiment["sentimentType"] != "" and sentiment["averageScore"] > 0.5:
                 for instance in sentiment["instances"]:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": sentiment["id"],
@@ -639,11 +583,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": emotion["id"],
@@ -671,15 +613,9 @@ class Parser:
         """
         for content in visual_contents:
             for instance in content["instances"]:
-                start = self.time_parser.string_time_to_milliseconds(
-                    instance["start"]
-                )
-                end = self.time_parser.string_time_to_milliseconds(
-                    instance["end"]
-                )
-                occurred_intervals = self.time_parser.get_related_intervals(
-                    start, end
-                )
+                start = self.time_parser.string_time_to_milliseconds(instance["start"])
+                end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                occurred_intervals = self.time_parser.get_related_intervals(start, end)
                 assets = {
                     "id": content["id"],
                     "start": instance["start"],
@@ -695,15 +631,9 @@ class Parser:
                     occurred_intervals, tuples, intervals
                 )
             for instance in content["instances"]:
-                start = self.time_parser.string_time_to_milliseconds(
-                    instance["start"]
-                )
-                end = self.time_parser.string_time_to_milliseconds(
-                    instance["end"]
-                )
-                occurred_intervals = self.time_parser.get_related_intervals(
-                    start, end
-                )
+                start = self.time_parser.string_time_to_milliseconds(instance["start"])
+                end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                occurred_intervals = self.time_parser.get_related_intervals(start, end)
                 assets = {
                     "id": content["id"],
                     "start": instance["start"],
@@ -734,11 +664,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": pattern["id"],
@@ -767,11 +695,9 @@ class Parser:
                     start = self.time_parser.string_time_to_milliseconds(
                         instance["start"]
                     )
-                    end = self.time_parser.string_time_to_milliseconds(
-                        instance["end"]
-                    )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    end = self.time_parser.string_time_to_milliseconds(instance["end"])
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = {
                         "id": brand["id"],
@@ -797,10 +723,7 @@ class Parser:
     def parse_custom_model(self, custom_model_json, intervals, model_property):
         for item in custom_model_json:
             for prediction in item["imagePrediction"]["predictions"]:
-                if (
-                    prediction["probability"] != ""
-                    and prediction["probability"] > 0.5
-                ):
+                if prediction["probability"] != "" and prediction["probability"] > 0.5:
                     start = self.time_parser.string_time_to_milliseconds(
                         item["thumbnailMetadata"]["starttime"]
                     )
@@ -812,8 +735,8 @@ class Parser:
                         end = self.time_parser.string_time_to_milliseconds(
                             item["thumbnailMetadata"]["starttime"]
                         )
-                    occurred_intervals = (
-                        self.time_parser.get_related_intervals(start, end)
+                    occurred_intervals = self.time_parser.get_related_intervals(
+                        start, end
                     )
                     assets = item["thumbnailMetadata"]
                     assets["probability"] = prediction["probability"]
