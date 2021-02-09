@@ -178,6 +178,16 @@ azure-vi-searchable-content:latest
 When using the command above, changes to your index schema will be used in a newly running
 container, without need to rebuild the image.
 
+This can be simplified further using a gitignored .env file (`.env-dev` is given as an example),
+running the image as follows:
+
+```bash
+docker run \
+--env-file "./.env" \
+-v "$(pwd)"/mount-files:/src/mount-files \
+azure-vi-searchable-content:latest
+```
+
 #### Architecture:
 Below is the architecture of the system we are using.
 1. Azure video indexer generates the JSON files and store them in the blob storage.
