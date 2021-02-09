@@ -1,7 +1,7 @@
 # Copy this to a file config.yml (which is gitignored) and enter your secrets
 storage:
   connection-string: "CONNECTION_STRING"
-  container: "SEARCH_INDEX_NAME"
+  container: "INSIGHTS_CONTAINER_NAME"
 
 search:
   service-name: "SEARCH_SERVICE_NAME"
