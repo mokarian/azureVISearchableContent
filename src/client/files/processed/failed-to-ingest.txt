@@ -1,0 +1,1 @@
+Insights files for which ingesting failed can be logged here.
