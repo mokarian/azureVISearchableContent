@@ -178,8 +178,8 @@ azure-vi-searchable-content:latest
 When using the command above, changes to your index schema will be used in a newly running
 container, without need to rebuild the image.
 
-This can be simplified further using a gitignored .env file (`.env-dev` is given as an example),
-running the image as follows:
+This can be simplified further using a gitignored .env file ([`.env-dev`](./.env-dev) is given as
+an example), running the image as follows:
 
 ```bash
 docker run \
