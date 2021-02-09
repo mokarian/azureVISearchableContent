@@ -1,1 +1,0 @@
-Insights files ingested successfully can be logged here.
