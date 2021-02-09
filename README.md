@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project reads [Azure Video indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
+This project reads [Azure Video Indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
 
 So you can make the following queries to the azure search index to find the right moments of a video:
 
@@ -181,7 +181,7 @@ container, without need to rebuild the image.
 #### Architecture:
 Below is the architecture of the system we are using.
 1. Azure video indexer generates the JSON files and store them in the blob storage.
-1. AzureViSearchableContent module reads the files from theblob storage and after  parsing them, it uploads the records into the search index.
+2. AzureViSearchableContent module reads the files from the blob storage and after parsing them, it uploads the records into the search index.
 
 ![intervals](src/resources/architecture.png) 
 
@@ -192,14 +192,14 @@ For instance if a video duration is **00:20:10** , using **10** seconds interval
 ![intervals](src/resources/interval-index.png) 
 
 
-#### Client and Parser Usage
+#### How it works - client and parser usage
 
 **1. Read data from the blob:**
 
 To read  the JSON files from the blob:
 
-- Make sure the [config.yml](src/config/config.yml) has required  values to connect to the storage account.
-- Run the [storage-client.py](src/client/storage-client.py) script
+- Make sure the [config.yml](src/config/config-dev.yml) has required values to connect to the storage account.
+- Run the [storage-client.py](src/client/storageClient.py) script
 
 This will read the data from a container into your local machine
 
@@ -207,13 +207,14 @@ This will read the data from a container into your local machine
 **2. Create/Upload data into Azure Search:**
 Now that you have the data in your local machine, you can create a search index and after parsing those data, upload them into the search index
 
-Run [search-client.py](src/client/search-client.py) which performs teh followings:
+Run [search-client.py](src/client/searchClient.py) which performs the following:
 
-- Creates a search index (using [index-schema.json](src/client/index-schema.json) file) 
-- Reads JSON files from [files/blob-files](src/client/files/blob-files)
+- Creates a search index using the file `index-schema.json` ([here](src/client/index-schema.json) 
+as standard and [here](mount-files/index-schema.json) for Docker volume mounting) 
+- Reads JSON files from `files/blob-files`
 - Using Parser class parses each json file and creates list of created intervals
 - Upload the data into azure search index 
 
-**Note 1:** Every successful upload will be added to  [files/processed/ingested.txt](src/client/files/processed/ingested.txt) 
+**Note 1:** By default (filename is configurable) every successful upload will be logged to  `<Your-specified-logs-directory>/ingested.txt` 
 
-**Note 2:** Every unsuccessful upload will be added to [files/processed/failed-to-ingest.txt](src/client/files/processed/failed-to-ingest.txt)
+**Note 2:** By default (filename is configurable) every unsuccessful upload will be logged to `<Your-specified-logs-directory>/failed-to-ingest.txt`
