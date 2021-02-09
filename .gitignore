@@ -8,6 +8,8 @@ __pycache__/
 *config-test.yml
 *.env
 **/logs/*.txt
+src/client/files/processed/failed-to-ingest.txt
+src/client/files/processed/ingested.txt
 
 # C extensions
 *.so
