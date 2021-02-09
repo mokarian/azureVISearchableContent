@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Secrets
+# Secrets and sensitive info
 *config.yml
+*config-test.yml
 *.env
+**/logs/*.txt
 
 # C extensions
 *.so

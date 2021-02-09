@@ -1,0 +1,516 @@
+{
+  "name": "searchindex",
+  "defaultScoringProfile": "",
+  "fields": [
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": true,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": true,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "analyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "accountId",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": true,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "analyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "externalId",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": true,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "analyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "metaData",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": true,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "analyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "name",
+      "type": "Edm.String",
+      "searchable": true,
+      "filterable": true,
+      "retrievable": true,
+      "sortable": true,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "startTime",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": false,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "endTime",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": false,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "key": false,
+      "indexAnalyzer": null,
+      "searchAnalyzer": null,
+      "synonymMaps": []
+    },
+    {
+      "name": "transcripts",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "transcript",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "ocrs",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "ocr",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "keywords",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "keyword",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "topics",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "topic",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "faces",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "face",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "thumbnails",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "thumbnail",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "labels",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "label",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "namedLocations",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "namedLocation",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "namedPeople",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "namedPerson",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "audioEffects",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "audioEffect",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "sentiments",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "sentimentType",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "emotions",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "emotion",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "adultScores",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "adultScore",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "racyScores",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "racyScore",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "framePatterns",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "framePattern",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+     {
+      "name": "brands",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "brand",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "assets",
+          "type": "Edm.String",
+          "searchable": false,
+          "filterable": false,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    },
+    {
+      "name": "customItems",
+      "type": "Collection(Edm.ComplexType)",
+      "fields": [
+        {
+          "name": "item",
+          "type": "Edm.String",
+          "filterable": true,
+          "retrievable": true,
+          "sortable": false,
+          "facetable": false,
+          "searchable": true
+        },
+        {
+          "name": "values",
+          "type": "Collection(Edm.String)",
+          "searchable": true,
+          "filterable": true,
+          "sortable": false,
+          "facetable": false,
+          "retrievable": true
+        }
+      ]
+    }
+  ],
+  "corsOptions": null,
+  "suggesters": [],
+  "analyzers": [
+  ],
+  "tokenizers": [],
+  "tokenFilters": [],
+  "charFilters": []
+}

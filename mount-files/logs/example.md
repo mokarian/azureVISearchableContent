@@ -1,0 +1,1 @@
+Logs will be written here if you mount this directory as a Docker volume.
