@@ -1,7 +1,7 @@
-## Transfer Azure Video indexer output to Searchable Content
+# Transfer Azure Video indexer output to Searchable Content
 
 
-#### Overview
+## Overview
 This project reads [Azure Video indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
 
 So you can make the following queries to the azure search index to find the right moments of a video:
@@ -41,11 +41,18 @@ So you can make the following queries to the azure search index to find the righ
 }
 ```
 
-#### Set Up and Run the project
+## Set up and run the project
 
-##### Set Up
+The project can be run like any other Python code, or packaged into a Docker image and run
+accordingly.
 
-**create your virtual environment**
+Below we detail both approaches.
+
+### General set up
+
+For both local development and running the code without Docker, you'll need to do the following.
+
+**Create a virtual environment**
 
 On Mac and linux:
 `python3 -m venv env`
@@ -66,9 +73,13 @@ On Windows:
 
 `pip install -r requirements.txt`
 
-##### Run the project
+### Run the project
 
-Make sure you add the required parameters to the [config.yml](src/config/config.yml)
+#### Standard - From YAML config
+
+Copy the contents of [`config-dev.yml`](src/config/config-dev.yml) to a new gitignored file 
+`config.yml`, and add the required details. NOTE: These include secrets and so should never be
+pushed to version control.
 
 ```yaml
 # this is used when you want to parse files from storage account
@@ -95,11 +106,77 @@ parser:
   milliseconds-interval: 10000
 ```
 
+Navigate into the `src` directory with `cd src`. 
+
 Now using command line you can run the scripts in two ways:
 
-1. process files from storage account: `python main.py`
-1. process files from local files: `python main.py local`
+1. Process insights files from your specified storage account and container: `python main.py`
+2. Process insights files from the local filesystem: `python main.py local`
 
+
+#### Alternative - Using Docker
+
+When using Docker, we build and run a Python image, passing in the config details as environment
+variables, and have the option of mounting our index schema and any other files needed from the 
+host (local machine).
+
+First [ensure you have Docker installed and working](https://docs.docker.com/get-docker/).
+
+As your `config.yml` will not be configurable once an image is built, remove it if created, or just 
+leave the repo in its original state. With only `config-dev.yml`, the code will rely upon relevant
+environment variables passed in at runtime to determine how it should run.
+
+From the root of the repository, build the docker image using:
+
+```bash
+docker -t azure-vi-searchable-content .
+```
+
+See the [`Dockerfile`](Dockerfile) for details on how the image is constructed.
+
+To run the image successfully, we need to pass in environment variables as follows:
+
+```bash
+docker run \
+-e INSIGHTS_CONTAINER_NAME="YOUR INSIGHTS CONTAINER NAME" \                                                                                                                                                                                                   ✹
+-e SEARCH_SERVICE_NAME="YOUR SEARCH SERVICE NAME" \
+-e SEARCH_API_VERSION="2020-06-30" \
+-e SEARCH_API_KEY="YOUR SEARCH API KEY" \
+-e SEARCH_INDEX_NAME="YOUR DESIRED SEARCH INDEX NAME" \
+-e INDEX_SCHEMA_PATH="client/index-schema.json" \
+-e VI_OUTPUT_DIRECTORY="client/files/vi-files" \
+-e FILE_PROCESSING_LOGS_DIR="client/files/processed" \
+-e INGEST_LOG_FILENAME="ingested.txt" \
+-e INGEST_FAILURE_LOG_FILENAME="failed-to-ingest.txt" \
+-e MILLISECONDS_INTERVAL=10000 \
+-e STORAGE_CONNECTION_STRING="YOUR CONNECTION STRING" \
+azure-vi-searchable-content:latest
+```
+
+Note that this will still retrieve your search index schema and write log files to inside the
+container. This can be undesirable, so we can make all these configurable on the host machine by
+volume mounting the `mount-files` directory, and managing the files there.
+
+```bash
+docker run \
+-e INSIGHTS_CONTAINER_NAME="YOUR INSIGHTS CONTAINER NAME" \                                                                                                                                                                                                   ✹
+-e SEARCH_SERVICE_NAME="YOUR SEARCH SERVICE NAME" \
+-e SEARCH_API_VERSION="2020-06-30" \
+-e SEARCH_API_KEY="YOUR SEARCH API KEY" \
+-e SEARCH_INDEX_NAME="YOUR DESIRED SEARCH INDEX NAME" \
+-e INDEX_SCHEMA_PATH="mount-files/index-schema.json" \
+-e VI_OUTPUT_DIRECTORY="mount-files/logs" \
+-e FILE_PROCESSING_LOGS_DIR="mount-files/logs" \
+-e INGEST_LOG_FILENAME="ingested.txt" \
+-e INGEST_FAILURE_LOG_FILENAME="failed-to-ingest.txt" \
+-e MILLISECONDS_INTERVAL=10000 \
+-e STORAGE_CONNECTION_STRING="YOUR CONNECTION STRING" \
+-v "$(pwd)"/mount-files:/src/mount-files \
+azure-vi-searchable-content:latest
+```
+
+When using the command above, changes to your index schema will be used in a newly running
+container, without need to rebuild the image.
 
 #### Architecture:
 Below is the architecture of the system we are using.
