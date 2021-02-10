@@ -8,5 +8,8 @@ class TestBase:
         """
         asserts the equality of two objects
         """
-        assert actual == expected, \
-            "Expected to have result equal to '{}', but received:'{}'".format(expected, actual)
+        assert (
+            actual == expected
+        ), "Expected to have result equal to '{}', but received:'{}'".format(
+            expected, actual
+        )

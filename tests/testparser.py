@@ -1,4 +1,4 @@
-from parser.parser import Parser
+from src.parser import Parser
 from tests.testbase import TestBase
 from tests.utils import Utils
 
@@ -7,6 +7,7 @@ class TestParser(TestBase):
     """
     This class contains unit tests for UsernameHelper class
     """
+
     parser = Parser()
     utils = Utils()
 
@@ -20,21 +21,35 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.create_intervals(video, "FOO")
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals.json", True))
+        self.assert_equals(
+            actual, self.utils.read_json_from_resources("intervals.json", True)
+        )
 
     def test_insert_items_to_intervals(self):
         """
         test_alphanum_split for this pattern: "alpha_number_alpha".
         """
         # GIVEN
-        expected = {0: {"bar_0": {}, "bar_2": [{"FOO": "BAZ"}]}, 10000: {"bar_1": {}, "bar_2": [{"FOO": "BAZ"}]},
-                    200000: {"bar_2": {}}, 30000: {"bar_3": {}}, 40000: {"bar_4": {}}}
+        expected = {
+            0: {"bar_0": {}, "bar_2": [{"FOO": "BAZ"}]},
+            10000: {"bar_1": {}, "bar_2": [{"FOO": "BAZ"}]},
+            200000: {"bar_2": {}},
+            30000: {"bar_3": {}},
+            40000: {"bar_4": {}},
+        }
         occurred_intervals = [0, 10000]
         item_tuple = ("bar_2", {"FOO": "BAZ"})
-        intervals = {0: {"bar_0": {}}, 10000: {"bar_1": {}}, 200000: {"bar_2": {}}, 30000: {"bar_3": {}},
-                     40000: {"bar_4": {}}}
+        intervals = {
+            0: {"bar_0": {}},
+            10000: {"bar_1": {}},
+            200000: {"bar_2": {}},
+            30000: {"bar_3": {}},
+            40000: {"bar_4": {}},
+        }
         # WHEN
-        actual = self.parser.insert_items_to_intervals(occurred_intervals, item_tuple, intervals)
+        actual = self.parser.insert_items_to_intervals(
+            occurred_intervals, item_tuple, intervals
+        )
         # THEN
         self.assert_equals(actual, expected)
 
@@ -46,7 +61,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_transcript(transcript, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-transcript.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-transcript.json", True),
+        )
 
     def test_parse_ocr(self):
         # GIVEN
@@ -56,7 +74,9 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_ocr(ocr, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-ocr.json", True))
+        self.assert_equals(
+            actual, self.utils.read_json_from_resources("intervals-with-ocr.json", True)
+        )
 
     def test_parse_keywords(self):
         # GIVEN
@@ -66,7 +86,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_keywords(keyword, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-keyword.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-keyword.json", True),
+        )
 
     def test_parse_topics(self):
         # GIVEN
@@ -76,7 +99,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_topics(topics, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-topics.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-topics.json", True),
+        )
 
     def test_parse_faces(self):
         # GIVEN
@@ -86,7 +112,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_faces(faces, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-faces.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-faces.json", True),
+        )
 
     def test_parse_labels(self):
         # GIVEN
@@ -96,7 +125,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_labels(labels, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-labels.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-labels.json", True),
+        )
 
     def test_parse_named_locations(self):
         # GIVEN
@@ -106,7 +138,12 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_named_locations(named_locations, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-named-locations.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources(
+                "intervals-with-named-locations.json", True
+            ),
+        )
 
     def test_parse_named_people(self):
         # GIVEN
@@ -116,7 +153,12 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_named_people(named_people, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-named-people.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources(
+                "intervals-with-named-people.json", True
+            ),
+        )
 
     def test_parse_audio_effects(self):
         # GIVEN
@@ -126,7 +168,12 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_audio_effects(audio_effects, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-audio-effects.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources(
+                "intervals-with-audio-effects.json", True
+            ),
+        )
 
     def test_parse_sentiments(self):
         # GIVEN
@@ -136,7 +183,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_sentiments(sentiments, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-sentiments.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-sentiments.json", True),
+        )
 
     def test_parse_emotions(self):
         # GIVEN
@@ -146,7 +196,10 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_emotions(emotions, intervals)
         # THEN
-        self.assert_equals(actual, self.utils.read_json_from_resources("intervals-with-emotions.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources("intervals-with-emotions.json", True),
+        )
 
     def test_parse_visual_content_moderation(self):
         # GIVEN
@@ -156,8 +209,12 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_visual_content_moderation(vcm, intervals)
         # THEN
-        self.assert_equals(actual,
-                           self.utils.read_json_from_resources("intervals-with-visual-content-moderation.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources(
+                "intervals-with-visual-content-moderation.json", True
+            ),
+        )
 
     def test_parse_frame_patterns(self):
         # GIVEN
@@ -167,5 +224,9 @@ class TestParser(TestBase):
         # WHEN
         actual = self.parser.parse_frame_patterns(frame_patterns, intervals)
         # THEN
-        self.assert_equals(actual,
-                           self.utils.read_json_from_resources("intervals-with-frame-patterns.json", True))
+        self.assert_equals(
+            actual,
+            self.utils.read_json_from_resources(
+                "intervals-with-frame-patterns.json", True
+            ),
+        )

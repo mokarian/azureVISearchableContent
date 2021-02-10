@@ -7,20 +7,40 @@ from client.clientabstract import ClientAbstract
 
 class StorageClient(ClientAbstract):
     def __init__(self):
-        self.blob_service_client = BlobServiceClient.from_connection_string(self.config["storage"]["connection-string"])
-        self.container_client = self.blob_service_client.get_container_client(self.config["storage"]["container"])
+
+        connection_string = (
+            self.config["storage"]["connection-string"]
+            if self.config
+            else os.getenv("STORAGE_CONNECTION_STRING")
+        )
+        insights_container_name = (
+            self.config["storage"]["container"]
+            if self.config
+            else os.getenv("INSIGHTS_CONTAINER_NAME")
+        )
+
+        self.blob_service_client = BlobServiceClient.from_connection_string(
+            connection_string
+        )
+        self.container_client = self.blob_service_client.get_container_client(
+            insights_container_name
+        )
 
     def read_files_from_container_to_local(self):
+        # TODO: this function is not used except for manual testing in the main function of this file. Refactor.
         blob_list = self.container_client.list_blobs()
 
         for blob in blob_list:
 
-            download_file_path = os.path.join(self.config["files"]["download-blob-directory"], blob.name)
+            download_file_path = os.path.join(
+                self.config["files"]["download-blob-directory"], blob.name
+            )
             if not os.path.exists(download_file_path):
                 print("\nDownloading blob to \n\t" + download_file_path)
 
                 blob_client = self.blob_service_client.get_blob_client(
-                    container=self.config["storage"]["container"], blob=blob.name)
+                    container=self.config["storage"]["container"], blob=blob.name
+                )
 
                 with open(download_file_path, "wb") as my_blob:
                     my_blob.writelines([blob_client.download_blob().readall()])
@@ -31,9 +51,7 @@ class StorageClient(ClientAbstract):
         :param container:
         :return:
         """
-        container_client = self.blob_service_client.get_container_client(
-            container
-        )
+        container_client = self.blob_service_client.get_container_client(container)
         return container_client.list_blobs(name_starts_with=name_starts_with)
 
     def get_blob_string(self, container, blob):
