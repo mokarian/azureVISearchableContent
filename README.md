@@ -1,7 +1,16 @@
-# Transfer Azure Video indexer output to Searchable Content
+---
+page_type: sample
+ms.custom:
+- team=cse
+ms.contributors:
+- mamokari-01/21/2022, pghosh-01/15/2021
+languages:
+- python
+products:
+- Azure Video Indexer
+- Azure Search
+---
 
-
-## Overview
 This project reads [Azure Video Indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
 
 So you can make the following queries to the azure search index to find the right moments of a video:
@@ -32,7 +41,36 @@ So you can make the following queries to the azure search index to find the righ
 }
 ```
 
-## Set up and run the project
+## Problem Summary
+
+With the vast growth and progress of multimedia the Internet, particularly videos, text-based retrieval search engines plays an important role on searchability of videos.
+ 
+With Azure Video Analyzer, developers can quickly build an AI-powered video analytics solution to extract actionable insights from videos, whether stored or streaming. Organizations can enhance workplace safety, in-store experiences, digital asset management, media archives, and more by understanding audio and visual video content without video nor ML expertise.
+
+Azure Video Analyzer produces one flat json file of a provided video that covers a full video duration. How we can come up with a search index schema which is capable of retrieving data that is most relevant to a moment of a video?
+ 
+
+## Solution Summary
+
+Azure In this repository we are processing the output of the Video Analyzer into moments (n seconds) where each moment covers n seconds of a video. We create a Search index having all the features extracted from the Video Analyzer and we upload the extracted moments into the search index. Finally, providing a search query, we can retrieve the related moments of a video from the Azure Search Index. 
+The Search index has flexibility of having more fields to accommodate custom features (e.g., features not existing in Azure Video Analyzer and created for that custom usage). 
+
+
+## Products/Technologies/Languages Used
+
+- Products & Technologies:
+  - Azure Video analyzer
+  - Azure Search
+  - Azure Storage Account (optional)
+  - Docker (Optional)
+- Languages:
+  - Python
+
+## Architecture (Optional)
+
+- In [this documentation page](Architecture.md) you may find the architecture of the Azure Video Indexer Searchable moments.
+
+## Getting Started
 
 The project can be run like any other Python code, or packaged into a Docker image and run
 accordingly.
@@ -179,20 +217,6 @@ docker run \
 azure-vi-searchable-content:latest
 ```
 
-#### Architecture:
-Below is the architecture of the system we are using.
-1. Azure video indexer generates the JSON files and store them in the blob storage.
-2. AzureViSearchableContent module reads the files from the blob storage and after parsing them, it uploads the records into the search index.
-
-![intervals](src/resources/architecture.png) 
-
-So you can search you video by keywords, labels, sentiments, actors etc. and the result will be the HH:MM:SS where your search occurs.
-
-For instance if a video duration is **00:20:10** , using **10** seconds intervals, we will have **121** documents (each covering 10 seconds of the show).
-
-![intervals](src/resources/interval-index.png) 
-
-
 #### How it works - client and parser usage
 
 **1. Read data from the blob:**
@@ -219,3 +243,8 @@ as standard and [here](mount-files/index-schema.json) for Docker volume mounting
 **Note 1:** By default (filename is configurable) every successful upload will be logged to  `<Your-specified-logs-directory>/ingested.txt` 
 
 **Note 2:** By default (filename is configurable) every unsuccessful upload will be logged to `<Your-specified-logs-directory>/failed-to-ingest.txt`
+
+## Related resources
+
+- [Azure Video Analyzer](https://azure.microsoft.com/en-us/products/video-analyzer/)
+- [Create Azure Search Index](https://docs.microsoft.com/en-us/rest/api/searchservice/create-index)
