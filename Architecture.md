@@ -5,12 +5,12 @@ Here is the system sequence diagram of the Azure Video Indexer Searchable moment
 
 ![intervals](src/resources/sequence-diagram.png)
 
-## Create our search index:
+## Create Search Index:
 
 We should have a search index that supports all video indexer features. Depending on our use case, we may need to add additional fields to our search index to accommodate those custom features not provided by the Azure Video Indexer.
 We will be using [index-schema.json](src/client/index-schema.json) file to create a search index.
 
-## Parse video indexer output to moments:
+## Parse Video Indexer Output to Moments:
 
 Video Indexer process shows and generates one JOSN file per video. First, we need to store those json files into a container in our azure storage account.
 
