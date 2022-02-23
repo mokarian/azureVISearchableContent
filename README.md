@@ -10,12 +10,11 @@ products:
 - Azure Video Indexer
 - Azure Search
 ---
-
 This project reads [Azure Video Indexer](https://azure.microsoft.com/en-in/services/media-services/video-indexer/) output file (JSON format) into small  chunks of searchable content.
 
 So you can make the following queries to the azure search index to find the right moments of a video:
 
-- _"Find the moments where '**Jennifer Aniston**' in Friends TV show is happy"_ 
+- _"Find the moments where '**Jennifer Aniston**' in Friends TV show is happy"_
 
 ```json
 {
@@ -26,13 +25,16 @@ So you can make the following queries to the azure search index to find the righ
 ```
 
 - _"Find the moments in any show where the transcript is '**getting old**'"_
+
 ```json
 {
   "search": "getting old",
   "searchFields": "transcripts/transcript"
 }
 ```
+
 - _"Find the moments in Friends show where '**Jean Claude**' Appears_"
+
 ```json
 {  
   "search": "Jean Claude",
@@ -44,17 +46,15 @@ So you can make the following queries to the azure search index to find the righ
 ## Problem Summary
 
 With the vast growth and progress of multimedia the Internet, particularly videos, text-based retrieval search engines plays an important role on searchability of videos.
- 
+
 With Azure Video Analyzer, developers can quickly build an AI-powered video analytics solution to extract actionable insights from videos, whether stored or streaming. Organizations can enhance workplace safety, in-store experiences, digital asset management, media archives, and more by understanding audio and visual video content without video nor ML expertise.
 
 Azure Video Analyzer produces one flat json file of a provided video that covers a full video duration. How we can come up with a search index schema which is capable of retrieving data that is most relevant to a moment of a video?
- 
 
 ## Solution Summary
 
-Azure In this repository we are processing the output of the Video Analyzer into moments (n seconds) where each moment covers n seconds of a video. We create a Search index having all the features extracted from the Video Analyzer and we upload the extracted moments into the search index. Finally, providing a search query, we can retrieve the related moments of a video from the Azure Search Index. 
-The Search index has flexibility of having more fields to accommodate custom features (e.g., features not existing in Azure Video Analyzer and created for that custom usage). 
-
+Azure In this repository we are processing the output of the Video Analyzer into moments (n seconds) where each moment covers n seconds of a video. We create a Search index having all the features extracted from the Video Analyzer and we upload the extracted moments into the search index. Finally, providing a search query, we can retrieve the related moments of a video from the Azure Search Index.
+The Search index has flexibility of having more fields to accommodate custom features (e.g., features not existing in Azure Video Analyzer and created for that custom usage).
 
 ## Products/Technologies/Languages Used
 
@@ -66,7 +66,7 @@ The Search index has flexibility of having more fields to accommodate custom fea
 - Languages:
   - Python
 
-## Architecture (Optional)
+## Architecture
 
 - In [this documentation page](Architecture.md) you may find the architecture of the Azure Video Indexer Searchable moments.
 
@@ -106,7 +106,7 @@ On Windows:
 
 #### Standard - From YAML config
 
-Copy the contents of [`config-dev.yml`](src/config/config-dev.yml) to a new gitignored file 
+Copy the contents of [`config-dev.yml`](src/config/config-dev.yml) to a new gitignored file
 `config.yml`, and add the required details. NOTE: These include secrets and so should never be
 pushed to version control.
 
@@ -135,23 +135,22 @@ parser:
   milliseconds-interval: 10000
 ```
 
-Navigate into the `src` directory with `cd src`. 
+Navigate into the `src` directory with `cd src`.
 
 Now using command line you can run the scripts in two ways:
 
 1. Process insights files from your specified storage account and container: `python main.py`
 2. Process insights files from the local filesystem: `python main.py local`
 
-
 #### Alternative - Using Docker
 
 When using Docker, we build and run a Python image, passing in the config details as environment
-variables, and have the option of mounting our index schema and any other files needed from the 
+variables, and have the option of mounting our index schema and any other files needed from the
 host (local machine).
 
 First [ensure you have Docker installed and working](https://docs.docker.com/get-docker/).
 
-As your `config.yml` will not be configurable once an image is built, remove it if created, or just 
+As your `config.yml` will not be configurable once an image is built, remove it if created, or just
 leave the repo in its original state. With only `config-dev.yml`, the code will rely upon relevant
 environment variables passed in at runtime to determine how it should run.
 
@@ -228,19 +227,18 @@ To read  the JSON files from the blob:
 
 This will read the data from a container into your local machine
 
-
 **2. Create/Upload data into Azure Search:**
 Now that you have the data in your local machine, you can create a search index and after parsing those data, upload them into the search index
 
 Run [search-client.py](src/client/searchClient.py) which performs the following:
 
-- Creates a search index using the file `index-schema.json` ([here](src/client/index-schema.json) 
-as standard and [here](mount-files/index-schema.json) for Docker volume mounting) 
+- Creates a search index using the file `index-schema.json` ([here](src/client/index-schema.json)
+  as standard and [here](mount-files/index-schema.json) for Docker volume mounting)
 - Reads JSON files from `files/blob-files`
 - Using Parser class parses each json file and creates list of created intervals
-- Upload the data into azure search index 
+- Upload the data into azure search index
 
-**Note 1:** By default (filename is configurable) every successful upload will be logged to  `<Your-specified-logs-directory>/ingested.txt` 
+**Note 1:** By default (filename is configurable) every successful upload will be logged to  `<Your-specified-logs-directory>/ingested.txt`
 
 **Note 2:** By default (filename is configurable) every unsuccessful upload will be logged to `<Your-specified-logs-directory>/failed-to-ingest.txt`
 

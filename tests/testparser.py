@@ -1,3 +1,8 @@
+__author__ = 'Maysam Mokarian'
+__email__ = "mamokari@microsoft.com"
+__license__ = "MIT"
+__version__ = "February 2022"
+
 from src.parser import Parser
 from tests.testbase import TestBase
 from tests.utils import Utils

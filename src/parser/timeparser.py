@@ -1,3 +1,8 @@
+__author__ = 'Maysam Mokarian'
+__email__ = "mamokari@microsoft.com"
+__license__ = "MIT"
+__version__ = "February 2022"
+
 import time
 from os.path import isfile
 from os import getenv
