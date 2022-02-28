@@ -1,4 +1,4 @@
-__author__ = 'Maysam Mokarian'
+__author__ = "Maysam Mokarian"
 __email__ = "mamokari@microsoft.com"
 __license__ = "MIT"
 __version__ = "February 2022"
